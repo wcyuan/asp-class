@@ -26,3 +26,54 @@ def DFT(x):
         X (numpy array) = The N point DFT of the input sequence x
     """
     ## Your code here
+
+    N = x.size
+    points = np.empty((N, N), dtype=np.complex128)
+    for n in xrange(N):
+        points[n] = n * np.arange(N)
+    arg = 2 * np.pi * points / N
+    bases = np.cos(arg) - 1j * np.sin(arg)
+    return np.dot(bases, x)
+
+def DFT2(x):
+    """
+    Input:
+        x (numpy array) = input sequence of length N
+    Output:
+        The function should return a numpy array of length N
+        X (numpy array) = The N point DFT of the input sequence x
+    """
+    ## Your code here
+
+    # This version is slower, it doesn't take full advantage of
+    # numpy's vectorized operations
+
+    N = x.size
+    arr = np.empty(N, dtype=np.complex128)
+    print x
+    for k in xrange(N):
+        basis = genComplexSine(k, N)
+        arr[k] = np.dot(x, basis)
+    return arr
+
+def get_points(N):
+    points = np.empty((N, N))
+    for n in xrange(N):
+        points[n] = (n+1) * np.arange(N)
+    return points
+
+
+def genComplexSine(k, N):
+    """
+    Inputs:
+        k (integer) = frequency index of the complex sinusoid of the DFT
+        N (integer) = length of complex sinusoid in samples
+    Output:
+        The function should return a numpy array
+        cSine (numpy array) = The generated complex sinusoid (length N)
+    """
+    ## Your code here
+    samples = np.arange(N)
+    arg = 2 * np.pi * k * samples / N
+    print arg
+    return np.cos(arg) - 1j * np.sin(arg)
