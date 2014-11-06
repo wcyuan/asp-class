@@ -22,4 +22,22 @@ def genMagSpec(x):
                              (length N)
     """
     ## Your code here
+    return np.abs(DFT(x))
     
+def DFT(x):
+    """
+    Input:
+        x (numpy array) = input sequence of length N
+    Output:
+        The function should return a numpy array of length N
+        X (numpy array) = The N point DFT of the input sequence x
+    """
+    ## Your code here
+
+    N = x.size
+    points = np.empty((N, N), dtype=np.complex128)
+    for n in xrange(N):
+        points[n] = n * np.arange(N)
+    arg = 2 * np.pi * points / N
+    bases = np.cos(arg) - 1j * np.sin(arg)
+    return np.dot(bases, x)
