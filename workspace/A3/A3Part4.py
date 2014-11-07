@@ -67,14 +67,27 @@ def suppressFreqDFTmodel(x, fs, N):
     # compute the inverse dft of the spectrum
     y = dftSynth(mX, pX, w.size)*outputScaleFactor
 
-    mXfilt = mX
-    cutoff = np.ceil(N * 70 / fs)
-    mXfilt[:cutoff+1] = -120
 
-    #print mXfilt
+    # Now, suppress any buckets representing 70Hz or less (including
+    # the bucket just above 70Hz)
+    #
+    # How do you find the bucket for 70Hz?
+    #
+    # There are N buckets that span the frequency range from 0 to fs.
+    #
+    # (actually, mX only has N/2 buckets for a fs/2 frequency range
+    # because it's symmetric and mX only has the positive part.  For
+    # N=1024, fs=10000, mX has 513 buckets.)
+    #
+    # So each bucket covers a range of fs / N frequency.  So the
+    # bucket that contains 70Hz is 70 * N / fs.  Since we want to zero
+    # out everything starting with the bucket just above this, we do
+    # np.ceil.
+    cutoff = np.ceil(N * 70 / fs)
+    mX[:cutoff+1] = -120
 
     # compute the inverse dft of the filtered spectrum
-    yfilt = dftSynth(mXfilt, pX, w.size)*outputScaleFactor
+    yfilt = dftSynth(mX, pX, w.size)*outputScaleFactor
 
     return (y, yfilt)
 
