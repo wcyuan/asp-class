@@ -44,3 +44,15 @@ def minimizeEnergySpreadDFT(x, fs, f1, f2):
                            mX is (M/2)+1 samples long (M is to be computed)
     """
     ## Your code here
+
+    # M = the smallest number of samples where you'll get a complete wave
+    M = fs / gcd(f1,f2)
+    X = fft(x[:M])
+
+    # Take abs to get the magnitude spectrum
+    absX = abs(X[:M/2+1])
+    # Convert to dB
+    mX = 20*np.log10(absX)
+    return mX
+
+
