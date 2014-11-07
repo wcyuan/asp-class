@@ -47,3 +47,19 @@ def extractMainLobe(window, M):
     """
 
     ### Your code here
+
+    w = get_window(window, M)
+    W = fft(w, 8*M)
+
+    # Get the magnitude spectrum
+    epsilon = 1e-10 # to avoid taking the log of zero
+    mX = 20*np.log10(abs(W+epsilon))
+
+    idx = (mX[1:] - mX[:-1] > 0).nonzero()[0][0]
+
+    # center it
+    ret = np.zeros(2*idx+1)
+    ret[:idx] = mX[-idx:]
+    ret[idx:] = mX[:idx+1]
+
+    return ret
