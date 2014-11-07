@@ -46,6 +46,17 @@ def minimizeEnergySpreadDFT(x, fs, f1, f2):
     ## Your code here
 
     # M = the smallest number of samples where you'll get a complete wave
+    # How many samples do you need to get a complete wave for a 200 Hz wave?
+    # If you are sampling at 10000 Hz?
+    #
+    # Each sample is 1/10000 seconds.  You need 1/200 seconds to get a wave.
+    # So you need 1/200 / 1/10000 = 10000/200 = 50 samples.
+    #
+    # And you need 10000/80 = 125 samples for a 80 Hz wave.
+    #
+    # So if you want an integer number of waves for both, you need to
+    # find the LCM of 125 and 50, which is 250.  Or you can find the
+    # GCD of 80 and 200.
     M = fs / gcd(f1,f2)
     X = fft(x[:M])
 
