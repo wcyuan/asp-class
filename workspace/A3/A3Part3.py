@@ -42,3 +42,32 @@ def testRealEven(x):
         X (numpy array, possibly complex) = The M point DFT of dftbuffer 
     """
     ## Your code here
+    M = x.size
+    # No zero padding
+    #WS = 1
+    #while WS < M:
+    #    WS *= 2
+    WS = M
+    hMc = int(math.floor((M+1)/2))
+    hMf = int(math.floor(M/2))
+    #print hMf
+    #print hMc
+    dftbuffer = np.zeros(WS)
+    dftbuffer[:hMc] = x[hMf:M]
+    dftbuffer[WS-hMf:] = x[:hMf]
+    X = fft(dftbuffer)
+    mX = np.abs(X)
+
+    #print np.angle(X)
+    #print mX
+
+    epsilon = 1e-6
+    imagzero = all(np.imag(X) < epsilon)
+
+    #print mX[1:hMc]
+    #print mX[hMc:][::-1]
+    withoutfirst = mX[1:]
+    #iseven = all(abs(mX[1:hMc] - mX[hMc:][::-1]) < epsilon)
+    iseven = all(abs(withoutfirst - withoutfirst[::-1]) < epsilon)
+    return ((imagzero and iseven), dftbuffer, X)
+
