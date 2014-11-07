@@ -44,3 +44,38 @@ def optimalZeropad(x, fs, f):
                         x appropriately (zero-padding length to be computed). mX is (M/2)+1 samples long
     """
     ## Your code here
+
+    # If you sample at 1000 Hz, how many samples do you need for a 100
+    # Hz wave?  Each sample is 1/1000s, and we have a wave ever
+    # 1/100s, so we need 10 samples.
+    T = fs / f
+
+    # Now we have to find the first multiple of M that is greater than
+    # W (the size of the input)
+    M = T
+    while M < x.size:
+        M += T
+
+    print M
+
+    # Zero padding, centered around 0
+    arr = np.zeros(M)
+    #WS = T
+    WS = x.size
+    import math
+    WSf = math.floor(WS/2.0)
+    WSc = math.ceil(WS/2.0)
+    #print WSf
+    #print WSc
+    arr[:WSf] = x[WSc:WS]
+    arr[M-WSc:] = x[:WSc]
+
+    #print x
+    #print arr
+
+    X = fft(arr)
+
+    #print abs(X[:(M/2)+1])
+
+    return 20*np.log10(abs(X[:(M/2)+1]))
+
