@@ -51,4 +51,30 @@ def suppressFreqDFTmodel(x, fs, N):
     M = len(x)
     w = get_window('hamming', M)
     outputScaleFactor = sum(w)
+
     ## Your code here
+
+    # get a fragment of the input sound of size M
+    sample = 0
+    if (sample+M > x.size or sample < 0):
+        # raise error if time outside of sound
+        raise ValueError("Time outside sound boundaries")
+    x1 = x[sample:sample+M]
+
+    # compute the dft of the sound fragment
+    mX, pX = dftAnal(x1, w, N)
+
+    # compute the inverse dft of the spectrum
+    y = dftSynth(mX, pX, w.size)*outputScaleFactor
+
+    mXfilt = mX
+    cutoff = np.ceil(N * 70 / fs)
+    mXfilt[:cutoff+1] = -120
+
+    #print mXfilt
+
+    # compute the inverse dft of the filtered spectrum
+    yfilt = dftSynth(mXfilt, pX, w.size)*outputScaleFactor
+
+    return (y, yfilt)
+
