@@ -59,4 +59,25 @@ def zpFFTsizeExpt(x, fs):
     xseg = x[:M]
     w1 = get_window('hamming',M)
     w2 = get_window('hamming',2*M)
+
     ## Your code here 
+    mX1, pX1 = dftAnal(xseg, w1, M)
+    mX2, pX2 = dftAnal(x, w2, len(x))
+    mX3, pX3 = dftAnal(xseg, w1, len(x))
+
+    return (mX1[:80], mX2[:80], mX3[:80])
+
+def plot_cases(x, fs):
+    from pylab import plot, legend
+
+    mX1, mX2, mX3 = zpFFTsizeExpt(x, fs)
+
+    freq1 = np.arange(80) * fs / (len(x)/2)
+    freq2 = np.arange(80) * fs / len(x)
+    freq3 = np.arange(80) * fs / len(x)
+
+    plot(freq1, mX1)
+    plot(freq2, mX2)
+    plot(freq3, mX3)
+    legend(("mX1", "mX2", "mX3"))
+
