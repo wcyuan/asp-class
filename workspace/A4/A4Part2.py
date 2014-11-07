@@ -52,3 +52,13 @@ def computeSNR(inputFile, window, M, N, H):
             SNR1 and SNR2 are floats.
     """
     ## your code here
+
+    fs, x = UF.readwav(inputFile)
+    y1 = stft(x, fs, get_window(window, M), N, H)
+    y2 = stft(x[M:-M], fs, get_window(window, M), N, H)
+
+def snr(esig, enoise):
+    return 10 * np.log10(esig / enoise)
+
+#def energy(x):
+#    

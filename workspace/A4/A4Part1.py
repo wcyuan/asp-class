@@ -49,11 +49,25 @@ def extractMainLobe(window, M):
     ### Your code here
 
     w = get_window(window, M)
-    W = fft(w, 8*M)
+    hM1 = int(math.floor((M+1)/2))
+    hM2 = int(math.floor((M)/2))
+
+    N = 8*M
+    fftbuffer = np.zeros(N)
+    fftbuffer[:hM1] = w[hM2:]
+    fftbuffer[N-hM2:] = w[:hM2]
+
+    X = fft(fftbuffer)
+    absX = abs(X)
+
+    # to avoid taking the log of zero
+    epsilon = np.finfo(float).eps
+    absX[absX<epsilon] = epsilon
 
     # Get the magnitude spectrum
-    epsilon = 1e-10 # to avoid taking the log of zero
-    mX = 20*np.log10(abs(W+epsilon))
+    mX = 20*np.log10(absX)
+    pX = np.angle(X)
+
 
     idx = (mX[1:] - mX[:-1] > 0).nonzero()[0][0]
 
