@@ -63,14 +63,16 @@ def minFreqEstErr(inputFile, f):
 
     for M in xrange(1000):
         fftsize = min_power_2(M)
-        x[int(start_sample-M/2):int(start_sample+M/2)]
-        DFT.dftAnal()
+        x1 = x[int(start_sample-M/2):int(start_sample+M/2)]
+        w = get_window(window, M)
+        mX, pX = DFT.dftAnal(x1, w, fftsize)
+        ploc = UF.peakDetection(mX, t)
+        iploc, ipmag, ipphase = UF.peakInterp(mX, pX, ploc)
 
 def min_power_2(M):
     N = 1
     while N < M:
         N *= 2
     return N
-
 
 
