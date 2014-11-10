@@ -1,3 +1,5 @@
+from __future__ import division
+
 import numpy as np
 from scipy.signal import get_window
 import math
@@ -52,3 +54,23 @@ def minFreqEstErr(inputFile, f):
     t = -40
     
     ### Your code here
+
+    (fs, x) = UF.wavread(inputFile)
+    window = 'backman'
+    magThreshold = -40 # dB
+    start_time = 0.5
+    start_sample = start_time * fs
+
+    for M in xrange(1000):
+        fftsize = min_power_2(M)
+        x[int(start_sample-M/2):int(start_sample+M/2)]
+        DFT.dftAnal()
+
+def min_power_2(M):
+    N = 1
+    while N < M:
+        N *= 2
+    return N
+
+
+
