@@ -90,7 +90,8 @@ def computeODF(inputFile, window, M, N, H):
     E[:,0] = by_frame_energy(low_band)
     E[:,1] = by_frame_energy(high_band)
 
-    O = E[1:,:] - E[:-1,:]
+    O = np.zeros((numFrames, 2))
+    O[1:,:] = E[1:,:] - E[:-1,:]
 
     # half wave rectification
     O[O<=0] = 0
@@ -125,8 +126,8 @@ def plot_odf(mX, fs, inputFile, M, N, H, O):
     plt.autoscale(tight=True)
     
     plt.subplot(212)
-    plt.plot(frmTime[1:], O[:,0])
-    plt.plot(frmTime[1:], O[:,1])
+    plt.plot(frmTime, O[:,0])
+    plt.plot(frmTime, O[:,1])
     plt.autoscale(tight=True)
     
     plt.tight_layout()
