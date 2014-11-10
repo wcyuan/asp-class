@@ -1,3 +1,5 @@
+from __future__ import division
+
 import os
 import sys
 import numpy as np
@@ -7,6 +9,7 @@ import matplotlib.pyplot as plt
 sys.path.append(os.path.join(os.path.dirname(os.path.realpath(__file__)), '../../software/models/'))
 import stft
 import utilFunctions as UF
+
 
 eps = np.finfo(float).eps
 
@@ -71,12 +74,14 @@ def computeEngEnv(inputFile, window, M, N, H):
     frmTime = H*np.arange(numFrames)/float(fs)
     binFreq = np.arange(N/2+1)*float(fs)/N
 
-    cutoff = 3000
+    cutoff1 = 3000
+    cutoff2 = 10000
 
-    cutoff_bucket = np.ceil(cutoff * N / fs)
+    cutoff_bucket1 = np.ceil(float(cutoff1) * N / fs)
+    cutoff_bucket2 = np.ceil(float(cutoff2) * N / fs)
 
-    low_band = mX[:,:cutoff_bucket]
-    high_band = mX[:,cutoff_bucket:]
+    low_band = mX[:,1:cutoff_bucket1]
+    high_band = mX[:,cutoff_bucket1:cutoff_bucket2]
 
     E = np.zeros((numFrames, 2))
     E[:,0] = by_frame_energy(low_band)
@@ -93,7 +98,7 @@ def by_frame_energy(band):
     is the number of frames and F is the number of frequency buckets
     """
     # convert from decibels to linear
-    linear = np.power(10, band/20)
+    linear = np.power(10, band/20.0)
     # compute energy (sum of squares along the frequency buckets, i.e. along the second axis)
     squares = linear * linear
     energy = np.sum(squares, axis=1)
@@ -117,6 +122,7 @@ def plot_energies(mX, fs, inputFile, M, N, H, E):
     plt.autoscale(tight=True)
     
     plt.tight_layout()
+    plt.legend(("low", "high"))
     #plt.savefig('spectrogram.png')
     #plt.show()
 
