@@ -53,12 +53,24 @@ def computeSNR(inputFile, window, M, N, H):
     """
     ## your code here
 
-    fs, x = UF.readwav(inputFile)
-    y1 = stft(x, fs, get_window(window, M), N, H)
-    y2 = stft(x[M:-M], fs, get_window(window, M), N, H)
+    fs, x = UF.wavread(inputFile)
+    #x1 = x
+    #x2 = x[M:-M]
+    w = get_window(window, M)
+    (mX, pX) = stft.stftAnal(x, fs, w, N, H)
+    y = stft.stftSynth(mX, pX, M, H)
+    noise = x - y[:x.size]
 
-def snr(esig, enoise):
-    return 10 * np.log10(esig / enoise)
+    return (snr(x, noise), snr(x[M:-M], noise[M:-M]))
 
-#def energy(x):
-#    
+def snr(sig, noise):
+    return 10 * np.log10(energy(sig) / energy(noise))
+
+def energy(x):
+    #(mX, pX) = stft.stftAnal(x, fs, w, N, H)
+    #X = np.power(10, mX / 20)
+    #return 10 * np.log10(eng)
+
+    absX = abs(x)
+    eng = sum(absX*absX)
+    return eng
