@@ -62,3 +62,13 @@ def computeEngEnv(inputFile, window, M, N, H):
     """
     
     ### your code here
+
+    fs, x = UF.wavread(inputFile)
+    w = get_window(window, M)
+    (mX, pX) = stft.stftAnal(x, fs, w, N, H)
+
+    numFrames = int(mX[:,0].size)
+    frmTime = H*np.arange(numFrames)/float(fs)
+    binFreq = np.arange(N/2+1)*float(fs)/N
+
+
