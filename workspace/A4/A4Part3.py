@@ -71,4 +71,53 @@ def computeEngEnv(inputFile, window, M, N, H):
     frmTime = H*np.arange(numFrames)/float(fs)
     binFreq = np.arange(N/2+1)*float(fs)/N
 
+    cutoff = 3000
+
+    cutoff_bucket = np.ceil(cutoff * N / fs)
+
+    low_band = mX[:,:cutoff_bucket]
+    high_band = mX[:,cutoff_bucket:]
+
+    E = np.zeros((numFrames, 2))
+    E[:,0] = by_frame_energy(low_band)
+    E[:,1] = by_frame_energy(high_band)
+
+
+    #plot_energies(mX, fs, inputFile, M, N, H, E)
+
+    return E
+
+def by_frame_energy(band):
+    """
+    @param band: a K x F numpy array which is the output of an STFT where K
+    is the number of frames and F is the number of frequency buckets
+    """
+    # convert from decibels to linear
+    linear = np.power(10, band/20)
+    # compute energy (sum of squares along the frequency buckets, i.e. along the second axis)
+    squares = linear * linear
+    energy = np.sum(squares, axis=1)
+    # return to decibels
+    return 10*np.log10(energy)
+
+def plot_energies(mX, fs, inputFile, M, N, H, E):
+    plt.figure(1, figsize=(9.5, 6))
+    
+    plt.subplot(211)
+    numFrames = int(mX[:,0].size)
+    frmTime = H*np.arange(numFrames)/float(fs)
+    binFreq = np.arange(N/2+1)*float(fs)/N
+    plt.pcolormesh(frmTime, binFreq, np.transpose(mX))
+    plt.title('mX ({3}), M={0}, N={1}, H={2}'.format(M, N, H, inputFile))
+    plt.autoscale(tight=True)
+    
+    plt.subplot(212)
+    plt.plot(frmTime, E[:,0])
+    plt.plot(frmTime, E[:,1])
+    plt.autoscale(tight=True)
+    
+    plt.tight_layout()
+    #plt.savefig('spectrogram.png')
+    #plt.show()
+
 
