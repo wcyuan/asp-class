@@ -7,6 +7,7 @@ import sys, os
 sys.path.append(os.path.join(os.path.dirname(os.path.realpath(__file__)), '../../software/models/'))
 import dftModel as DFT
 import utilFunctions as UF
+import cPickle
 
 """ 
 A5-Part-1: Minimizing the frequency estimation error of a sinusoid
@@ -39,6 +40,15 @@ the required conditions would be M = 1101, N = 2048. Note that for a different f
 the one specified in the question, this value of M and N might not work. 
 
 """
+
+DEFAULT_WINDOW = 'blackman'
+DEFAULT_FS = 44100
+DEFAULT_THRESHOLD = -40 # decibel
+DEFAULT_TIME = 1 # second
+DEFAULT_LOW_FREQ = 100
+DEFAULT_HIGH_FREQ = 2000
+DEFAULT_FREQ_ERROR = 0.05
+
 def minFreqEstErr(inputFile, f):
     """
     Inputs:
@@ -49,30 +59,121 @@ def minFreqEstErr(inputFile, f):
             M (int) = Window size
             N (int) = FFT size
     """
+    print "freq: {0}, inputFile {1}".format(f, inputFile)
+
     # analysis parameters:
     window = 'blackman'
     t = -40
     
     ### Your code here
-
     (fs, x) = UF.wavread(inputFile)
-    window = 'backman'
-    magThreshold = -40 # dB
-    start_time = 0.5
-    start_sample = start_time * fs
 
-    for M in xrange(1000):
-        fftsize = min_power_2(M)
-        x1 = x[int(start_sample-M/2):int(start_sample+M/2)]
-        w = get_window(window, M)
-        mX, pX = DFT.dftAnal(x1, w, fftsize)
-        ploc = UF.peakDetection(mX, t)
-        iploc, ipmag, ipphase = UF.peakInterp(mX, pX, ploc)
+    M = 2101
+    (mX, pX, ploc, iploc, ipmag, ipphase, fEst, N) = run_one_estimate(
+        x, fs, M, window=window, t=t)
+
+    print fEst
+    return (fEst[0], M, N)
 
 def min_power_2(M):
+    """
+    Return the first power of 2 higher than M
+    """
     N = 1
     while N < M:
         N *= 2
     return N
+
+def run_one_estimate(x, fs, M, window=DEFAULT_WINDOW, t=DEFAULT_THRESHOLD):
+    center_sample = int(len(x) / 2)
+    start_sample = center_sample - int(M/2)
+    end_sample = start_sample + M
+    N = min_power_2(M)
+    #print int(start_sample-M/2)
+    #print int(start_sample+M/2+1)
+    x1 = x[start_sample:end_sample]
+    w = get_window(window, M)
+    #print x1.size
+    #print w.size
+    mX, pX = DFT.dftAnal(x1, w, N)
+    ploc = UF.peakDetection(mX, t)
+    iploc, ipmag, ipphase = UF.peakInterp(mX, pX, ploc)
+    fEst = iploc * fs / N
+    return (mX, pX, ploc, iploc, ipmag, ipphase, fEst, N)
+
+def find_best_window_size(x, f, fs, window=DEFAULT_WINDOW, t=DEFAULT_THRESHOLD, err=DEFAULT_FREQ_ERROR, verbose=False):
+    """
+    Find the first window size of the form (100K+1) that is within the
+    error for a particular frequency.
+
+    Unused.
+    """
+    for k in xrange(1, 1000):
+        M = 100 * k + 1
+        (mX, pX, ploc, iploc, ipmag, ipphase, fEst, N) = run_one_estimate(
+            x, fs, M, window=window, t=t)
+        if verbose:
+            print "f={0} M={1} N={2} fEst={3} error={4}".format(f, M, N, fEst, f-fEst)
+        if iploc.size > 0 and all(abs(fEst - f) < err):
+            return (fEst, M, N)
+
+def genSine(A, f, phi, fs, t):
+    """
+    Inputs:
+        A (float) =  amplitude of the sinusoid
+        f (float) = frequency of the sinusoid in Hz
+        phi (float) = initial phase of the sinusoid in radians
+        fs (float) = sampling frequency of the sinusoid in Hz
+        t (float) =  duration of the sinusoid (is second)
+    Output:
+        The function should return a numpy array
+        x (numpy array) = The generated sinusoid
+    """
+    ## Your code here
+    
+    return A * np.cos(2 * np.pi * f * np.arange(fs * t) / fs + phi)
+
+def find_best_window_over_range(low_f=DEFAULT_LOW_FREQ, high_f=DEFAULT_HIGH_FREQ, fs=DEFAULT_FS,
+                                err=DEFAULT_FREQ_ERROR, t=DEFAULT_THRESHOLD, window=DEFAULT_WINDOW,
+                                verbose=False):
+    """
+    For each frequency, find the first window_size of the form 100*K+1
+    that is within the error.  Then find the highest of all those window
+    sizes.
+
+    Unused.
+    """
+    best_M = 0
+    for f in xrange(low_f, high_f+1):
+        x = genSine(A=1, f=f, phi=0, fs=fs, t=1)
+        (fEst, M, N) = find_best_window_size(x, f, fs, window=window, t=t, err=err, verbose=verbose)
+        print "Freq {0} requires M={1} N={2} fEst={3}".format(f, M, N, fEst)
+        if M > best_M:
+            best_M = M
+            print "Best window size is now {0}".format(M)
+    return best_M
+
+
+def find_best_window_for_all_freq(low_f=DEFAULT_LOW_FREQ, high_f=DEFAULT_HIGH_FREQ, fs=DEFAULT_FS,
+                                  err=DEFAULT_FREQ_ERROR, t=DEFAULT_THRESHOLD, window=DEFAULT_WINDOW,
+                                  verbose=True):
+    """
+    Find the lowest window size of the form 100K+1 that allows all
+    frequencies in the range to have error less than the given error
+
+    """
+    best_M = 0
+    for k in xrange(1, 1000):
+        M = 100 * k + 1
+        for f in xrange(low_f, high_f+1):
+            x = genSine(A=1, f=f, phi=0, fs=fs, t=1)
+            (mX, pX, ploc, iploc, ipmag, ipphase, fEst, N) = run_one_estimate(
+                x, fs, M, window=window, t=t)
+            if verbose:
+                print "f={0} M={1} N={2} fEst={3} error={4}".format(f, M, N, fEst, f-fEst)
+            if iploc.size <= 0 or any(abs(fEst - f) > err):
+                break
+        else:
+            return (M, N)
 
 
