@@ -73,6 +73,7 @@ def selectFlatPhasePeak(pX, p, phaseDevThres):
             selectFlag (Boolean) = True, if the peak at index p is a mainlobe, False otherwise
     """
     ### Your code here
+    return bool(pX[p-2:p+3].std() < phaseDevThres)
 
     
 ### Go through the code below and understand it, but do not modify anything ###

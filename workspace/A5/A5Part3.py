@@ -57,7 +57,7 @@ parameters are marked as XX and you can edit the values as needed.
 As an example, choosing window='boxcar', t=-80, the mean estimation error is [0.14205246 129.46190134] Hz. 
 
 """
-def mainlobeTracker(inputFile = '../../sounds/sines-440-602-hRange.wav'):
+def mainlobeTracker(inputFile = '../../sounds/sines-440-602-hRange.wav', window='blackman', t=-40):
     """
     Input:
            inputFile (string): wav file including the path
@@ -69,8 +69,8 @@ def mainlobeTracker(inputFile = '../../sounds/sines-440-602-hRange.wav'):
            fTrackTrue = A Kx2 numpy array of true frequency values, one row per time frame, one column per component
     """       
     # Analysis parameters: Modify values of the parameters marked XX
-    window = XX                                # Window type
-    t = XX                                     # threshold (negative dB)
+    #window = XX                                # Window type
+    #t = XX                                     # threshold (negative dB)
     
     ### Go through the code below and understand it, do not modify anything ###   
     M = 2047                                             # Window size 
