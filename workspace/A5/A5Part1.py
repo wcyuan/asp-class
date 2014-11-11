@@ -89,12 +89,8 @@ def run_one_estimate(x, fs, M, window=DEFAULT_WINDOW, t=DEFAULT_THRESHOLD):
     start_sample = center_sample - int(M/2)
     end_sample = start_sample + M
     N = min_power_2(M)
-    #print int(start_sample-M/2)
-    #print int(start_sample+M/2+1)
     x1 = x[start_sample:end_sample]
     w = get_window(window, M)
-    #print x1.size
-    #print w.size
     mX, pX = DFT.dftAnal(x1, w, N)
     ploc = UF.peakDetection(mX, t)
     iploc, ipmag, ipphase = UF.peakInterp(mX, pX, ploc)
@@ -106,7 +102,7 @@ def find_best_window_size(x, f, fs, window=DEFAULT_WINDOW, t=DEFAULT_THRESHOLD, 
     Find the first window size of the form (100K+1) that is within the
     error for a particular frequency.
 
-    Unused.
+    Unused.  Thought this was what we were supposed to do, but it isn't.
     """
     for k in xrange(1, 1000):
         M = 100 * k + 1
@@ -141,7 +137,7 @@ def find_best_window_over_range(low_f=DEFAULT_LOW_FREQ, high_f=DEFAULT_HIGH_FREQ
     that is within the error.  Then find the highest of all those window
     sizes.
 
-    Unused.
+    Unused.  Thought this was what we were supposed to do, but it isn't.
     """
     best_M = 0
     for f in xrange(low_f, high_f+1):
@@ -157,10 +153,13 @@ def find_best_window_over_range(low_f=DEFAULT_LOW_FREQ, high_f=DEFAULT_HIGH_FREQ
 def find_best_window_for_all_freq(low_f=DEFAULT_LOW_FREQ, high_f=DEFAULT_HIGH_FREQ, fs=DEFAULT_FS,
                                   err=DEFAULT_FREQ_ERROR, t=DEFAULT_THRESHOLD, window=DEFAULT_WINDOW,
                                   verbose=True):
-    """
-    Find the lowest window size of the form 100K+1 that allows all
+    """Find the lowest window size of the form 100K+1 that allows all
     frequencies in the range to have error less than the given error
 
+    It's not very clear from the instructions, but this is actually
+    what you're supposed to run.  Run this once to figure out the
+    window size to use, then hard code that window size in the main
+    function.
     """
     best_M = 0
     for k in xrange(1, 1000):
