@@ -36,14 +36,14 @@ def exploreSineModel(inputFile='../../sounds/multiSines.wav'):
             return True
             Discuss on the forum!
     """
-    window=XX                                   # Window type
-    M=XX                                        # Window size in sample
-    N=XX                                        # FFT Size
-    t=XX                                        # Threshold                
-    minSineDur=XX                               # minimum duration of a sinusoid
-    maxnSines=XX                                # Maximum number of sinusoids at any time frame
-    freqDevOffset=XX                            # minimum frequency deviation at 0Hz
-    freqDevSlope=XX                             # slope increase of minimum frequency deviation
+    window='blackman'                                   # Window type
+    M=2001                                        # Window size in sample
+    N=2048                                        # FFT Size
+    t=-60                                        # Threshold                
+    minSineDur=0.02                               # minimum duration of a sinusoid
+    maxnSines=2                                # Maximum number of sinusoids at any time frame
+    freqDevOffset=0                            # minimum frequency deviation at 0Hz
+    freqDevSlope=20                             # slope increase of minimum frequency deviation
     Ns = 512                                    # size of fft used in synthesis
     H = 128                                     # hop size (has to be 1/4 of Ns)
     
