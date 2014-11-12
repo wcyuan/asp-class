@@ -41,6 +41,19 @@ https://github.com/MTG/sms-tools
 ** Algorithms for finding fundamental
 *** In the time domain:
 **** Autocorrelation.  Sum(over all n) x[n]*x[n+lag].  This is a function of the lag.  So you can look over all lags and find the peaks, and that will tell you the period of the fundamental.  
-**** YIN algorithm .  Similar to autocorrelation, you also x to a lagged version of x to get a function in terms of lag, but now you sum the squared differences over all n.  So you then look for local minimums in the function of lag, and that tells you the period of the fundamental.
+**** YIN algorithm (2002).  Similar to autocorrelation, you also x to a lagged version of x to get a function in terms of lag, but now you sum the squared differences over all n.  So you then look for local minimums in the function of lag, and that tells you the period of the fundamental.
 **** These algorithms are pretty good for monophonic sounds, but not very good for polyphonic.
 *** In the frequency domain.  
+**** two-way mismatch algorithm (TWM) (1994)
+***** for every possible fundamental, look at all harmonics
+****** find the closest spectral peak to each harmonic
+****** sum the error from the spectral peak to the harmonic
+****** now find the closest harmonic to each spectral peak
+****** sum the error from the spectral peak to the harmonic
+****** add those two errors
+***** find the fundamental that minimizes the sum of those two errors
+***** Note, the fundamental doesn't have to appear in the sound if enough
+      of the harmonics appear.
+**** For polyphonic music: Salamon and Gomez "Prominent Pitch" algorithm (2012)
+
+
