@@ -39,6 +39,14 @@ https://github.com/MTG/sms-tools
    Do spectral peak detection (just look for bins in the frequency domain that are higher than the bins next to them), then look for peaks which are within some threshold of a multiple of the fundamental, and which last for some time period.
 
 ** Algorithms for finding fundamental
+   Note that the fundamental is defined as the
+   "common divisor of the harmonic series that best explains
+    the spectral peaks"
+   In theory, it is the prominent pitch, but defining it this
+   way makes it more formal, whereas prominent pitch is a more
+   subjective idea that depends on human senses.
+   We aren't looking for the prominent pitch, per se, but for "f0"
+   defined this way.
 *** In the time domain:
 **** Autocorrelation.  Sum(over all n) x[n]*x[n+lag].  This is a function of the lag.  So you can look over all lags and find the peaks, and that will tell you the period of the fundamental.  
 **** YIN algorithm (2002).  Similar to autocorrelation, you also x to a lagged version of x to get a function in terms of lag, but now you sum the squared differences over all n.  So you then look for local minimums in the function of lag, and that tells you the period of the fundamental.
