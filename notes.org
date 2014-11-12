@@ -1,0 +1,67 @@
+https://class.coursera.org/audio-001
+
+https://github.com/MTG/sms-tools
+
+* DFT - transform from time domain into frequency domain where the basis is complex sinusoids.
+* STFT - Apply a window to the sound to limit it in the time domain, move the window one hop at a time.  A window looks like a box (or half a sinusoid) in the time domain and looks like a spike (with side lobes, actually sum of sync functions) in the frequency domain.  But the spike can get wider (width measured in "bins", where each bin is one of those a complex sinusoids).  Each hop produces a frame.  In the frequency domain, you don't just have the frequency of the sound, it's the frequency of the sound times the window.  
+** A larger window allows for better frequency resolution, but you give up time resolution (easier to tell if there are two frequencies at the same time, harder to see when notes change).  You can improve time resolution by just changing the fft resolution (number of sinusoids).  Just zero-pad in the time domain and you get higher resolution in the frequency domain via interpolation (seems almost magical...)
+** There are many windows you can apply.  Generally, you want a window with small side lobes, because side lobes add noise artifacts to the sound.  You also want a window that is narrow in the frequency domain because that means you need fewer samples to have good frequency resolution.  
+*** Windows:
+**** Rectangular = main lobe width is 2 bins, side lobe level is -13.3 dB
+**** Hanning (raised cosine, maybe most popular) = main lobe width is 4 bins, side lobe level is -31.5 dB
+**** Hamming (raised cosine, but with steps in the side) = main lobe width is 4 bins, side lobe level is -42.7 dB
+**** Blackman (sum of two sinusoids) = main lobe width is 6 bins, side lobe level is -58 dB 
+**** Blackman-Harris (sum of four sinusoids) = main lobe width is 8 bins, side lobe level is -92 dB which is essentially below the hearing, so there are essentially no side lobes.  
+
+* Sinusoid Model:
+** The frequency spectrum is good, but doesn't really tell you much about the sound.  So, to go one step further, let's assume that all sounds are sums of sinusoids.  The sinusoid model tries to do that.  To guess which sinusoids there are, just look for peaks in the frequency domain (in each frame) then look to see which of those peaks last from frame to frame.  So after you apply the model, what you get is basically a list of sinusoidal peaks.  In fact, you get a list of peaks for each frame.  
+*** Here is where the width of the window matters.  The wider the window's main lobe (in terms of frequency bins), the larger the window size (in terms of number of samples) will need to be in order to distinguish simultaneous frequencies (frequency resolution).  
+    Bs = main-lobe width (in terms of number of bins)
+    fs = sampling rate (in Hz)
+    M = window size needed (in terms of number of samples)
+    To distinguish between two simultaneous frequencies fk and f(k+1) where f(k+1) - fk = delta, you need a window size
+    M >= Bs * fs / delta = Bs * fs / (f(k+1) - fk)
+
+**** So, for example, let's say you have an audio fragment which is just two sine waves which are at 440 Hz and 490 Hz, sampled at 44100Hz.  Let say you use a Hamming window (main lobe is 4 bins wide).  Then in order to distinguish the 50 Hz difference, we'll need a window size of 4 * 44100 / 50 = 3529.  
+     The window size (M) should be odd to avoid phase effects when translating to the frequency domain.  The FFT size has to be a power of two to be efficient (that allows the algorithm to take advantage of some symmetries in the FFT, which make it really fast), and it has to be bigger than the window size.  A larger FFT size also makes it slower.  
+
+**** Another example, let's say you have an oboe playing at 440Hz.  In order to get the harmonics, you need a resolution of 440Hz (each harmonic is a multiple of the fundamental).  If you use blackman (main lobe size is 6 bins), you need 6 * 44100 / 440 = 601 samples for the window size.  
+
+*** A wide window makes time resolution worse.  One solution is to increase the FFT size, which increases the time resolution in the frequency domain (is this right?) via interpolation.  
+
+*** The hop size on the STFT should be set so the windows overlap correctly.  For blackman, should be at least one fourth (1/4) of the window size.  Note that the smaller the hop size, the more FFTs, so the slower it will be.  
+
+* Harmonic Model
+
+** Having sinusoids is good, but let's look for even higher level information.  In fact, let's consider a fundamental with all its harmonics together.  Basically the problem is two parts: identify the fundamental, and identify all the sinusoids that are close to multiples of that fundamental.  So you start with the sinusoidal model and do the analysis on those peaks.  
+
+** Algorithm for finding harmonics:
+   Do spectral peak detection (just look for bins in the frequency domain that are higher than the bins next to them), then look for peaks which are within some threshold of a multiple of the fundamental, and which last for some time period.
+
+** Algorithms for finding fundamental
+   Note that the fundamental is defined as the
+   "common divisor of the harmonic series that best explains
+    the spectral peaks"
+   In theory, it is the prominent pitch, but defining it this
+   way makes it more formal, whereas prominent pitch is a more
+   subjective idea that depends on human senses.
+   We aren't looking for the prominent pitch, per se, but for "f0"
+   defined this way.
+*** In the time domain:
+**** Autocorrelation.  Sum(over all n) x[n]*x[n+lag].  This is a function of the lag.  So you can look over all lags and find the peaks, and that will tell you the period of the fundamental.  
+**** YIN algorithm (2002).  Similar to autocorrelation, you also x to a lagged version of x to get a function in terms of lag, but now you sum the squared differences over all n.  So you then look for local minimums in the function of lag, and that tells you the period of the fundamental.
+**** These algorithms are pretty good for monophonic sounds, but not very good for polyphonic.
+*** In the frequency domain.  
+**** two-way mismatch algorithm (TWM) (1994)
+***** for every possible fundamental, look at all harmonics
+****** find the closest spectral peak to each harmonic
+****** sum the error from the spectral peak to the harmonic
+****** now find the closest harmonic to each spectral peak
+****** sum the error from the spectral peak to the harmonic
+****** add those two errors
+***** find the fundamental that minimizes the sum of those two errors
+***** Note, the fundamental doesn't have to appear in the sound if enough
+      of the harmonics appear.
+**** For polyphonic music: Salamon and Gomez "Prominent Pitch" algorithm (2012)
+
+
