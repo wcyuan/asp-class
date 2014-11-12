@@ -49,7 +49,7 @@ DEFAULT_LOW_FREQ = 100
 DEFAULT_HIGH_FREQ = 2000
 DEFAULT_FREQ_ERROR = 0.05
 
-def minFreqEstErr(inputFile, f):
+def minFreqEstErr(inputFile, f, window='blackman', t=-40.0):
     """
     Inputs:
             inputFile (string) = wav file including the path
@@ -62,8 +62,8 @@ def minFreqEstErr(inputFile, f):
     print "freq: {0}, inputFile {1}".format(f, inputFile)
 
     # analysis parameters:
-    window = 'blackman'
-    t = -40
+    #window = 'blackman'
+    #t = -40
     
     ### Your code here
     (fs, x) = UF.wavread(inputFile)

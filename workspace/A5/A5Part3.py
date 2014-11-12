@@ -57,7 +57,7 @@ parameters are marked as XX and you can edit the values as needed.
 As an example, choosing window='boxcar', t=-80, the mean estimation error is [0.14205246 129.46190134] Hz. 
 
 """
-def mainlobeTracker(inputFile = '../../sounds/sines-440-602-hRange.wav', window='blackman', t=-40):
+def mainlobeTracker(inputFile = '../../sounds/sines-440-602-hRange.wav', window='blackman', t=-80.0):
     """
     Input:
            inputFile (string): wav file including the path
