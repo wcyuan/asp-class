@@ -1,3 +1,4 @@
+from __future__ import division
 import os
 import sys
 import numpy as np
@@ -77,11 +78,31 @@ def estimateInharmonicity(inputFile = '../../sounds/piano.wav', t1=0.1, t2=0.5, 
     ### Your code here
     
     # 0. Read the audio file
+    fs, x = UF.wavread(inputFile)
     
     # 1. Use harmonic model to to compute the harmonic frequencies and magnitudes
-   
-    # 2. Extract the segment in which you need to compute the inharmonicity. 
-    
-    # 3. Compute the mean inharmonicity for the segment
-    
+    w  = get_window(window, M)
+    xhfreq, xhmag, xhphase = HM.harmonicModelAnal(
+        x, fs, w, N, H, t, nH, minf0, maxf0, f0et, harmDevSlope=0.01, minSineDur=0.0)
 
+    # 2. Extract the segment in which you need to compute the inharmonicity. 
+    (nframes, nharm) = xhmag.shape
+    secs_per_index = (x.size / fs / nframes)
+    start_index = int(np.ceil(t1 / secs_per_index))
+    end_index = int(np.floor(t2 / secs_per_index))
+
+    # 3. Compute the mean inharmonicity for the segment
+    I = np.zeros(nframes)
+    for f in xrange(nframes):
+        inharm = 0.0
+        r = 0.0
+        for h in xrange(1, nharm):
+            if xhmag[f, h] != 0:
+                r = (h+1)
+                inharm += abs(xhfreq[f, h] - (h+1)*xhfreq[f, 0]) / (h+1)
+        if r != 0:
+            I[f] = inharm / r
+    Imean = sum(I[i] for i in xrange(start_index, end_index+1))
+    Imean /= (end_index - start_index + 1)
+
+    return Imean
