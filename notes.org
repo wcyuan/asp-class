@@ -63,5 +63,10 @@ https://github.com/MTG/sms-tools
 ***** Note, the fundamental doesn't have to appear in the sound if enough
       of the harmonics appear.
 **** For polyphonic music: Salamon and Gomez "Prominent Pitch" algorithm (2012)
+** Parameters
+*** one thing you have to choose is the number of harmonics to look for
+    The maximum you could have is half the sampling rate (44100Hz/2 = 22050) divided by the
+    fundamental.  So, for example, if the fudamental is around 440, the maximum
+    number of harmonics is 50.  
 
 
