@@ -1,0 +1,66 @@
+To help you with the assignment, we first give a brief description of the analysis parameters used by the HPS model: 
+
+    Window type (window) and Window size (M): The choice of window size and window type has a time-frequency trade-off. Choosing a longer window helps resolve sinusoidal components that are close in frequency, but gives a poorer temporal resolution. Shorter windows track transients better, giving us sharp onsets, but may not resolve frequency components so well. For monophonic harmonic sounds, the window size is best chosen based on the lowest value of f0 and the fastest change in pitch. 
+    FFT size (N): The FFT size is typically chosen as a power of 2 larger than the window size M. A large FFT size interpolates the DFT spectrum and hence leads to better estimation of spectral peak values. However, given that the software also uses parabolic interpolation we can achieve good peak estimates with smaller FFT sizes. 
+    Threshold in negative dB (t): The peak picking threshold is the lowest amplitude peak that will be identified. Setting a very low threshold (<-120dB) will take most peaks, but the threshold should be set as high as possible to minimize the presence of peaks that do not correspond to sinusoidal peaks (the window main-lobe). 
+    Maximum number of harmonics (nH): The maximum number of harmonics that can be detected in a harmonic sound is influenced by the brightness of the sound, but also to the sampling rate and by how low is the f0.  The recording quality can also have an impact. For a compact representation, we should only capture the relevant harmonics, thus only the ones that affect the perceptual quality of the reconstruction. 
+    Minimum f0 frequency in Hz (minf0) and Maximum f0 frequency in Hz (maxf0): The minf0 and maxf0 are the parameters used by the fundamental frequency detection algorithm to obtain possible f0 candidates to be passed to the TWM algorithm. Choosing a correct range of f0 greatly improves the f0 estimation by TWM algorithm, specially minimizing octave errors, which are very common in f0 detection algorithms. You should use the smallest range possible by first looking at the spectrogram of the sound and identifying the lowest and highest fundamental frequencies present.
+    Error threshold in the f0 detection (f0et): Error threshold in the f0 detection. This is the maximum error allowed in the TWM algorithm. If the TWM mismatch error is larger than f0et, no f0 is detected and the TWM algorithm returns f0 = 0 for the frame.  The smaller this value the more restrictive the algorithm will behave. A normal strategy is to start with a big value (> 10) and then making it smaller until we only keep the relevant f0 components and discard the f0 values in the parts of the sound that do not have a clear harmonic structure.
+    Slope of harmonic deviation (harmDevSlope): Slope of harmonic deviation allowed in the estimated harmonic frequency, compared to a perfect harmonic frequency. If the value is 0 it means that we allow the same deviation for all harmonics, which is hard coded to f0/3. A value bigger than 0 means that higher harmonics will be allowed to deviate more than the lower harmonics. It normally works better to have a value slightly bigger than 0, for example around 0.01.
+    Minimum length of harmonics (minSineDur): Any harmonic track shorter, in seconds, than minSineDur will be removed. This is a good parameter to discard harmonic tracks that are too short and thus do not correspond to a stable harmonic of the sound. Typically we would put a value bigger that 0.02 seconds.
+    Decimation factor of magnitude spectrum for stochastic analysis (stocf): The stochastic approximation of the residual uses a decimated version of the magnitude spectrum of the residual. This leads to a compact and smooth function that approximates the magnitude spectrum of the residual at each frame. The smaller the stocf, higher the decimation will be and thus will result in a more compact representation.  A value of 1 means no decimation, leaving the residual magnitude spectrum as it is. A value of 0.2 (a good starting value) will decimate the original residual magnitude spectrum by a factor of 1/5. 
+
+The most compact representation of a sound, least number of analysis samples, will be obtained by using a high t, a small nH, and a small decimation factor for stochastic analysis (minimum number of stochastic coefficients). The values of nH, minf0 and maxf0 can be chosen by first visualizing the spectrogram of the sound with a large enough window size. There is usually a range of all parameter values for which we get a good reconstruction and the analysis parameters are not independent of each other and hence they need to be considered together. 
+
+
+Question 1. Obtain a good harmonic+stochastic analysis of a speech sound
+Analyze and synthesize the sound speech-female.wav, available from the sounds directory in sms-tools, using the Harmonic Plus Stochastic model. The goal is to obtain the best possible reconstruction using the most compact representation. Perform the following two tasks:
+
+    Part 1.1: Analyze the sound with the STFT of the sms-tools GUI, or with any other analysis or tool you might wish, and describe the characteristics of the sound that might be relevant to perform the HPS analysis. Specially important characteristics for the analysis include the pitch range and the maximum number of harmonics. Write no more than a paragraph for this description.
+    Part 1.2: Select the analysis parameters that give a good reconstruction and at the same time result in the most compact representation possible, specially related to the number of harmonics and the number of stochastic coefficients. We recommend that you first perform the harmonic plus residual analysis and by listening to the residual make some decisions on the best parameters to use. You can listen to the output sounds (harmonic, residual, stochastic components) and fine tune the parameters. Save the output sounds. Explain the choices for the following parameters: window type, window size, FFT size, minimum f0, maximum f0, error threshold in f0 detection, number of harmonics, and stochastic decimation factor. In your descriptions do not use more than one phrase per parameter. Along with the parameter explanation, upload the three synthesized output sounds (name them as shown so as to be consistent among all students): 1. speech-harmonic.wav: harmonic part of the analysed speech sound; 2. speech-stochastic.wav: stochastic part of the analysed speech sound; 3. speech-reconstructed.wav: resynthesized output sound using the HPS model.
+
+
+Question 2. Obtain a good harmonic+stochastic analysis of a monophonic musical phrase
+Analyze and synthesize a harmonic sound of your choice from freesound using the harmonic plus stochastic model. The goal is to obtain the best possible reconstruction using the most compact representation possible. Return an explanation of what you have done and why, together with the re-synthesized sounds. 
+
+    Part 2.1: Select a sound from freesound to be analyzed. It should be a short monophonic musical fragment of a harmonic sound, not longer than 5 seconds. Put the freesound link of the sound selected and write a brief explanation of why you chose this sound. You can even use a specific sound of your own for this question. Just upload it to freesound and provide a link.
+    Part 2.2: Analyze the chosen sound with the STFT, or with any other analysis or tool you might wish, and describe the characteristics of the sound that will be relevant to perform the harmonic plus stochastic analysis. Important characteristics for the analysis include the pitch range and the maximum number of harmonics. Write no more than a paragraph.
+    Part 2.3: Select the analysis parameters that give a good reconstruction and at the same time result in to the most compact representation, specially related to the number of harmonic and the number of stochastic coefficients. We recommend that you first perform the harmonic plus residual analysis and by listening to the residual make some decisions on the best parameters to use. You can listen to the output sounds (harmonic, residual, stochastic components) and fine tune the parameters. Save the output sounds. Explain the choices for the following parameters: window type, window size, FFT size, minimum f0, maximum f0, error threshold in f0 detection, number of harmonics, and stochastic decimation factor. In your descriptions do not use more than one phrase per parameter. Along with the parameter explanation, upload the three synthesized output sounds (name them as shown so as to be consistent among all students): 1. a7q2-harmonic.wav: harmonic part of the analysed sound; 2. a7q2-stochastic.wav: stochastic part of the analysed sound; 3. a7q2-reconstructed.wav: resynthesized output sound using the HPS model.
+
+
+Using scp to copy files:
+
+C:\Program Files (x86)\PUTTY\PSCP.EXE -i C:\Users\Conan\Documents\GitHub\compile r-class\aws3.ppk ubuntu@ec2-54-164-74-163.compute-1.amazonaws.com:/home/ubuntu/sms-tools/software/models_interface/output_sounds/speech-female_stft.wav C:\Users \Conan\Downloads
+
+
+https://www.freesound.org/people/thatjeffcarter/sounds/185433/
+
+
+My answers:
+
+Part 1.1
+
+The fundamental looks to be about 200 Hz, and the maximum pitch around 5000Hz.  It looks like the strongest harmonics are below 1000 Hz, but there is another loudish clump around 2000-3000Hz.  
+
+Part 1.2
+
+I chose the blackman window, since that seems to be the most useful window in this class.  I found a window size of 2001 to work well in distinguishing the different harmonics, which means an FFT size of 2048.  In order to capture a fundamental around 200Hz, I used a minimum of 100Hz and a max of 300Hz.  I stuck withthe default of 5 for f0 error threshold.  For the number of harmonics, I chose 15 because if the highest loud clump went up to 3000, then 3000/200 = 15 harmonics.  The default stochastic decimation factor of 0.2 worked well for me, so I left it.  
+
+speech-harmonic: speech-female_hpsModel_sines
+speech-stochastic: speech-female_hpsModel_stochastic
+speech-reconstructed: speech-female_hpsModel
+
+
+
+Part 2.1.  I like the trumpet, so I chose a muted cornet sound.  https://www.freesound.org/people/thatjeffcarter/sounds/185433/
+
+Part 2.2.  The sound seems to be quite harmonic, with a fundamental frequency that starts around 600Hz, but goes as low as around 300Hz.  I count about 10 harmonics.  
+
+Part 2.3
+
+I chose a blackman window, since that has bee the most useful in the class.  A window size of 2001 worked will, which gave an FFT size of 2048.  Since the fundamental varies from 300 to 600, I used a minimum f0 of 300 and a maximum f0 of 700 with the default error threshold in f0 detection of 5.  I only needed about 10 harmonics and the default stochastic decimation factor of .2 worked well. 
+
+a7q2-harmonic.wav:  muted-cornet_hpsModel_sines
+a7q2-stochastic.wav:  muted-cornet_hpsModel_stochastic
+a7q2-reconstructed.wav: muted-cornet_hpsModel
+
