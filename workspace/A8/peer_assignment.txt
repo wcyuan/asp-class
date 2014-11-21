@@ -1,3 +1,12 @@
+Command I used to download sounds:
+
+C:\Users\Conan>"C:\Program Files (x86)\PUTTY\PSCP.EXE" -i C:\Users\Conan\Documen
+ts\GitHub\compiler-class\aws3.ppk ubuntu@ec2-54-164-74-163.compute-1.amazonaws.c
+om:/home/ubuntu/asp-class/workspace/A8/output_sounds/muted-cornet_hpsModelTransf
+ormation.wav C:\Users\Conan\Downloads
+
+-----------------------------------------------------
+
 speech-female:
 
 -----------------------------------------------------
