@@ -1,0 +1,108 @@
+speech-female:
+
+-----------------------------------------------------
+
+Analysis parameters:
+window = blackman
+M = 2001
+N = 2048
+t = -80
+minSineDur = 0.1
+nH = 30
+minf0 = 100
+maxf0 = 300
+f0et = 5
+harmDevSlope = 0.02
+stocf = 0.2
+
+(with harmDevSlope = 0.01 and stocf = 0.1, the "V" of the speech was totally wiped out)
+
+-----------------------------------------------------
+
+speech-transformed-1:
+frequency scaling = 0,0.25, 1,3, 2,0.25, 3,3
+frequency stretching = 0,1
+time scaling = 0,0, 2.138,2.138-1, 3.146,3.146
+timbre preservation = 1
+
+
+This is sort of loopy.  And it makes it sound like a question.
+
+-----------------------------------------------------
+
+speech-transformed-2:
+frequency scaling = 0,0.25
+frequency stretching = 0,1
+time scaling = 0,0, 6,3.146
+timbre preservation = 1
+
+Thought this would make it slower, but apparently that makes it faster
+This sounds like a fairly standard "disguised voice" sound
+
+-----------------------------------------------------
+
+speech-transformed-3:
+frequency scaling = 0,0.25
+frequency stretching = 0,1
+time scaling = 0,0, 1,3.146
+timbre preservation = 1
+
+Just slow and low
+
+-----------------------------------------------------
+
+speech-transformed-4:
+frequency scaling = 0,3
+frequency stretching = 0,1
+time scaling = 0,0, 1,3.146
+timbre preservation = 1
+
+Sort of an eerie high-pitched whine
+
+-----------------------------------------------------
+
+speech-transformed-5:
+frequency scaling = 0,1
+frequency stretching = 0,3
+time scaling = 0,0, 3.146,3.146
+timbre preservation = 1
+
+Wanted to see the effect of stretching by itself.  Didn't have much
+effect, but made it sound whispery.
+
+
+-----------------------------------------------------
+
+speech-transformed-6:
+frequency scaling = 0,1, 1.25,4, 1.8,1, 2.25,4
+frequency stretching = 0,3, 1.25,1
+time scaling = 0,0, 2.25,2.25, 2.5,3.146
+timbre preservation = 1
+
+Tried to have a different transformation for different words:
+stretching in the beginning ("this") then making a high pitch for the
+"V" and the "Vendetta", and slowing down "Vendetta".  But it didn't
+work well -- I was envisioning abrupt changes, but the function is
+piecewise linear or something.
+
+-----------------------------------------------------
+
+speech-transformed-6:
+frequency scaling = 0,1, 1.24,1, 1.25,4, 1.79,4, 1.8,1, 2.24,1, 2.25,4
+frequency stretching = 0,3, 1.25,1
+time scaling = 0,0, 2.25,2.25, 2.5,3.146
+timbre preservation = 1
+
+This was another try at doing weird things to specific words.  This time
+I really treated it as piecewise linear.  It sounds mostly normal until
+"of vendetta", when it goes into a bit of a whine.
+
+-----------------------------------------------------
+
+https://www.freesound.org/people/kaponja/sounds/23193/
+
+jazzy-trumpet.wav
+
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
