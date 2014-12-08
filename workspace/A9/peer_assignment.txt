@@ -1,0 +1,202 @@
+
+This is a peer assessed assignment in which you will learn how to describe sounds within a sound collection using a set of temporal and spectral descriptors. You will learn to use the Freesound API to download sounds and their descriptors. Then with the set of obtained descriptors and by using a similarity measure, you will cluster the sounds and also classify them into predefined classes. You will work with instrumental sounds, thus learning what audio features are useful for their characterization in particular tasks. 
+
+Learning outcomes 
+By the end of the assignment, you will have learnt about:
+1. Several common audio descriptors, and how they can capture different aspects of a sound
+2. Selecting relevant descriptors for characterizing a particular category of sound for a particular application (e.g. clustering or classification)
+3. Using a simple audio/sound similarity based on different types of descriptors (euclidian distance)
+4. Using of a simple classifier (K-NN) and a simple clustering algorithm (kmeans)
+5. Using web APIs to access data (Freesound API)
+
+There are four parts in this assignment, each one using the results and output of the previous one, and hence to be done in that order:
+Task 1: Download several sounds and their descriptors from Freesound, of different acoustic instruments playing single notes
+Task 2: Choose two descriptors that result into a good clustering of the downloaded sounds
+Task 3: Cluster the downloaded sounds using kmeans to obtain clusters corresponding to the different instruments
+Task 4: Classify a sound, using nearest neighbour classifier, into one of several instrumental classes 
+
+We have provided the code for each task, thus no need to get involved in any programming. Read the example document to see examples of using the code.
+
+-------Relevant Concepts-------
+1. Freesound API to query and download sounds
+Freesound provides an API to access its data repository. The API is comprehensive, but in the scope of this assignment, we will use it only to download sounds and their descriptors by defining several search criteria. With the API you can do text searches similar to what you can do from the advance searches in the website http://freesound.org/search/?q plus you can also other types of more advance queries. The main advantage of a Web API is that we can do the queries by software.
+
+To perform advance searches from the website you can enable 'show advanced search options' and, for example, add a duration filter. Once you get the sounds from a search using a query text, you can filter them based on the tags that are shown on the right side of the screen. We can do the same search using the Freesound API. In this assignment, the task will be to download single notes/strokes of several instruments using a python function that is available in the accompanying file soundDownload.py file, the function call is:
+downloadSoundsFreesound(queryText="",tag=None,duration=None,API_Key="",outputDir="",topNResults=5, featureExt='.json')
+The input parameters used are:
+queryText: A single word or a string of words without spaces (use hyphens), typically the name of the instrument. e.g. (eg. "violin", "trumpet", "cello", "bassoon" etc.)
+tag: tag to be used for filtering the searched sounds (eg. "multisample", "single-note" etc.).
+duration: min and max duration (seconds) of the sound to filter, eg. (0.2,15).
+API_Key: your api key, which you can obtain from: www.freesound.org/apiv2/apply/
+outputDir: path to the directory where you want to store the sounds and their descriptors.
+topNResults: number of results(sounds) that you want to download.       
+featureExt: file extension for storing sound descriptor (.json, typically).
+You will have to choose the appropriate queryText, tag, and duration, to return single notes/strokes of instrumental sounds. The first twenty results of the query should be "good". Note that the tag can be empty. Example of a query to obtain single notes of violin could be: downloadSoundsFreesound(queryText='violin', API_Key=<your key>, outputDir='testDownload/', topNResults=20, duration=(0,8.5), tag='single-note'). This returns 20 single notes of violin sounds and the script stores them in the testDownload directory (the directory has to be created before hand).
+
+Before using the API to download the sounds, we recommend to do the same query using Freesound website and checking that the top 20 results are good.
+
+2. Code
+The assignment package includes two python scripts and an example pdf. In addition to these scripts you need to add another script, freesound.py, which you can download from https://github.com/MTG/freesound-python. Download the freesound.py script and put it along with the other two scripts in your working directory. You don't have to write any additional code or modify the scripts, you will just have to make calls to the provided functions. If you are interested in knowing more about the Freesound API, you can see examples of using it from python in: https://github.com/MTG/freesound-python/blob/master/examples.py and you can read the API documentation here: http://www.freesound.org/docs/api/
+
+These are the files that you should have in your working directory for doing this assignment:
+examples.pdf: Usage examples of the functions used in this assignment
+soundDownload.py: Scripts with functions to download sounds and descriptors from Freesound
+soundAnalysis.py: Script with functions that do the analysis using the downloaded sound descriptors 
+freesound.py: The Freesound API client needed for API queries
+
+3. Sound Descriptors
+In this assignment, you will automatically download the following temporal and spectral descriptors for every sound that the query finds. You will then select a subset of those for clustering and classification. Most of these are spectral descriptors and widely used in various Music Information Retrieval tasks. For information about them you can read the Essentia documentation: http://essentia.upf.edu/documentation/algorithms_reference.html
+
+Here is the list of descriptors that are donwloaded:
+
+Index -- Descriptor
+0 -- lowlevel.spectral_centroid.mean
+1 -- lowlevel.dissonance.mean
+2 -- lowlevel.hfc.mean
+3 -- sfx.logattacktime.mean
+4 -- sfx.inharmonicity.mean
+5 -- lowlevel.spectral_contrast.mean.0
+6 -- lowlevel.spectral_contrast.mean.1
+7 -- lowlevel.spectral_contrast.mean.2
+8 -- lowlevel.spectral_contrast.mean.3
+9 -- lowlevel.spectral_contrast.mean.4       
+10 -- lowlevel.spectral_contrast.mean.5      
+11 -- lowlevel.mfcc.mean.0                   
+12 -- lowlevel.mfcc.mean.1                   
+13 -- lowlevel.mfcc.mean.2                   
+14 -- lowlevel.mfcc.mean.3                   
+15 -- lowlevel.mfcc.mean.4                   
+16 -- lowlevel.mfcc.mean.5
+Task 1: Download sounds and descriptors from Freesound
+
+1. Apply for and obtain a Freesound API key (if you have not already): http://www.freesound.org/apiv2/apply/
+
+2. Select three instruments to be used out of this set: violin, guitar, bassoon, trumpet, clarinet, cello, naobo. Specify a good query text, tag, and duration to query for the the chosen instruments. Use your API key and download twenty sound examples of each instrument using the downloadSoundsFreesound() function in soundDownload.py script. The examples need to be representative of the instrument, single notes (melodic instruments) or single strokes (percussion instruments), and shorter than 10 seconds. Refine your search parameters until you get twenty good samples for each instrument. Listen to the sounds downloaded and look at the descriptor .json files. 
+
+Write a short paragraph mentioning the query text, tag and duration used for each of the three instruments you chose. Mention why you chose those instruments, and why you selected the search query text, tag and duration. Attach the <queryText>_soundList.txt file for each instrument that the script created in each instrument folder. 
+BI Link<code>MathPreviewEdit: Rich
+
+Attach a file  (supports: txt, png, jpg, gif, pdf, wav)
+Task 2: Select two descriptors for a good clustering of sounds in 2D
+
+Select two of the sound descriptors obtained from Task 1 in order to obtain a good clustering of the sounds of three instruments on a two dimensional space. By visualizing the descriptor values of the sounds in a 2D plot you can choose the features that can help to better cluster these instruments. The function descriptorPairScatterPlot() in soundAnalysis.py script takes as inputs the downloaded sounds folder (targetDir) and the descriptor pair indices (descInput) (see mapping above) to create a 2-D scatter plot of the descriptor pair. The data points, sounds, from different instruments are shown with different colors. In addition, you can also plot the Freesound ID of the sounds with the points. Only plot the sounds of the 3 instruments chosen. Make sure that in targetDir you only have the 3 instruments chosen.
+
+Choose a good pair of descriptors for the sounds of the 3 instruments you downloaded in Task 1. A good pair of descriptors leads to a point distribution where all the sounds of an instrument cluster together, with a good separation from the other instrument clusters. Try out different combinations of descriptor pairs. Write a short paragraph on the descriptor pairs you tried out, justifying your choices for selecting those particular descriptors. Based on the spectral and temporal features of the instruments and sounds, give an explanation of why (or why not) a good clustering is (or is not) achieved with the chosen pairs of descriptors. 
+
+Attach the 2-D scatter plots for the best descriptor pairs. You can upload more than one scatter plot, up to a maximum of three plots. You can save the plot as a .png files from the plotting window. Optionally, you can provide qualitative feedback on the submission using the feedback box at the end. 
+BI Link<code>MathPreviewEdit: Rich
+
+Attach a file  (supports: txt, png, jpg, gif, pdf, wav)
+Task 3: Cluster sounds of different instruments using kmeans in n-dimensions
+
+After visualizing the sound descriptors, you will now cluster the sounds using more than two descriptors. You can use as many descriptors as you need for the best clustering. Use the same set of sounds obtain in Task 1, starting from the descriptors that you found were good in Task 2, and then adding other descriptors that you feel can improve the kmeans clustering of sounds. The function clusterSounds() in soundAnalysis.py script takes the sounds folder (targetDir), number of clusters (nCluster) and the descriptor indices (descInput) as input. It then performs a kmeans clustering using the selected descriptors. Make sure that in targetDir you only have the 3 instruments chosen.
+
+For this part, you can use as many descriptors as you need to achieve good clustering and classification performance. However it is best to use as few descriptors as possible in order to make it easier to explain the contribution of each descriptor. Choose the number of clusters to be the same as the number of instruments (i.e. 3). Ideally in such a case, all the sounds of an instrument should go into a single cluster. In reality however, there might be sounds that are outliers and can go into a different cluster. The algorithm takes a majority vote on the sounds in each of the three clusters and assigns each cluster to an instrument. We compute the performance of the clustering by checking the number of points, sounds, that have been wrongly assigned to a cluster. The function clusterSounds() prints the clusters and the sounds assigned to each one. The function also prints the resulting classification obtained with the choice of descriptors you made. 
+
+Write a short paragraph explaining the descriptors you used, the resulting classification accuracy you obtained, and your opinion on why you obtained, or not, errors in the clustering. Comment if you see any systematic errors (such as a consistent mix up of sounds from two instruments) and possible reasons for that. You should also try to cluster with different subsets of descriptors and mention the classification accuracy you obtain in each case. 
+
+Note: Since the cluster centers are randomly initialized every time in kmeans, you might see different results every time you run the function. You can report the best result you obtained. 
+BI Link<code>MathPreviewEdit: Rich
+
+Attach a file  (supports: txt, png, jpg, gif, pdf, wav)
+Task 4: Classify a sound by using descriptors and a nearest neighbor classifier
+
+Assign a sound different from the sounds of the 3 instruments chosen to one of the 3 instrumental classes you chose in Task 1, using the K-nearest neighbour classifier. Given a new sound (query sound) and its descriptors, use the function classifySoundkNN() in soundAnalysis.py for doing a K-NN classification. The function takes a test sound descriptor file (queryFile), the downloaded sounds folder (targetDir), the parameter K in the K-NN classifier, and the descriptors indices (descInput) used to compute the distance. The function returns the instrument class that the query sound is classified into. The goal of the exercise is to experiment with the KNN classifier and be able to understand the result by being able to explain why a particular query sound, that is not from any of the defined classes, is actually classified to one of those classes.
+
+To get query sounds and their descriptors, you can use downloadSoundsFreesound() function using different query texts (as you did in Task 1). Get sounds that are not from the 3 instruments you chose in Task1, or at least that is none the sounds you use to define the classes. If you use a sound from one of the three instruments make sure that is different enough from the existing sounds in your collections.
+
+For this part, you can use as many descriptors as you need (the fewer the easier it will be to explain the result). K is usually chosen to be an odd positive integer. Try out with different query sounds, different subsets of descriptors, and different values of K. Write a short paragraph explaining the reason for choosing the descriptors you use and the value of K you select. In each case, specify the Freesound link to the query sound and the classification result, with an explanation of the result. Submit a maximum of five classification cases, including cases where you think the classification is incorrect, and cases with a query sound of an instrument different from the starting classes. By trying out a sound from a different instrument, you are classifying the sound into the closest instrument class, which can tell you about similarity between instruments. 
+
+
+-----------------------------------------------------------
+
+
+1. Trumpet.
+query text: "trumpet"
+tags: "single-note"
+duration: (0, 8)
+trumpet_SoundList
+
+2. Bassoon
+query text: "bassoon"
+tags: None
+duration: (0, 8)
+bassoon_SoundList
+
+3. Clarinet
+query text: "clarinet"
+tags: "single-note"
+duration: (0, 8)
+clarinet_SoundList
+
+I'm a trumpet player, so I chose three wind instruments.  Also, these queries worked well (when I tried them using the advanced search).  For some of the other instruments, the "single-note" tag didn't seem to be commonly used, or all the sounds that were found were of the same note.  I chose a duration a little shorter than required (less than 8 seconds rather than less than 10 seconds) because I figured single note sounds were likely to be on the short side anyway.  
+
+
+-----------------------------------------------------------
+
+
+The best descriptors for clustering these sounds appears to be 
+6 -- lowlevel.spectral_contrast.mean.1
+and
+10 -- lowlevel.spectral_contrast.mean.5      
+
+I believe the spectral contrast descriptors are comparing the overtones of two sounds.  Since the difference in different instruments is mostly in timbre, and timbre is mostly a function of overtones, it makes sense that spectral contrast would be the best differentiator.  A little trial and error finds that these two overtones are the most effective for these instruments.  In this plot, the green is the clarinet, the blue the trumpet, and the red the bassoon.  The clusters are pretty good, though the clarinet and bassoon are a bit spread out (the clarinet is spread out vertically and the bassoon is spread out horizontally), and there are a few stray trumpet sounds in with the clarinet.  However, other than those stragglers, the clusters are pretty well defined, there isn't too much overlap.  
+
+
+
+Another good pair of descriptors is lowlevel.spectral_contrast.mean.1 and lowlevel.mfcc.mean.1.  The MFCC descriptors transform the true frequency of a sound into something more like the pitch that humans hear, so it's understandable that they would be good for distinguishing sounds that humans find very different.  Once again, the green is the clarinet, the blue the trumpet, and the red the bassoon.  This graph is similar to the first in that the trumpet and clarinet are sometimes hard to distinguish.  But this plot seems to do an even better job of separating out the bassoon.  
+
+
+
+-----------------------------------------------------------
+
+> Write a short paragraph explaining the descriptors you used, the resulting classification accuracy 
+> you obtained, and your opinion on why you obtained, or not, errors in the clustering
+
+The best group of descriptors that I could find were:
+
+2 -- lowlevel.hfc.mean
+6 -- lowlevel.spectral_contrast.mean.1
+10 -- lowlevel.spectral_contrast.mean.5      
+14 -- lowlevel.mfcc.mean.3                   
+
+Starting with just 6 and 10 (from above), I already had a success rate around 88%, and using these four descriptors gave e a success rate around 95%. I'm actually surprised by how well this worked, I expected that three wind instruments might be difficult to distinguish.  I'll note, though, that it seems that for each instrument, the notes played are all coming from the same "pack", and probably the same player.  So the sounds for each instrument are very consistent.  I.e., all the trumpet sounds are played intentionally "breathy" -- you aren't getting the full range of trumpet sounds.  That may make it easier to distinguish different instruments because you can use a bit more than just the timbre.  (E.g., in my data set, "breathiness" probably correlates well with "trumpet").  
+
+> Comment if you see any systematic errors (such as a consistent mix up of sounds from two instruments) 
+> and possible reasons for that.
+
+ In general, the hardest instrument to classify was the clarinet, since it shares similarities with both instruments: the clarinet and trumpet are in the same register, and the clarinet and bassoon are both wood wind instruments so have more similar timbres.  
+
+ > You should also try to cluster with different subsets of descriptors and 
+> mention the classification accuracy you obtain in each case. 
+
+Surprisingly, when I tried to add even more descriptors, my success rate generally fell back down to around 85%.  Most random combinations seem to give a success rate around the 60s, but there are quite a few that give numbers in the 80s.  This seems to be a sweet spot that happens to get something in the 90s.  
+
+-----------------------------------------------------------
+
+1. query sound: a violin note = http://freesound.org/people/kake85/sounds/247865/
+descriptors: 2, 6, 10, 14
+K: 5
+result: bassoon
+
+2. query sound: a violin note = http://freesound.org/people/kake85/sounds/247865/
+descriptors: 2, 6, 10, 14
+K: 21
+result: bassoon
+
+I tried a bunch of other cases, mostly subsets of the descriptors that I had found to be effective in the earlier parts of the problem, but with all different values of K from 1 to 61.  The problem asks for no more than 5 cases, so I'll just summarize the results.  In general, changing K didn't have too much of an effect, unless K was changed by a lot.  The most common categorization was either bassoon or trumpet, and it seemed like if I tried to be more "accurate" (use more descriptors, or use higher K), it was more likely to choose bassoon.  This may be because both instruments are a bit nasal and would not be breathy.  
+
+3. query sound: a violin note = http://freesound.org/people/kake85/sounds/247865/
+descriptors: 10
+K: 7
+result: clarinet
+
+The instructions ask for a categorization that seems "incorrect", and I chose this one.  I'm not sure it's really "incorrect", since obviously you can't correctly classify as a violin as either bassoon, clarinet, or trumpet.  But given that bassoon was the most common answer, then trumpet, in some sense this classification of clarinet seems "incorrect", or at least indicative of the instability of this method.  
+
+4. query sound: a cello note = http://freesound.org/people/bwv662/sounds/246936/
+descriptors: 2, 6, 10, 14
+K: 21
+result: bassoon
+
+Interestingly, a cello was also classified as a bassoon.  In general, the cello sound was classified pretty similarly to the violin sounds -- that is, mostly bassoon but more likely than violin to end up in trumpet or clarinet.  As before, more descriptors and higher K seemed to push things towards bassoon, but not as much as with the violin.  
+
