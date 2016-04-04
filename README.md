@@ -23,7 +23,7 @@ To install and run ipython notebook on cloud9.  Note that cloud9 sessions often 
     (there will be some prompts that you have to answer)
     At the end of the output, it will say where it installed miniconda, probably someplace like /home/ubuntu/miniconda2/bin/conda
 
-1. Install jpyter:
+1. Install jupyter:
  ```bash
 /home/ubuntu/miniconda2/bin/conda install jupyter 
 ```
