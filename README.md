@@ -30,7 +30,7 @@ To install and run ipython notebook on cloud9.  Note that cloud9 sessions often 
  
 1. Install numpy + scipy (optional)
  ```bash
-/home/ubuntu/miniconda2/bin/conda install numpy scipy
+/home/ubuntu/miniconda2/bin/conda install numpy scipy matplotlib
 ```
 
 1. Run the notebook:
