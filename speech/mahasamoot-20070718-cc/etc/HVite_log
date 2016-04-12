@@ -1,0 +1,148 @@
+HVite -A -D -T 1 -l * -o SWT -b silence -C /data/svn-mirror/Main/Trunk/Scripts/AcousticModel_scripts/HTK/AMCreate_scripts/input_files/config -H ./interim_files/hmm7/macros -H ./interim_files/hmm7/hmmdefs -i ./interim_files/aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I ./interim_files/words.mlf -S ./interim_files/train.scp ./interim_files/dict1 ./interim_files/monophones1 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+Read 44 physical / 44 logical HMMs
+Label file will be used to align each file
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-01.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence WELL HERE'S A STORY FOR YOU SARAH PERRY WAS A VETERINARY NURSE silence  ==  [971 frames] -51.3119 [Ac=-49823.8 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-02.mfc
+Created lattice with 18 nodes / 17 arcs from label file
+silence WHO HAD BEEN WORKING DAILY AT AN OLD ZOO IN A DESERTED DISTRICT OF THE TERRITORY silence  ==  [1044 frames] -53.0964 [Ac=-55432.6 LM=0.0] (Act=10.1)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-03.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence SO SHE WAS VERY HAPPY TO START A NEW JOB AT A SUPERB PRIVATE PRACTICE silence  ==  [970 frames] -52.0479 [Ac=-50486.4 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-04.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence IN NORTH SQUARE NEAR THE DUKE STREET TOWER silence  ==  [864 frames] -49.2225 [Ac=-42528.3 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-05.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence THAT AREA WAS MUCH NEARER FOR HER AND MORE TO HER LIKING silence  ==  [853 frames] -51.9694 [Ac=-44329.9 LM=0.0] (Act=10.2)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-06.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence EVEN SO ON HER FIRST MORNING SHE FELT STRESSED silence  ==  [993 frames] -50.1800 [Ac=-49828.7 LM=0.0] (Act=7.0)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-07.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence SHE ATE A BOWL OF PORRIDGE CHECKED HERSELF IN THE MIRROR silence  ==  [888 frames] -51.0363 [Ac=-45320.2 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-08.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence AND WASHED HER FACE IN A HURRY THEN SHE PUT ON A PLAIN YELLOW DRESS silence  ==  [1237 frames] -50.6965 [Ac=-62711.5 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-09.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence AND A FLEECE JACKET PICKED UP HER KIT AND HEADED FOR WORK silence  ==  [966 frames] -49.8476 [Ac=-48152.8 LM=0.0] (Act=10.3)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-10.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence WHEN SHE GOT THERE THERE WAS A WOMAN WITH A GOOSE WAITING FOR HER silence  ==  [1180 frames] -51.6069 [Ac=-60896.1 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-11.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence THE WOMAN GAVE SARAH AN OFFICIAL LETTER FROM THE VET silence  ==  [912 frames] -50.9365 [Ac=-46454.1 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-12.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence THE LETTER IMPLIED THAT THE ANIMAL COULD BE SUFFERING FROM A RARE FORM silence  ==  [918 frames] -54.1405 [Ac=-49701.0 LM=0.0] (Act=11.9)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-13.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+silence OF FOOT AND MOUTH DISEASE WHICH WAS SURPRISING silence  ==  [752 frames] -50.9092 [Ac=-38283.7 LM=0.0] (Act=7.4)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-14.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence BECAUSE NORMALLY YOU WOULD ONLY EXPECT TO SEE IT IN A DOG OR A GOAT silence  ==  [928 frames] -53.4076 [Ac=-49562.2 LM=0.0] (Act=12.9)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-15.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence SARAH WAS SENTIMENTAL SO THIS MADE HER FEEL SORRY FOR THE BEAUTIFUL BIRD silence  ==  [891 frames] -56.8806 [Ac=-50680.6 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-16.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence BEFORE LONG THAT ITCHY GOOSE BEGAN TO STRUT AROUND THE OFFICE LIKE A LUNATIC silence  ==  [898 frames] -53.4146 [Ac=-47966.3 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-17.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+silence WHICH MADE AN UNSANITARY MESS silence  ==  [558 frames] -48.6436 [Ac=-27143.1 LM=0.0] (Act=7.6)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-18.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence THE GOOSE'S OWNER MARY HARRISON KEPT CALLING COMMA COMMA silence  ==  [1002 frames] -51.0709 [Ac=-51173.0 LM=0.0] (Act=9.8)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-19.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence WHICH SARAH THOUGHT WAS AN ODD CHOICE FOR A NAME silence  ==  [886 frames] -49.3411 [Ac=-43716.2 LM=0.0] (Act=7.7)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-20.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence COMMA WAS STRONG AND HUGE SO IT WOULD TAKE SOME FORCE TO TRAP HER silence  ==  [800 frames] -54.1189 [Ac=-43295.1 LM=0.0] (Act=8.9)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-21.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+silence BUT SARAH HAD A DIFFERENT IDEA silence  ==  [570 frames] -48.9526 [Ac=-27903.0 LM=0.0] (Act=9.5)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-22.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence FIRST SHE TRIED GENTLY STROKING THE GOOSE'S LOWER BACK WITH HER PALM silence  ==  [764 frames] -53.0508 [Ac=-40530.8 LM=0.0] (Act=8.1)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-23.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence THEN SINGING A TUNE TO HER FINALLY SHE ADMINISTERED ETHER silence  ==  [869 frames] -51.4072 [Ac=-44672.9 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-24.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence HER EFFORTS WERE NOT FUTILE IN NO TIME THE GOOSE BEGAN TO TIRE silence  ==  [818 frames] -55.6057 [Ac=-45485.5 LM=0.0] (Act=12.2)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-25.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence SO SARAH WAS ABLE TO HOLD ONTO COMMA AND GIVE HER A RELAXING BATH silence  ==  [848 frames] -55.2479 [Ac=-46850.2 LM=0.0] (Act=10.8)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-26.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence ONCE SARAH HAD MANAGED TO BATHE THE GOOSE SHE WIPED HER OFF WITH A CLOTH silence  ==  [758 frames] -55.7479 [Ac=-42256.9 LM=0.0] (Act=10.3)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-27.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+silence AND LAID HER ON HER RIGHT SIDE THEN SARAH CONFIRMED THE VET'S DIAGNOSIS silence  ==  [945 frames] -52.3215 [Ac=-49443.8 LM=0.0] (Act=10.1)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-28.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence ALMOST IMMEDIATELY SHE REMEMBERED AN EFFECTIVE TREATMENT silence  ==  [798 frames] -51.5306 [Ac=-41121.4 LM=0.0] (Act=8.3)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-29.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence THAT REQUIRED HER TO MEASURE OUT A LOT OF MEDICINE silence  ==  [662 frames] -51.0274 [Ac=-33780.2 LM=0.0] (Act=9.3)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-30.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence SARAH WARNED THAT THIS COURSE OF TREATMENT MIGHT BE EXPENSIVE silence  ==  [812 frames] -50.6191 [Ac=-41102.7 LM=0.0] (Act=8.6)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-31.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence EITHER FIVE OR SIX TIMES THE COST OF PENICILLIN silence  ==  [734 frames] -51.8365 [Ac=-38048.0 LM=0.0] (Act=7.1)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-32.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+silence I CAN'T IMAGINE PAYING SO MUCH BUT MRS HARRISON A MILLIONAIRE LAWYER silence  ==  [888 frames] -52.2704 [Ac=-46416.1 LM=0.0] (Act=9.4)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-33.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+silence THOUGHT IT WAS A FAIR PRICE FOR A CURE silence  ==  [700 frames] -48.3052 [Ac=-33813.7 LM=0.0] (Act=10.3)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-34.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+silence COMMA GETS A CURE AND DERIVATIVE WORKS MAY BE USED FREELY FOR ANY PURPOSE silence  ==  [933 frames] -51.5383 [Ac=-48085.2 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-35.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+silence WITHOUT SPECIAL PERMISSION PROVIDED THE PRESENT SENTENCE silence  ==  [689 frames] -50.2571 [Ac=-34627.2 LM=0.0] (Act=8.4)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-36.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+silence AND THE FOLLOWING COPYRIGHT NOTIFICATION ACCOMPANY THE PASSAGE IN PRINT silence  ==  [842 frames] -54.1914 [Ac=-45629.2 LM=0.0] (Act=9.6)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-37.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+silence IF REPRODUCED IN PRINT AND IN AUDIO FORMAT IN THE CASE OF A SOUND RECORDING silence  ==  [939 frames] -55.1010 [Ac=-51739.9 LM=0.0] (Act=20.1)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-38.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+silence COPYRIGHT TWO THOUSAND DOUGLAS N HONOROF JILL MCCULLOUGH AND BARBARA SOMERVILLE silence  ==  [1113 frames] -51.9710 [Ac=-57843.8 LM=0.0] (Act=9.0)
+Aligning File: /data/UserSubmissions/Quarantine/mahasamoot-20070718-cc/mfc/cc-39.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+silence ALL RIGHTS RESERVED silence  ==  [520 frames] -48.5781 [Ac=-25260.6 LM=0.0] (Act=7.0)
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+                  NUMCEPS                       12
+                  CEPLIFTER                     22
+                  NUMCHANS                      26
+                  PREEMCOEF               0.970000
+                  USEHAMMING                  TRUE
+                  WINDOWSIZE         250000.000000
+                  SAVEWITHCRC                 TRUE
+                  SAVECOMPRESSED              TRUE
+                  TARGETRATE         100000.000000
+                  TARGETKIND          MFCC_0_D_N_Z
+
