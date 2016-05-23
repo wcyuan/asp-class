@@ -1,0 +1,13211 @@
+%PDF-1.2
+%גדֿ׃
+2 0 obj
+<<
+/Length 17758
+>>
+stream
+BT
+/T17 1 Tf
+0.24 0 0 -0.24 78.72 694.26 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+[(SPEECH)-18999.9(RECONSTR)]TJ
+560.9999 0 TD
+[(UCTION)-19000(FR)]TJ
+323.0001 0 TD
+[(OM)-19000(MEL)-19000(FREQUENCY)-18999.9(CEPSTRAL)]TJ
+-548 54.9998 TD
+[(COEFFICIENTS)-20000(AND)-18000.1(P)0.1(ITCH)-19000(FREQUENCY)]TJ
+/T16 1 Tf
+-33.0001 113 TD
+[(Dan)-17000(Chazan,)-17000(R)]TJ
+329 0 TD
+0.0001 Tc
+[(on)-16999.8(Ho)]TJ
+127.9999 0 TD
+0 Tc
+[(ory,)-16000(Gilad)-18000.1(Cohen)-18000.1(and)-17000.1(Meir)-17000(Zibulski)]TJ
+/T15 1 Tf
+-220 111.0002 TD
+[(IBM)-14999.9(Researc)]TJ
+276.0001 0 TD
+[(h)-15999.9(Lab)-1000.1(oratory)-18000(in)-15999.9(Haifa)]TJ
+-238.0001 55 TD
+0.0001 Tc
+(MA)Tj
+78 0 TD
+0 Tc
+(T)Tj
+31 0 TD
+[(AM)-15000(Haifa)-16000(31905,)-18000(ISRAEL)]TJ
+23 55 TD
+(c)Tj
+21 0 TD
+(hazan@il.ibm.)Tj
+300 0 TD
+(com)Tj
+/T14 1 Tf
+-782.9999 157 TD
+(ABSTRA)Tj
+184.9999 0 TD
+0.0001 Tc
+(CT)Tj
+/T13 1 Tf
+-553.9999 67 TD
+0 Tc
+[(This)-15000(pap)-1000.1(er)-15000.1(presen)]TJ
+303 0 TD
+[(ts)-14999.9(a)-15000.1(n)0.1(o)]TJ
+118 0 TD
+(v)Tj
+19 0 TD
+-0.0001 Tc
+[(el)-15000.1(lo)]TJ
+70 0 TD
+0 Tc
+[(w)-14999.9(complexit)]TJ
+202.9999 0 TD
+(y)Tj
+17.0001 0 TD
+[(,)-17000(frequency)-15000(do-)]TJ
+-730.0001 42.9998 TD
+[(main)-15000(algorithm)-16000(for)-13999.9(reconstruction)-16999.9(o)0(f)-13000(s)-0.1(p)-999.9(e)0(ec)]TJ
+718 0 TD
+[(h)-15000(from)-14000(the)-15000.1(m)0(el-)]TJ
+-718 44.0002 TD
+[(frequency)-13000(cepstral)-13000(co)-1000(ecien)]TJ
+465 0 TD
+[(ts)-14000(\(MF)]TJ
+118.0001 0 TD
+[(CC\),)-11000(commonly)-13000(used)-13000(b)]TJ
+382.9999 0 TD
+(y)Tj
+-965.9999 42.9998 TD
+[(sp)-1000.1(eec)]TJ
+87 0 TD
+[(h)-19000(recognition)-21000(systems,)-20000(and)-20000(t)0(he)-17999.9(pitc)]TJ
+618 0 TD
+[(h)-19999.9(f)-0.1(requency)-18999.9(v)]TJ
+238 0 TD
+-0.0001 Tc
+(al-)Tj
+-943.0001 44 TD
+0 Tc
+(ues.)Tj
+98 0 TD
+[(The)-19000(reconstruction)-20000.1(tec)]TJ
+390 0 TD
+[(hnique)-21000(is)-19000(based)-19000.1(o)0(n)-19000.1(the)-18999.9(sin)]TJ
+462.9999 0 TD
+(u-)Tj
+-950.9999 43 TD
+[(soidal)-13000(s)0(p)-1000(eec)]TJ
+194 0 TD
+[(h)-12000(represen)]TJ
+170 0 TD
+[(tation.)-19000.1(A)-10999.9(set)-11000(of)-11000.1(sine-w)]TJ
+372.0001 0 TD
+(a)Tj
+17.9999 0 TD
+(v)Tj
+19 0 TD
+[(e)-12000.1(f)0.1(requencies)]TJ
+-773 43.0001 TD
+[(is)-15000(deriv)]TJ
+122 0 TD
+[(ed)-16000(using)-16000.1(the)-15000(pitc)]TJ
+286 0 TD
+[(h)-16000(f)-0.1(requency)-15000(and)-15000.1(v)]TJ
+307 0 TD
+[(oicing)-16999.9(d)-0.1(ecisions,)]TJ
+-715 44 TD
+[(and)-16000(syn)]TJ
+132 0 TD
+[(thetic)-18000(phases)-17000(are)-15999.9(then)-16000(assigned)-17999.9(t)-0.1(o)-15000(eac)]TJ
+651.0001 0 TD
+[(h)-17000(r)0(esp)-1000(e)0.1(ctiv)]TJ
+185 0 TD
+(e)Tj
+-968.0001 43 TD
+[(sine)-12000(w)]TJ
+102 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19 0 TD
+[(e.)-16000(The)-10000.1(sine-w)]TJ
+223 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19 0 TD
+[(e)-12000(a)0(mplitudes)-13000(are)-10000.1(generated)-12000(b)]TJ
+476.9999 0 TD
+[(y)-11000(sam-)]TJ
+-875.9999 44 TD
+[(pling)-15000(a)-13000(linear)-15000(com)]TJ
+302 0 TD
+[(bination)-15000(of)-13000(frequency)-14000.1(d)0.1(omain)-15000.1(basis)-14000(func-)]TJ
+-302 42.9999 TD
+[(tions.)-17000(The)-9000(basis)-10000(function)-11000(gains)-10000(are)-9000.1(determined)-11000(suc)]TJ
+823.0001 0 TD
+10 Tc
+[(ht)10000.1(h)9999.9(a)10000(t)1000(t)10000(h)10000.1(e)]TJ
+-823.0001 43 TD
+0 Tc
+[(mel-frequency)-12000(binned)-13000.1(sp)-1000(ectrum)-12000(o)0(f)-11000(the)-11000(reconstructed)-12000.1(s)0(p)-1000(e)0.1(ec)]TJ
+964.0001 0 TD
+(h)Tj
+-964.0001 44 TD
+[(is)-15000(similar)-17000(to)-15000(the)-15000(mel-frequency)-16000(binned)-17000.1(sp)-1000(ectrum,)-14999.9(obtained)]TJ
+0 43 TD
+[(from)-12000(the)-13000(original)-15000(MF)]TJ
+353 0 TD
+[(CC)-12000.1(v)]TJ
+87.0001 0 TD
+[(ector)-13000(b)]TJ
+115.9999 0 TD
+[(y)-12000(I)-0.1(DCT)-12000.1(a)0.1(nd)-13000(an)]TJ
+256 0 TD
+[(tilog)-15000(op)-1000(er-)]TJ
+-812 43.0001 TD
+[(ations.)-27000(Natural)-17000(sounding,)-18999.9(go)-1000(o)-1000.1(d)-16999.9(qualit)]TJ
+650 0 TD
+18 Tc
+[(yi)18000(n)]TJ
+68 0 TD
+0 Tc
+[(telligib)-1000(le)-19000.1(sp)-1000(eec)]TJ
+246.0001 0 TD
+(h)Tj
+-964.0001 44 TD
+[(is)-14000(obtained)-14000(b)]TJ
+216 0 TD
+[(y)-14000(this)-14000.1(pro)-1000(cedure.)]TJ
+/T14 1 Tf
+66 105 TD
+[(1.)-27000(INTR)]TJ
+176 0 TD
+(ODUCTION)Tj
+/T13 1 Tf
+-458 82 TD
+[(The)-9000(mel-frequency)-9999.9(cepstral)-10000(co)-1000.1(ecien)]TJ
+606 0 TD
+[(ts)-10000(\(MF)]TJ
+114 0 TD
+[(CC\))-8000.1([1])-8000(a)0(re)-9000.1(com-)]TJ
+-720 43 TD
+[(monly)-16000(used)-15000(in)-15000(man)]TJ
+324 0 TD
+15 Tc
+[(ys)15000(p)13999.9(e)15000.1(e)15000(c)]TJ
+122.0001 0 TD
+0 Tc
+[(h)-15999.9(recognition)-17000.1(systems)-15000.1([2].)-20999.9(They)]TJ
+-446.0001 44 TD
+(pla)Tj
+49 0 TD
+[(y)-17000(the)-16000(role)-16000(of)-15000(the)-16000(acoustic)-17000(feature)-15999.9(v)]TJ
+599 0 TD
+[(ectors,)-16000(extracted)-17000(b)]TJ
+317.9999 0 TD
+(y)Tj
+-965.9999 42.9999 TD
+[(the)-12000(fron)]TJ
+131 0 TD
+[(t-end)-11000(of)-12000(the)-11000(s)-0.1(p)-999.9(e)-0.1(ec)]TJ
+292 0 TD
+[(h)-12000(r)-0.1(ecognizer.)-18000.1(The)-12000.1(p)0.1(itc)]TJ
+369 0 TD
+[(h)-11999.9(f)-0.1(requency)]TJ
+-792 43 TD
+(ma)Tj
+50 0 TD
+[(y)-16000(also)-16000(b)-1000(e)-16000(used)-17000(for)-15000(recognition,)-17999.9(esp)-1000(ecially)-18999.9(f)-0.1(or)-15000.1(tonal)-16999.9(lan-)]TJ
+-50 44 TD
+[(guages)-14000(\(e.g.)-17000(Mandarin)-15000(C)0(hinese\).)]TJ
+62 44 TD
+[(Sp)-1000(eec)]TJ
+93 0 TD
+[(h)-20000(recognition)-21000(tec)]TJ
+293 0 TD
+[(hnologies)-21000(are)-19000(nding)-21000.1(their)-19000(w)]TJ
+500.0001 0 TD
+(a)Tj
+17.9999 0 TD
+(y)Tj
+-965.9999 44 TD
+(in)Tj
+30 0 TD
+[(to)-17000(clien)]TJ
+125 0 TD
+(t-serv)Tj
+94 0 TD
+[(er)-17000(application)-1000(s)-0.1(.)-27999.9(I)-0.1(n)-14999.9(some)-16000(scenarios,)-18000(a)-16000(c)0.1(lien)]TJ
+721.0001 0 TD
+(t)Tj
+-970.0001 43 TD
+[(compresses)-19000(the)-19000(sp)-1000(eec)]TJ
+361 0 TD
+[(h)-19000(d)0(uring)-20000(r)-0.1(ecording)-20000.1(using)-20000.1(one)-19000(of)-18000.1(the)]TJ
+-361 43 TD
+[(common)-17000(sp)-1000(eec)]TJ
+244 0 TD
+[(h)-17000(c)0(ompression)-18000(tec)]TJ
+305.0001 0 TD
+[(hniques.)-28999.9(The)-16000(compressed)]TJ
+-549.0001 44.0001 TD
+[(sp)-1000.1(eec)]TJ
+87 0 TD
+[(h)-12000(i)0(s)-12000(then)-12000(stored)-12000.1(on)-11999.9(the)-12000(clien)]TJ
+461 0 TD
+[(t)-13000(f)0(or)-11000.1(future)-12000(uploading)-15000(t)-0.1(o)-11000(a)]TJ
+-548 43 TD
+[(sp)-1000.1(eec)]TJ
+87 0 TD
+[(h)-12000(recognition)-14000(serv)]TJ
+296 0 TD
+[(er)-12000(\(\\)]TJ
+/T12 1 Tf
+78 0 TD
+(deferr)Tj
+98 0 TD
+(e)Tj
+16 0 TD
+11 Tc
+(dr)Tj
+45 0 TD
+0 Tc
+(e)Tj
+16 0 TD
+(c)Tj
+16.0001 0 TD
+(o)Tj
+17.9999 0 TD
+(gnition)Tj
+/T13 1 Tf
+119.0001 0 TD
+[("\),)-7999.9(or)-11999.9(trans-)]TJ
+-789.0001 42.9999 TD
+[(mitted)-18999.9(o)]TJ
+147 0 TD
+(v)Tj
+19 0 TD
+[(er)-19000(a)-19000(bandwidth)-20000(limited)-20999.9(c)]TJ
+438 0 TD
+[(hannel)-20000.1(to)-19000.1(a)-18000(serv)]TJ
+285.0001 0 TD
+[(er)-19000.1(for)]TJ
+-889.0001 44 TD
+[(real)-18000(time)-17000(sp)-1000(eec)]TJ
+256.9999 0 TD
+[(h)-17000.1(r)0.1(ecognition.)-31000(In)-17000(addition,)-19999.9(the)-17000(clien)]TJ
+626.0001 0 TD
+17.9999 Tc
+[(tm)17999.8(a)]TJ
+82.9999 0 TD
+0 Tc
+(y)Tj
+-965.9999 43 TD
+[(also)-15000(supp)-1000(ort)-14000(pla)]TJ
+269 0 TD
+(ybac)Tj
+76 0 TD
+[(k)-16000(o)0(f)-13000(t)-0.1(he)-14000(compressed)-14000(sp)-1000(eec)]TJ
+437 0 TD
+-0.0001 Tc
+[(h.)-20000.2(Ho)]TJ
+98.9999 0 TD
+0 Tc
+(w)Tj
+27.0001 0 TD
+-0.0001 Tc
+(ev)Tj
+35.9999 0 TD
+0 Tc
+(er,)Tj
+-943.9999 44 TD
+[(compressing)-18000(the)-16000(sp)-999.9(eec)]TJ
+375 0 TD
+17 Tc
+(hw)Tj
+65.0001 0 TD
+0 Tc
+(a)Tj
+17.9999 0 TD
+(v)Tj
+19 0 TD
+[(eform)-16000(usually)-18000(increases)-18000.1(r)0.1(ecog-)]TJ
+-477 43 TD
+[(nition)-16000(errors)-15000.1(\(esp)-1000(ecially)-18000(for)-14000(dictation)-16999.9(t)-0.1(asks\),)-14999.9(a)0(nd)-15000(therefore)]TJ
+T*
+[(high)-17000(qualit)]TJ
+182 0 TD
+[(y)-18000(compression)-18000(metho)-999.9(d)0(s)-17000(s)0(hould)-17000(b)-999.9(e)-17000.1(u)0.1(sed.)-25999.9(These)]TJ
+-182 43.9999 TD
+[(metho)-1000(ds)-17000(require)-18000(large)-16999.9(pro)-1000(cessing)-19000.1(p)-1000(o)]TJ
+617 0 TD
+(w)Tj
+27 0 TD
+[(er)-15999.9(or)-15999.9(high)-18000.1(bit)-16999.9(rates,)]TJ
+-644 43 TD
+(whic)Tj
+75 0 TD
+[(h)-14000(are)-14000(often)-13000(not)-13999.9(a)]TJ
+284 0 TD
+(v)Tj
+18 0 TD
+[(ailable)-16000(in)-15000(clien)]TJ
+242 0 TD
+(t-serv)Tj
+94 0 TD
+[(er)-14999.9(systems)-13999.9(\()-0.1(e.g.,)]TJ
+-713 43 TD
+[(when)-13000(a)]TJ
+/T12 1 Tf
+132 0 TD
+(thin-client)Tj
+/T13 1 Tf
+184 0 TD
+[(is)-13000(used\).)]TJ
+-254 44.9999 TD
+[(An)-17000(alternativ)]TJ
+227 0 TD
+[(e)-20000.1(t)0.1(o)-17000(the)-17000(ab)-1000(o)]TJ
+217 0 TD
+(v)Tj
+19 0 TD
+18 Tc
+(ew)Tj
+62 0 TD
+0 Tc
+[(ould)-18000(b)-1000(e)-17000(to)-17000.1(p)-1000(e)0.1(rform)-18000(the)]TJ
+-587 43.0001 TD
+(MF)Tj
+59 0 TD
+[(CC)-15000(feature)-16000(v)]TJ
+222 0 TD
+[(ectors)-16000(extraction)-18000(and)-16000(c)0.1(ompression)-18000(on)-16000(the)]TJ
+-281 44 TD
+(clien)Tj
+74 0 TD
+[(t.)-22000(The)-15000(compressed)-15000.1(feature)-15000(v)]TJ
+483 0 TD
+[(ectors)-14000(can)-14999.9(t)0(hen)-15000.1(b)-1000(e)-15000(stored)]TJ
+-557 43 TD
+[(lo)-1000(cally)-18000(o)0(r)-15000.1(transmitted)-16000(t)0(o)-15000(the)-15000(sp)-1000(eec)]TJ
+588 0 TD
+[(h)-16000(r)0(ecognition)-16999.9(serv)]TJ
+302.9999 0 TD
+0.0001 Tc
+[(er.)-22999.8(I)0(t)]TJ
+-890.9999 43 TD
+0 Tc
+[(has)-11000(b)-1000(een)-11000(sho)]TJ
+208 0 TD
+[(wn)-11000(that)-11000(M)0(F)]TJ
+200 0 TD
+[(CC)-10000(compression)-13000(at)-10000.1(a)-11000(b)-0.1(it)-10999.9(rate)-11000(of)-10000(4.0)]TJ
+672.9999 -1990.9998 TD
+[(Kbps)-19000([3])-9000(is)-11000(p)-1000(ossible)-12000(for)-9000(con)]TJ
+444 0 TD
+(tin)Tj
+45 0 TD
+[(uous)-12000(sp)-999.9(eec)]TJ
+175 0 TD
+[(h)-10000(recognition)-13000(t)-0.2(asks,)]TJ
+-664 44 TD
+[(without)-14000.1(impairing)-16000(recognition)-15000(rates.)-17000(If)-13000(the)-12999.9(p)-0.1(itc)]TJ
+789.9999 0 TD
+-0.0001 Tc
+[(h)-14000.3(f)-0.1(requency)]TJ
+-789.9999 43 TD
+0 Tc
+[(is)-16000(also)-16000(determined)-17000(and)-16000(compressed)-16999.9(during)-17000.1(recording,)-17000(suc)]TJ
+963.9999 0 TD
+(h)Tj
+-963.9999 43 TD
+[(a)-15000.1(c)0.1(lien)]TJ
+108 0 TD
+[(t)-16000(can)-15000(reconstruct)-16000(the)-15000(sp)-1000(eec)]TJ
+461 0 TD
+[(h)-16000(for)-15000.1(pla)]TJ
+147 0 TD
+-0.0001 Tc
+(ybac)Tj
+76.0001 0 TD
+0 Tc
+[(k)-16999.8(p)-0.2(urp)-999.8(o)0(ses,)]TJ
+-792.0001 44 TD
+[(using)-12000(the)-11999.9(algorithm)-13000(presen)]TJ
+441 0 TD
+[(ted)-13000(in)-12000(this)-12000.1(pap)-1000(er.)-16999.9(This)-12000.2(alleviates)]TJ
+-441 43 TD
+[(the)-18000(need)-18000(for)-18000(a)-17000(separate)-19000(compression)-20000(sc)]TJ
+674.0001 0 TD
+0.0001 Tc
+[(heme)-17999.7(to)-17999.9(b)-999.7(e)-17999.9(activ)]TJ
+294 0 TD
+0 Tc
+(e)Tj
+-968.0001 43 TD
+[(during)-16000(recording.)-24000.1(I)0.1(n)-15000(addition,)-18000(pla)]TJ
+576 0 TD
+(ybac)Tj
+76 0 TD
+[(k)-17000(can)-15000.1(b)-999.8(e)-15000(p)-1000.2(e)0.2(rformed)]TJ
+-652 43.9999 TD
+[(on)-19000.1(the)-19000(serv)]TJ
+197 0 TD
+[(er,)-20000(without)-19999.9(t)-0.1(he)-19000(need)-18999.9(t)0(o)-19000(transmit)-20000(i)0.2(nformation)]TJ
+-197 42.9999 TD
+[(other)-10000(t)-0.1(han)-10000(the)-10000(required)-12000(MF)]TJ
+453 0 TD
+[(CC)-9000.1(feature)-9999.9(v)]TJ
+210 0 TD
+[(ector)-10000(and)-11000.2(t)0(he)-10000(pitc)]TJ
+289.9999 0 TD
+0.0002 Tc
+(h.)Tj
+-890.9999 47 TD
+0 Tc
+(T)Tj
+25 0 TD
+-0.0001 Tc
+(ec)Tj
+33 0 TD
+0 Tc
+[(hniques)-14999.9(for)-12000.1(sp)-1000(eec)]TJ
+285 0 TD
+[(h)-13999.9(r)-0.1(econstruction)-15000(f)0.1(rom)-12999.8(mel-cepstral)]TJ
+-405 43.0001 TD
+[(or)-15000(cepstral)-15999.9(lik)]TJ
+233 0 TD
+[(e)-16000(p)-0.1(arameters)-16000(ha)]TJ
+273 0 TD
+(v)Tj
+19 0 TD
+[(e)-15000(b)-1000(een)-16000(p)0.1(reviously)-16999.8(prop)-1000.2(osed)]TJ
+-525 43 TD
+[([4],)-9000([5].)-15000(Ho)]TJ
+175 0 TD
+(w)Tj
+27 0 TD
+(ev)Tj
+36 0 TD
+[(er,)-10000(in)-10000(b)-1000(oth)-10000(cases,)-10000(the)-10000.2(d)0.1(enition)-12000(of)-9000(the)-9000.2(c)0(epstral)]TJ
+-238 44 TD
+[(parameters)-13000(is)-14000.1(rather)-12999.9(s)0(p)-1000(ecic,)-14000(c)]TJ
+512 0 TD
+[(hosen)-14000.1(a)-13000(priori)-15000(to)-12000(allo)]TJ
+347.0001 0 TD
+13.9998 Tc
+[(ws)13999.8(p)12999.8(e)13999.6(c)13999.8(-)]TJ
+-859.0001 43 TD
+0 Tc
+[(tral)-12000(reconstruction)-13999.9(and)-12000(not)-12000(in)-13000(line)-13000(with)-11999.9(the)-11999.9(M)0(F)]TJ
+787.0001 0 TD
+[(CC)-11000(features)]TJ
+-787.0001 44 TD
+[(used)-13000.1(in)-14000(sp)-1000(eec)]TJ
+219 0 TD
+[(h)-14000(recognition)-16000(systems.)]TJ
+-157 45.9999 TD
+[(The)-15999.9(MF)]TJ
+140.9999 0 TD
+[(CC)-16000(feature)-16000(v)]TJ
+223.0001 0 TD
+[(ector)-16000(i)0.1(s)-17000.1(c)0.1(omputed)-17000(b)]TJ
+340.9999 0 TD
+16 Tc
+[(yi)15999.8(n)]TJ
+66 0 TD
+0 Tc
+(tegration)Tj
+-832.9999 43 TD
+[(of)-14000(the)-14000.1(sp)-1000(ectrum)-15000(within)-16000.1(triangular)]TJ
+/T12 1 Tf
+583 0 TD
+(bins)Tj
+/T13 1 Tf
+81 0 TD
+[(arranged)-15000.2(o)0(n)-15000(a)-13999.8(mel-)]TJ
+-664 44 TD
+[(frequency)-19000(axis)-18000(to)-18000(form)-18000(a)-18000(mel)-18000(frequency)]TJ
+/T12 1 Tf
+702 0 TD
+-0.0001 Tc
+(binne)Tj
+90.0001 0 TD
+16 Tc
+[(ds)16000(p)]TJ
+70 0 TD
+0 Tc
+(e)Tj
+15.9998 0 TD
+(ctrum)Tj
+/T13 1 Tf
+99 0 TD
+(,)Tj
+-976.9999 43.0001 TD
+(follo)Tj
+69 0 TD
+(w)Tj
+27 0 TD
+[(ed)-13000(b)]TJ
+71 0 TD
+[(y)-12000(a)-12000(log)-14000(and)-13000(DCT)-11000(op)-1000(erations.)-19000(The)-12000.1(M)0.2(F)]TJ
+633.9999 0 TD
+[(CC)-11000.2(v)]TJ
+86.0002 0 TD
+-0.0001 Tc
+(ectors)Tj
+-887.0001 43 TD
+0 Tc
+[(and)-11000(pitc)]TJ
+134.0001 0 TD
+[(h)-11999.9(i)0(f)-10000(used,)-12000(con)]TJ
+217.9999 0 TD
+[(tain)-12000(sucien)]TJ
+209.0001 0 TD
+[(t)-10999.9(information)-13000(for)-10000(con)]TJ
+344 0 TD
+(tin)Tj
+45 0 TD
+-0.0002 Tc
+(u-)Tj
+-950.0001 44 TD
+0 Tc
+[(ous)-12000(sp)-1000(eec)]TJ
+154 0 TD
+[(h)-12000.1(r)0.1(ecognition)-13999.9(\(at)-11999.9(v)]TJ
+309 0 TD
+[(arious)-13000(rates)-11000.1(o)0(f)-11999.9(e)0(rror\).)-15999.8(Ho)]TJ
+417.0001 0 TD
+(w)Tj
+26.9998 0 TD
+0.0002 Tc
+(ev)Tj
+36.0002 0 TD
+0 Tc
+(er,)Tj
+-943.0001 43 TD
+[(it)-18000(is)-19000.1(not)-18000(o)0(b)]TJ
+199 0 TD
+[(vious)-19000(that)-19000(go)-1000(o)-1000(d)-18000(qualit)]TJ
+384.9999 0 TD
+20.0002 Tc
+[(ys)20000.3(p)19000.1(e)20000.3(e)20000.2(c)]TJ
+127.0002 0 TD
+0 Tc
+[(h)-18999.9(can)-17999.8(b)-1000.2(e)-17999.8(regen-)]TJ
+-711.0001 44 TD
+[(erated)-19000(from)-18000(them,)-19000(since)-20000(d)-0.1(uring)-20000.1(the)-18000(f)0(eature)-19000.1(extraction,)-21000(a)]TJ
+0 42.9999 TD
+(signican)Tj
+152 0 TD
+[(t)-15000(amoun)]TJ
+141.0001 0 TD
+[(t)-12999.9(o)0.1(f)-13000(i)-0.1(nformation)-14000(i)0(s)-14000.1(l)0.2(ost.)-17000.1(This)-14000(includes)-15000(t)-0.2(he)]TJ
+-293.0001 43 TD
+[(phase)-15000(information,)-16000(discarded)-15000.1(during)-16000(the)-14000(sp)-1000(ectrum)-14999.8(calcula-)]TJ
+0 44 TD
+[(tion)-19000.1(\(absolute)-19000(v)]TJ
+273 0 TD
+[(alue)-19000(of)-18000(the)-18000(windo)]TJ
+304 0 TD
+(w)Tj
+27 0 TD
+[(ed)-19000.2(DFT\))-17999.9(and)-18000(t)0.2(he)-18000(ne)]TJ
+-604 43 TD
+[(details)-20000(of)-17000(the)-18000(sp)-1000(ectrum)-18999.9(d)0.1(iscarded)-20000(during)-20000(the)-18000(in)]TJ
+823.0001 0 TD
+(tegration.)Tj
+-823.0001 43.0001 TD
+[(In)-11000(addition,)-14000(in)-13000(most)-11000.1(cases)-12000(some)-12000(of)-12000(the)-10999.9(higher)-13000(order)-12000(c)0(epstral)]TJ
+0 44 TD
+[(co)-1000.1(ecien)]TJ
+150 0 TD
+[(ts)-18000(are)-17000(discarded.)-31000(This)-18000(information)-19000.1(is)-18000(considered)]TJ
+-150 43 TD
+(\\redundan)Tj
+174 0 TD
+[(t")-15000(to)-13000(some)-13000(exten)]TJ
+281.0001 0 TD
+[(t)-12999.9(for)-13000.1(the)-13000(r)0(ecognition)-16000(p)-0.2(ro)-999.8(cess.)]TJ
+-393.0001 47 TD
+[(The)-14000(prop)-1000(osed)-14999.9(reconstruction)-16000(algorithm)-15999.9(syn)]TJ
+727.9999 0 TD
+[(thesizes)-16000(the)]TJ
+-789.9999 42.9999 TD
+[(extra)-18000(information)-20000(required)-19000(for)-18000.1(sp)-1000(eec)]TJ
+623 0 TD
+[(h)-19000(repro)-1000(duction.)]TJ
+296.9999 0 TD
+0.0001 Tc
+(The)Tj
+-919.9999 42.9999 TD
+0 Tc
+[(reconstructed)-10000(s)0(p)-1000(eec)]TJ
+322 0 TD
+[(h)-10000(will)-11000(ha)]TJ
+139 0 TD
+(v)Tj
+19.0001 0 TD
+[(e)-9999.9(t)0(he)-8999.9(same)-9000.1(pitc)]TJ
+243 0 TD
+[(h)-9999.9(a)0(s)-10000(the)-9000(original)]TJ
+-723.0001 44 TD
+[(sp)-1000.1(eec)]TJ
+87.0001 0 TD
+[(h)-13999.9(a)0(nd)-12999.9(a)-13000(s)-0.1(imilar)-14999.9(binned)-15000.1(sp)-1000(ectrum)-14000(\(or)-13000(MF)]TJ
+682 0 TD
+-0.0001 Tc
+(CC\).)Tj
+-707.0001 46.0001 TD
+0 Tc
+[(Section)-14999.9(2)-14000.1(p)0(resen)]TJ
+272.9999 0 TD
+[(ts)-15000.1(the)-14000(r)0(econstruction)-16000(s)0.1(c)]TJ
+396.0001 0 TD
+[(heme.)-20000.2(Sections)]TJ
+-731 43.9999 TD
+[(3)-9000(and)-19000(4)-9000(describ)-1000(e)-10000(the)-10000.1(computational)-12000(details)-11000.1(of)-7999.9(the)-10000(m)0.2(ain)-10000(algo-)]TJ
+0 43 TD
+[(rithmic)-14000.1(blo)-1000(c)]TJ
+201 0 TD
+[(ks.)-20000(Results)-14000(and)-14000(future)-14000(d)0.1(irections)-15000.1(are)-14000(discussed)]TJ
+-201 43 TD
+[(in)-14000(section)-14000(5)0(.)]TJ
+/T14 1 Tf
+98 115.0001 TD
+[(2.)-26000(RECONSTR)]TJ
+310 0 TD
+[(UCTION)-12999.9(ALGORITHM)]TJ
+/T13 1 Tf
+-408 85.9999 TD
+[(The)-12000(algorithm)-15000(is)-13000(based)-13000(on)-13000(using)-14000(a)-13000(sin)]TJ
+627 0 TD
+[(usoidal)-15000(m)0.2(o)-1000.2(del)-13999.8([6],)-12000([)0.2(7],)]TJ
+-627 43.0001 TD
+[(where)-14000.1(a)-14999.9(short-term)-15000(\(ST\))-14000(sp)-1000.1(eec)]TJ
+518.0001 0 TD
+[(h)-16000(s)0.1(ignal)-17000(i)0(s)-15000(r)0.1(epresen)]TJ
+325 0 TD
+[(ted)-16000(b)]TJ
+88.9998 0 TD
+15.0002 Tc
+(ya)Tj
+-931.9999 44 TD
+0 Tc
+[(sum)-16000.1(of)-15000(sine)-17000(w)]TJ
+237.0001 0 TD
+(a)Tj
+17.9999 0 TD
+(v)Tj
+19.0001 0 TD
+[(es.)-26000.1(T)0.1(he)-16000(ST-signal)-17000(is)-16999.9(c)]TJ
+381.9999 0 TD
+[(haracterized)-16999.8(b)]TJ
+239.9999 0 TD
+17 Tc
+[(yt)16999.8(h)17000(e)]TJ
+-895.9999 43 TD
+0 Tc
+[(frequencies,)-18000(amplitudes)-19000(and)-17000(phases)-17000(of)-16000.1(the)-17000(s)0.1(ine-w)]TJ
+834.0001 0 TD
+(a)Tj
+17.9998 0 TD
+(v)Tj
+19 0 TD
+17.0002 Tc
+[(ec)17000.2(o)17000.4(m)17000(-)]TJ
+-870.9999 43 TD
+1 Tc
+[(po)1000(n)999.9(e)1000.1(n)]TJ
+99 0 TD
+0 Tc
+[(ts.)-18000(Giv)]TJ
+118 0 TD
+[(en)-14000(the)-12999.9(M)0(F)]TJ
+177 0 TD
+[(CC)-12000(v)]TJ
+87 0 TD
+[(ector,)-13000(t)0(he)-12999.9(pitc)]TJ
+235 0 TD
+-0.0001 Tc
+[(h)-13000.1(f)-0.1(requency)-14000.3(and)]TJ
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/T12 4 0 R
+/T13 5 0 R
+/T14 6 0 R
+/T15 7 0 R
+/T16 8 0 R
+/T17 9 0 R
+>>
+/ExtGState <<
+/GS1 10 0 R
+>>
+>>
+endobj
+12 0 obj
+<<
+/FunctionType 0
+/Domain [0 1]
+/Range [0 1]
+/BitsPerSample 8
+/Size [256]
+/Length 271
+/Filter /FlateDecode
+>>
+stream
+H‰  ÿ‏ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~€‚ƒ„…†‡ˆ‰‹‘’“”•–—˜™› ¡¢£₪¥¦§¨©×«¬­®¯°±²³´µ¶·¸¹÷»¼½¾¿ְֱֲֳִֵֶַָֹÊֻּֽ־ֿ׀ׁׂ׃װױײ׳״ÙÚÛÜÝÞßאבגדהוזחטיךכלםמןנסעףפץצקרשתûü‎‏ÿ ­צ
+endstream
+endobj
+14 0 obj
+<<
+/Length 17028
+>>
+stream
+BT
+/T13 1 Tf
+0.24 0 0 -0.24 49.68 715.86 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+[(the)-10000(v)]TJ
+82 0 TD
+[(oicing)-11000(decision,)-12000(a)-10000(set)-9000(of)-8999.9(sine-w)]TJ
+488 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+18.9999 0 TD
+[(e)-10000.1(f)-0.1(requencies)-11000.1(are)-9999.9(deter-)]TJ
+-606.9999 43 TD
+[(mined,)-18000(according)-18000(to)-15000(the)-17000(required)-17000(syn)]TJ
+633.0001 0 TD
+[(thesis)-17999.9(sampling)-18000.1(rate.)]TJ
+-633.0001 43 TD
+(Syn)Tj
+61 0 TD
+[(thetic)-14000(phases)-14000(are)-12999.9(then)-13000.1(generated)-13999.9(a)0(nd)-12999.9(assigned)-14999.9(t)-0.1(o)-12000(t)0(hem.)]TJ
+-61 44 TD
+[(The)-17000(sine-w)]TJ
+186 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19.0001 0 TD
+[(e)-18000(amplitudes)-19000(are)-17000(estimated)-18000.1(a)0(ccording)-19000(to)-17000.1(the)]TJ
+-223 43 TD
+[(desired)-14000(binned)-15000(sp)-1000.1(ectrum,)-13000(calculated)-15000.1(f)-0.1(rom)-12999.9(t)-0.1(he)-13000(giv)]TJ
+820.0001 0 TD
+[(en)-13999.9(MF)]TJ
+110.9999 0 TD
+0.0001 Tc
+(CC)Tj
+-930.9999 43 TD
+0 Tc
+(v)Tj
+19 0 TD
+[(ector.)-25000(Finally)]TJ
+231 0 TD
+[(,)-19000(t)0(he)-16000(short)-16000(time)-15999.9(F)]TJ
+312 0 TD
+[(ourier)-16000(transform)-16000(\(STFT\))]TJ
+-562 43.9998 TD
+[(is)-14000(reconstructed)-16000(and)-14000(con)]TJ
+411 0 TD
+(v)Tj
+19 0 TD
+[(erted)-15000(to)-13000.1(a)-13999.9(time)-15000.1(domain)-15000(signal)-16000(b)]TJ
+535.9999 0 TD
+(y)Tj
+-965.9999 43.0002 TD
+[(an)-13000(o)]TJ
+71 0 TD
+(v)Tj
+19 0 TD
+[(erlap-add)-15000(metho)-1000(d.)]TJ
+-27.9999 62 TD
+[(The)-13000(reconstruction)-13999.9(s)-0.1(c)]TJ
+361 0 TD
+[(heme)-12999.9(i)0(s)-14000(p)-0.1(resen)]TJ
+244 0 TD
+[(ted)-13000(i)0.1(n)-14000(F)0(ig.)-28999.9(1)0(.)-17000(I)-0.1(t)-11999.9(i)-0.1(s)]TJ
+-667 42.9998 TD
+[(applied)-12000(ev)]TJ
+167 0 TD
+[(ery)-11000(10)-10000(msec)-10000(frame)-10000(u)0(sing)-12000(an)-10000(MF)]TJ
+514 0 TD
+[(CC)-10000(feature)-10000(v)]TJ
+211.0001 0 TD
+(ector,)Tj
+-892.0001 44.0002 TD
+10 Tc
+(av)Tj
+48 0 TD
+0 Tc
+[(oicing)-13000(decision)-12000(and)-11000(a)-10000(pitc)]TJ
+413.9999 0 TD
+[(h)-12000(f)-0.1(requency)-11000(v)]TJ
+222 0 TD
+[(alue)-11000(for)-10000.1(the)-10999.9(v)]TJ
+216.9999 0 TD
+(oiced)Tj
+-900.9999 42.9998 TD
+[(case.)-17000(The)-12000(output)-12000.1(is)-13000(a)-12000(windo)]TJ
+465 0 TD
+(w)Tj
+27 0 TD
+[(ed)-13000.1(short-term)-12000(signal)-14000(\(20)-12000(msec)]TJ
+-492 43.0002 TD
+[(long\).)-19000(After)-13000(an)-13000(o)]TJ
+286 0 TD
+(v)Tj
+19 0 TD
+[(erlap-add)-15999.9(with)-13000(the)-14000(S)-0.1(T-signal)-15000(of)-13000(previous)]TJ
+-305 43.9998 TD
+[(frames,)-13000(a)-13000(1)0(0)-13000(msec)-13000(sp)-999.9(eec)]TJ
+398 0 TD
+[(h)-14000(signal)-15000(frame)-13000(is)-13000(pro)-999.9(d)0(uced.)]TJ
+ET
+0 G
+0 J 0 j 0.507 w 10 M []0 d
+1 i 
+175.966 467.637 m
+175.966 467.637 l
+S
+1 J [0.507 2.026 ]2.026 d
+125.309 452.439 m
+145.572 452.439 l
+S
+0 J 2 j []0 d
+137.466 454.466 m
+145.572 452.439 l
+137.466 450.413 l
+S
+0 j 
+145.572 487.9 60.789 30.395 re
+175.966 487.9 m
+175.966 467.637 l
+S
+2 j 
+177.993 475.742 m
+175.966 467.637 l
+173.94 475.742 l
+S
+0 j 
+175.966 538.558 m
+175.966 518.294 l
+S
+2 j 
+177.993 526.4 m
+175.966 518.294 l
+173.94 526.4 l
+S
+0 j 
+94.914 538.558 m
+94.914 467.637 l
+S
+2 j 
+96.94 475.742 m
+94.914 467.637 l
+92.888 475.742 l
+S
+0 j 
+64.519 437.242 60.789 30.395 re
+145.572 437.242 60.789 30.395 re
+94.914 437.242 m
+94.914 366.321 l
+145.572 366.321 l
+S
+2 j 
+137.466 368.347 m
+145.572 366.321 l
+137.466 364.295 l
+S
+0 j 0.253 w 
+239.289 416.979 m
+239.289 416.979 l
+S
+0.507 w 
+175.966 480.301 m
+221.558 480.301 l
+221.558 366.321 l
+206.361 366.321 l
+S
+2 j 
+214.466 364.295 m
+206.361 366.321 l
+214.466 368.347 l
+S
+0 j 
+175.966 437.242 m
+175.966 386.584 l
+S
+2 j 
+177.993 394.69 m
+175.966 386.584 l
+173.94 394.69 l
+S
+0 j 
+145.572 406.847 m
+155.703 406.847 l
+155.703 386.584 l
+S
+2 j 
+157.73 394.69 m
+155.703 386.584 l
+153.677 394.69 l
+S
+0 j 
+125.309 239.677 m
+145.572 239.677 l
+S
+2 j 
+137.466 241.703 m
+145.572 239.677 l
+137.466 237.65 l
+S
+0 j 
+175.966 224.479 m
+175.966 204.216 l
+S
+2 j 
+177.993 212.322 m
+175.966 204.216 l
+173.94 212.322 l
+S
+0 j 
+145.572 224.479 60.789 30.395 re
+145.572 173.822 60.789 30.395 re
+175.966 173.822 m
+175.966 153.559 l
+S
+2 j 
+177.993 161.664 m
+175.966 153.559 l
+173.94 161.664 l
+S
+0 j 
+145.572 346.058 60.789 40.526 re
+175.966 346.058 m
+175.966 315.663 l
+S
+2 j 
+177.993 323.769 m
+175.966 315.663 l
+173.94 323.769 l
+S
+0 j 
+145.572 285.269 60.789 30.395 re
+175.966 285.269 m
+175.966 254.874 l
+S
+2 j 
+177.993 262.979 m
+175.966 254.874 l
+173.94 262.979 l
+S
+0 j 0.253 w [2.026 ]0 d
+125.309 399.249 111.447 -131.71 re
+S
+0.507 w []0 d
+162.289 125.697 m
+164.199 140.939 165.465 146.005 167.355 145.96 c
+172.028 145.849 171.243 107.884 174.953 107.967 c
+178.143 108.038 176.638 140.783 180.019 140.894 c
+182.389 140.972 181.661 118.275 185.085 118.098 c
+187.434 117.977 187.689 133.39 190.151 133.295 c
+191.354 133.249 191.987 130.716 192.683 123.164 c
+S
+BT
+/F2 1 Tf
+9.1184 0 0 9.1184 84.7824 543.6233 Tm
+[(MFCC)-4443.2(Pitch & Voicing)]TJ
+8.3333 -9.7222 TD
+(3. Phase)Tj
+ET
+175.966 406.847 m
+175.966 406.847 l
+S
+BT
+9.1184 0 0 9.1184 158.2361 444.8407 Tm
+(Synthesis)Tj
+-5.2778 -3.3333 TD
+(synthesis)Tj
+-3.6111 4.4444 TD
+(1. IDCT &)Tj
+7.7778 5.5556 TD
+(2. Frequencies)Tj
+1.1111 -1.1111 TD
+(Selection)Tj
+-8.6111 -5.5556 TD
+(Antilog)Tj
+-1.1111 -5.2778 TD
+(target)Tj
+-0.2778 -1.1111 TD
+(binned)Tj
+-0.8333 -1.1111 TD
+(spectrum)Tj
+18.3333 9.1667 TD
+(voicing weights)Tj
+-0.2778 1.1111 TD
+( frequencies,)Tj
+-18.8889 -24.7222 TD
+( frequencies, phases,)Tj
+0.2778 -1.1111 TD
+(synthesis window)Tj
+5 -11.6667 TD
+(Output Speech)Tj
+8.3333 31.9444 TD
+( phases)Tj
+-3.0556 -20.5556 TD
+(Reconstruction)Tj
+1.3889 1.1111 TD
+(5. STFT)Tj
+-1.1111 -6.6667 TD
+(Overlap-Add)Tj
+0.8333 1.1111 TD
+(6. IDFT &)Tj
+0.5556 18.0556 TD
+(Process)Tj
+-1.3889 1.3889 TD
+(Minimization)Tj
+3.0556 -4.1667 TD
+(basis function)Tj
+0.2778 -0.8333 TD
+(gains)Tj
+-2.7778 -3.3333 TD
+(Generation)Tj
+0 1.1111 TD
+(Amplitude)Tj
+8.0556 8.6111 TD
+(4)Tj
+-5.2778 -11.9444 TD
+(amplitudes)Tj
+-7.5 14.4444 TD
+(window)Tj
+/T13 1 Tf
+0.24 0 0 -0.24 58.08 87.0601 Tm
+[(Figure)-14000(1:)-17000(Blo)-1000(c)]TJ
+241 0 TD
+[(k)-14000(diagram)-15000(o)-0.1(f)-13000(t)0.1(he)-13000(reconstruction)-14999.9(s)-0.1(c)]TJ
+576.9999 0 TD
+(heme.)Tj
+290 -2619.9995 TD
+[(The)-12999.9(algorithm)-15000(i)-0.1(s)-14000(c)0.1(omprised)-14000(of)-13000(the)-13000(f)-0.1(ollo)]TJ
+652.9999 0 TD
+[(wing)-15000(stages:)]TJ
+-662 64 TD
+(1.)Tj
+/T14 1 Tf
+50 0 TD
+[(Mel-cepstrum)-15000(to)-16000.1(binned)-13000(sp)-1000(ectrum)-15999.8(con)]TJ
+747.0002 0 TD
+(v)Tj
+21.9998 0 TD
+(ersion)Tj
+/T13 1 Tf
+-769 43 TD
+[(\(blo)-999.9(c)]TJ
+82 0 TD
+[(k)-20000(1)-18000(in)-20000.1(Fig.)-18000(1\))-19000.1({)-18000(T)0(his)-18999.9(i)-0.1(s)-19000(t)0(he)-19000.1(mathematical)-19999.8(in-)]TJ
+-82 44.0002 TD
+(v)Tj
+19 0 TD
+[(ersion)-20000(o)0(f)-16999.9(t)-0.1(he)-18000(log)-19000(a)-0.1(nd)-18000.1(DCT)-17000(op)-999.9(erations)-19999.8(carried)-18000(out)]TJ
+-19 42.9998 TD
+[(during)-21000(the)-18999.9(M)-0.1(F)]TJ
+259 0 TD
+[(CC)-18000.1(computation.)]TJ
+331 0 TD
+[(If)-18000(the)-19000(n)]TJ
+136 0 TD
+0.0002 Tc
+(um)Tj
+52.0002 0 TD
+0.9998 Tc
+[(be)999.8(r)-19000.2(o)999.6(f)]TJ
+-778.0002 43 TD
+0 Tc
+[(mel-cepstral)-17999.9(co)-999.9(ecien)]TJ
+369 0 TD
+[(ts)-18000.1(is)-16000(smaller)-17999.9(t)-0.1(han)-16999.8(the)-16000(n)]TJ
+407 0 TD
+0.0002 Tc
+(um)Tj
+52.0002 0 TD
+0.9998 Tc
+[(be)999.8(r)]TJ
+-828.0002 44 TD
+0 Tc
+[(of)-15000.1(frequency)-15000(bins,)-16000.1(the)-15000(MF)]TJ
+442.0001 0 TD
+-0.0001 Tc
+[(CC)-14000.1(v)]TJ
+88.9999 0 TD
+0 Tc
+[(ector)-15000(i)0(s)-14999.9(expanded)-16000(b)]TJ
+331 0 TD
+(y)Tj
+-862 43 TD
+[(adding)-14999.9(zero)-14000.1(co)-1000.1(ecien)]TJ
+358.0001 0 TD
+-0.0001 Tc
+(ts.)Tj
+-408.0001 63 TD
+0 Tc
+(2.)Tj
+/T14 1 Tf
+50 0 TD
+(F)Tj
+24.0001 0 TD
+[(requencies)-10000(a)0.1(nd)-10000.1(v)]TJ
+313.9999 0 TD
+[(oicing)-8000.1(w)]TJ
+154.0001 0 TD
+(eigh)Tj
+79 0 TD
+[(ts)-9000.1(selection)]TJ
+/T13 1 Tf
+216.9999 0 TD
+0.0001 Tc
+[(\(blo)-999.7(c)]TJ
+82.0002 0 TD
+0 Tc
+(k)Tj
+-870.0002 44 TD
+[(2\))-18000.1({)-16999.9(A)]TJ
+116 0 TD
+[(t)-17000.1(t)0.1(his)-18000.1(p)-1000(o)0(in)]TJ
+182.0001 0 TD
+[(t)-18999.9(a)-17000.1(set)-18000.1(o)0(f)-16999.9(s)-0.1(ine-w)]TJ
+286 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+18.9999 0 TD
+[(e)-18000(frequencies)-19000(is)]TJ
+-621 43 TD
+[(selected)-17000(according)-17999.9(to)-16000(the)-14999.9(v)]TJ
+459 0 TD
+[(oicing)-18000(decision)-18000(and)-17000(pitc)]TJ
+402 0 TD
+(h)Tj
+-861 43 TD
+(frequency)Tj
+157 0 TD
+[(.)-27000.1(Eac)]TJ
+99 0 TD
+[(h)-17000(sine-w)]TJ
+141 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19 0 TD
+[(e)-17000.1(comp)-1000(onen)]TJ
+201.0001 0 TD
+[(t)-16999.9(i)0(s)-17000.2(a)0(ssigned)-18000(a)]TJ
+-635.0001 44 TD
+(v)Tj
+19 0 TD
+[(oicing)-12000(w)]TJ
+135.0001 0 TD
+(eigh)Tj
+66 0 TD
+[(t)-10000(a)0(ccording)-11000.1(to)-8999.9(a)-9000.1(p)0.1(redetermined)-11999.8(template)]TJ
+-220.0001 43 TD
+(represen)Tj
+137.0001 0 TD
+[(ting)-16000(the)-14000(v)]TJ
+167 0 TD
+[(oicing)-16000.1(d)0.1(egree.)-20000(This)-14000.1(is)-14000(describ)-1000.2(ed)-16000(in)]TJ
+-304.0001 42.9998 TD
+[(subsection)-16000.1(3.1.)]TJ
+-50 63 TD
+(3.)Tj
+/T14 1 Tf
+50 0 TD
+0.0001 Tc
+[(Phase)-16999.9(s)0.2(yn)]TJ
+194 0 TD
+0 Tc
+(thesis)Tj
+/T13 1 Tf
+123.0001 0 TD
+[(\(blo)-1000.1(c)]TJ
+82 0 TD
+[(k)-14999.9(3)-0.1(\))-13999.9({)-14000(In)-14000(this)-14999.9(stage)-14000(the)-14000(sine-)]TJ
+-399.0001 44.0002 TD
+(w)Tj
+27.0001 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19 0 TD
+[(e)-12999.9(p)-0.1(hases)-14000(corresp)-1000(onding)-15999.9(t)-0.1(o)-13000(t)0.1(he)-12999.9(sine-w)]TJ
+614.9999 0 TD
+(a)Tj
+18.0002 0 TD
+(v)Tj
+19 0 TD
+[(e)-13000(f)0(requen-)]TJ
+-716.0002 42.9998 TD
+[(cies)-16000(are)-16000.1(syn)]TJ
+197 0 TD
+[(thesized.)-25000(T)0.1(he)-15000.1(phase)-15999.9(syn)]TJ
+414.0001 0 TD
+[(thesis)-17000(algorithm)]TJ
+-611.0001 43 TD
+[(is)-14000.1(describ)-1000(e)-0.1(d)-14999.9(i)0(n)-14000.1(s)0.1(ubsection)-14999.9(3.2.)]TJ
+-50 63.0002 TD
+(4.)Tj
+/T14 1 Tf
+50 0 TD
+[(Amplitude)-13000.1(generation)]TJ
+/T13 1 Tf
+437 0 TD
+[(\(blo)-1000(c)]TJ
+82 0 TD
+[(ks)-13999.9(4\))-12000.1({)-12999.9(The)-13000(sine-w)]TJ
+309.0002 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19 0 TD
+(e)Tj
+-865.0002 43.9999 TD
+[(amplitudes)-14000.1(are)-9999.9(calculated)-13000(i)0.1(n)-12000.1(accordance)-12000.2(with)-11000(the)-11000.2(t)0.2(ar-)]TJ
+0 43 TD
+[(get)-11000(binned)-12000(sp)-1000(ectrum,)-11999.9(u)-0.1(sing)-12000(a)-10000(set)-11000(of)-9999.9(frequency)-11000(d)0.2(omain)]TJ
+0 42.9999 TD
+[(basis)-19000(functions.)-31000.1(The)-16999.9(algorithm)-20000(is)-18000.1(describ)-1000(ed)-19000.2(in)-18000.2(sec-)]TJ
+0 44 TD
+[(tion)-14000.1(4.)]TJ
+-50 63 TD
+(5.)Tj
+/T14 1 Tf
+50 0 TD
+[(STFT)-13000(reconstruction)]TJ
+/T13 1 Tf
+418.0001 0 TD
+[(\(blo)-999.9(c)]TJ
+81.9999 0 TD
+0.0001 Tc
+[(k)-13000(5)0.1(\))-11999.9({)-11999.9(T)0.2(he)-11999.7(frequencies,)]TJ
+-500 43 TD
+0 Tc
+[(phases)-15000(and)-15000.1(a)0(mplitudes)-16000.1(a)0.1(re)-14000(com)]TJ
+528.0001 0 TD
+[(bined)-16000(to)-12999.8(form)-14000(a)-14000(s)-0.2(ine-)]TJ
+-528.0001 44 TD
+(w)Tj
+27.0001 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19 0 TD
+[(e)-15999.9(r)-0.1(epresen)]TJ
+169.9999 0 TD
+[(tation.)-26000(The)-16000.1()0(nal)-16000.1(reconstructed)-17000(STFT)]TJ
+-234 43.0001 TD
+[(is)-16000(constructed)-16000(f)0(rom)-15000(the)-15000(sine)-16000(w)]TJ
+517.0001 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19 0 TD
+[(es)-14999.9(b)]TJ
+66.9999 0 TD
+[(y)-15000(a)-15000(con)]TJ
+125.0002 0 TD
+(v)Tj
+18.9998 0 TD
+(olution)Tj
+-765 43 TD
+[(pro)-999.9(c)-0.1(edure.)]TJ
+-50 63 TD
+(6.)Tj
+/T14 1 Tf
+50 0 TD
+0.0001 Tc
+(Con)Tj
+78 0 TD
+0 Tc
+(v)Tj
+22 0 TD
+[(ersion)-10999.9(to)-10999.9(time)-10000(domain)]TJ
+/T13 1 Tf
+425 0 TD
+[(\(blo)-1000(c)]TJ
+82 0 TD
+[(k)-11000(6)0(\))-9000({)-10000.2(This)-10000(is)-11000(the)]TJ
+-607 43.9999 TD
+[(nal)-16000(stage)-15000(in)-15000.1(whic)]TJ
+308.0001 0 TD
+[(h)-14999.9(t)0(he)-14000(time)-14999.9(domain)-16000(signal)-15999.8(frame)-14000(is)]TJ
+-308.0001 43.0001 TD
+[(computed.)-18000.1(A)-9999.9(windo)]TJ
+329.0001 0 TD
+(w)Tj
+26.9999 0 TD
+[(ed)-11999.9(short-term)-11000(signal)-12999.8(is)-12000(obtained)]TJ
+-356 43 TD
+(b)Tj
+20.0001 0 TD
+[(y)-14000(a)0(n)-14000(I)0.1(DFT)-14000.1(and)-14000(then)-13999.9(o)]TJ
+379 0 TD
+(v)Tj
+19 0 TD
+[(erlap-added)-17000(to)-13000(the)-14000(previous)]TJ
+-418.0001 44 TD
+[(ST)-13000(signal.)]TJ
+-40.9999 63.9999 TD
+[(An)-17000(additional)-21000(step)-18000.1(ma)]TJ
+389 0 TD
+[(y)-18000(b)-1000(e)-18000(n)0(ecessary)-18000(in)-18999.9(the)-17999.8(t)-0.2(ime)-17999.8(d)0(o-)]TJ
+-451 43.0001 TD
+[(main)-20000(if)-19000(the)-19000(o)0(riginal)-22000(MF)]TJ
+419 0 TD
+[(CC)-18000.1(v)]TJ
+93 0 TD
+[(ectors)-20000.1(w)]TJ
+145 0 TD
+[(ere)-18000.1(c)0.1(omputed)-20000(o)0(n)-20000.2(a)]TJ
+-657 43.9999 TD
+[(pre-emphasized)-12000.1(v)]TJ
+287.0001 0 TD
+[(ersion)-11000(of)-10000(the)-10000.1(sp)-1000.1(eec)]TJ
+299 0 TD
+[(h)-10999.9(signal,)-12000(as)-9999.8(is)-10000(commonly)]TJ
+-586.0001 43.0001 TD
+[(done)-15000.1(in)-16000(sp)-1000(eec)]TJ
+227 0 TD
+[(h)-15000(recognition)-17000(systems)-15000([2].)-21000.1(A)-15000(d)0.1(e-emphasis)-15999.8(l-)]TJ
+-227 44 TD
+[(ter,)-10000(whic)]TJ
+143.0001 0 TD
+9.9999 Tc
+[(hi)9999.9(n)]TJ
+60.9999 0 TD
+0 Tc
+(v)Tj
+19 0 TD
+[(erts)-11000(the)-10000(eect)-10000(of)-10000(the)-10000.2(p)0.1(re-emphasis)-11000(lter)-11000(s)-0.2(hould)]TJ
+-223 43 TD
+[(then)-13000.1(b)-1000(e)-12999.9(applied.)]TJ
+/T14 1 Tf
+25 107 TD
+[(3.)-26000(HARMONIC)-14000(EX)]TJ
+395 0 TD
+(CIT)Tj
+76 0 TD
+(A)Tj
+29 0 TD
+[(TION)-15000(GENERA)]TJ
+320.9999 0 TD
+-0.0001 Tc
+(TION)Tj
+/T13 1 Tf
+-845.9999 82.9999 TD
+0 Tc
+(F)Tj
+22 0 TD
+[(or)-10000(ev)]TJ
+80 0 TD
+[(ery)-11999.9(short-term)-11000(analysis)-12999.9(i)0(n)]TJ
+424 0 TD
+(terv)Tj
+65 0 TD
+[(al,)-13000(the)-10999.9(s)-0.1(ine-w)]TJ
+220.0001 0 TD
+(a)Tj
+17.9998 0 TD
+(v)Tj
+19.0002 0 TD
+11.9998 Tc
+[(es)11999.6(p)11000(e)11999.6(e)11999.8(c)]TJ
+115.9998 0 TD
+0 Tc
+(h)Tj
+-963.9999 42.9999 TD
+(represen)Tj
+137.0001 0 TD
+[(tation)-17000(is)-16000(dened)-17000(as)-15000(the)-15000(s)-0.1(et)]TJ
+/T11 1 Tf
+471.9999 0 TD
+(f)Tj
+/T10 1 Tf
+19 0 TD
+(f)Tj
+/T9 1 Tf
+18.9999 4 TD
+(i)Tj
+/T10 1 Tf
+13 -4 TD
+6.0001 Tc
+(;A)Tj
+/T9 1 Tf
+46.0001 4 TD
+0 Tc
+(i)Tj
+/T10 1 Tf
+13 -4 TD
+6 Tc
+(;')Tj
+/T9 1 Tf
+41.9999 4 TD
+0 Tc
+(i)Tj
+/T11 1 Tf
+13 -4 TD
+(g)Tj
+/T9 1 Tf
+19 -15.9999 TD
+(N)Tj
+/T8 1 Tf
+27 0 TD
+( )Tj
+/T7 1 Tf
+24.0002 0 TD
+(1)Tj
+/T9 1 Tf
+-51.0002 25.9999 TD
+(i)Tj
+/T7 1 Tf
+11 0 TD
+(=0)Tj
+/T13 1 Tf
+57.0002 -10 TD
+0.0001 Tc
+[(,)-15999.7(w)0.1(here)]TJ
+/T10 1 Tf
+-861.0001 43 TD
+0 Tc
+(N)Tj
+/T13 1 Tf
+48 0 TD
+[(is)-15000(the)-14000(n)]TJ
+127 0 TD
+(um)Tj
+52 0 TD
+[(b)-1000.1(e)0.1(r)-15000(o)0.1(f)-14000.1(sine-w)]TJ
+217 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19 0 TD
+[(e)-15000(c)-0.1(omp)-1000(onen)]TJ
+199.0001 0 TD
+-0.0001 Tc
+[(ts,)-15000.2(a)-0.1(nd)]TJ
+/T10 1 Tf
+132 0 TD
+0 Tc
+(f)Tj
+/T9 1 Tf
+19 4 TD
+(i)Tj
+/T13 1 Tf
+13 -4 TD
+(,)Tj
+/T10 1 Tf
+23.9998 0 TD
+(A)Tj
+/T9 1 Tf
+29 4 TD
+(i)Tj
+/T13 1 Tf
+27.0002 -4 TD
+-0.0001 Tc
+(and)Tj
+/T10 1 Tf
+-924.0001 44.0001 TD
+0 Tc
+(')Tj
+/T9 1 Tf
+25 3.9999 TD
+(i)Tj
+/T13 1 Tf
+21.9999 -3.9999 TD
+[(are)-9000.1(their)-11000(frequencies,)-11000(a)-0.1(mplitudes)-12000(a)0(nd)-10000(phases)-9999.8(resp)-1000(ectiv)]TJ
+882 0 TD
+0.0001 Tc
+(ely)Tj
+44.0002 0 TD
+0 Tc
+(.)Tj
+-973.0001 42.9999 TD
+[(The)-13000(\\harmonic)-16000.1(excitation")-15000(is)-15000.1(dened)-14000(b)]TJ
+657 0 TD
+[(y)-14000(the)-14000(sine-w)]TJ
+204.0001 0 TD
+(a)Tj
+17.9998 0 TD
+(v)Tj
+19.0002 0 TD
+14 Tc
+[(ef)14000.2(r)13999.8(e)14000(-)]TJ
+-898.0001 44 TD
+0 Tc
+[(quencies)-10000(and)-10000(phases,)-10000(and)-10000(the)-8000(a)0(mplitudes)-12000.2(a)0(re)-9000(asso)-1000(c)-0.2(iated)-10000(w)0.2(ith)]TJ
+0 43 TD
+[(the)-13000(actual)-14000(sp)-1000.1(ectral)-14000(shaping.)]TJ
+/T14 1 Tf
+0 103 TD
+[(3.1.)-27000(F)]TJ
+119 0 TD
+[(requencies)-15000(and)-14000(v)]TJ
+323 0 TD
+[(oicing)-13000(w)]TJ
+159 0 TD
+(eigh)Tj
+79.0001 0 TD
+[(ts)-14000(selection)]TJ
+/T13 1 Tf
+-680.0001 69.9999 TD
+[(This)-19999.9(s)-0.1(tep)-20000(c)0(onsists)-22000(of)-19000(selecting)-22000(the)]TJ
+/T10 1 Tf
+617.0001 0 TD
+(N)Tj
+/T13 1 Tf
+54.9999 0 TD
+(sine-w)Tj
+103.0001 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19 0 TD
+[(e)-20000(f)0(requen-)]TJ
+-812.0001 43.0001 TD
+(cies)Tj
+/T11 1 Tf
+75 0 TD
+(f)Tj
+/T10 1 Tf
+19 0 TD
+(f)Tj
+/T9 1 Tf
+18.9999 4 TD
+(i)Tj
+/T11 1 Tf
+13.0001 -4 TD
+(g)Tj
+/T9 1 Tf
+19 -16 TD
+(N)Tj
+/T8 1 Tf
+26.9999 0 TD
+( )Tj
+/T7 1 Tf
+24.0001 0 TD
+(1)Tj
+/T9 1 Tf
+-51 27.0001 TD
+(i)Tj
+/T7 1 Tf
+10.9999 0 TD
+(=0)Tj
+/T13 1 Tf
+73 -11.0001 TD
+0.0001 Tc
+[(and)-17000(t)0.2(he)-15999.9(v)]TJ
+166.0001 0 TD
+0 Tc
+[(oicing)-18000(w)]TJ
+141 0 TD
+(eigh)Tj
+66 0 TD
+(ts)Tj
+/T11 1 Tf
+47 0 TD
+(f)Tj
+/T10 1 Tf
+18.9999 0 TD
+()Tj
+/T9 1 Tf
+20.0001 4 TD
+(i)Tj
+/T11 1 Tf
+13 -4 TD
+(g)Tj
+/T9 1 Tf
+19 -16 TD
+(N)Tj
+/T8 1 Tf
+26.9999 0 TD
+( )Tj
+/T7 1 Tf
+24 0 TD
+(1)Tj
+/T9 1 Tf
+-50.9999 27.0001 TD
+(i)Tj
+/T7 1 Tf
+11 0 TD
+-0.0001 Tc
+(=0)Tj
+/T13 1 Tf
+57.0001 -11.0001 TD
+26 Tc
+[(.T)26000.2(h)25999.8(e)10000.2(v)]TJ
+137.9998 0 TD
+0 Tc
+(oic-)Tj
+-925.9999 44 TD
+0.0001 Tc
+[(ing)-16999.8(w)]TJ
+94 0 TD
+0 Tc
+(eigh)Tj
+66 0 TD
+[(ts)-17000(are)-16000.1(assigned)-18000.1(v)]TJ
+287 0 TD
+[(alues)-17000(b)-1000.1(e)0.1(t)]TJ
+152.0001 0 TD
+(w)Tj
+26.9999 0 TD
+[(een)-17000.1(0)-15999.9(and)-15999.8(1,)-17000(and)-17000(are)]TJ
+-626 43 TD
+(em)Tj
+48 0 TD
+[(b)-1000(e)-0.1(dded)-17000(in)-17000(the)-15999.9(amplitude)-19000(calculation)-19000(\()-0.1(see)-16000(d)0(enition)-19000(\(4\))]TJ
+-48 43 TD
+[(b)-1000(elo)]TJ
+67 0 TD
+(w\).)Tj
+ET
+endstream
+endobj
+15 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/F2 16 0 R
+/T7 17 0 R
+/T8 18 0 R
+/T9 19 0 R
+/T10 20 0 R
+/T11 21 0 R
+/T13 5 0 R
+/T14 6 0 R
+>>
+/ExtGState <<
+/GS1 10 0 R
+>>
+>>
+endobj
+23 0 obj
+<<
+/Length 28218
+>>
+stream
+BT
+/T13 1 Tf
+0.24 0 0 -0.24 64.56 715.86 Tm
+0 g
+/GS1 gs
+-0.0001 Tc
+0 Tw
+[(In)-11000.1(v)]TJ
+65 0 TD
+0 Tc
+[(oiced)-12000(frames,)-10000.1(t)0.1(he)-11000(frequencies)-12000(a)0(re)-9999.9(c)]TJ
+562 0 TD
+[(hosen)-11999.9(a)-0.1(s)-10000(t)0.1(he)-11000(pitc)]TJ
+275.0001 0 TD
+(h)Tj
+-964.0001 43 TD
+(harmonics,)Tj
+/T10 1 Tf
+196 0 TD
+(f)Tj
+/T9 1 Tf
+19 3.9998 TD
+(i)Tj
+/T13 1 Tf
+25 -3.9998 TD
+(=)Tj
+/T10 1 Tf
+41.9999 0 TD
+(i)Tj
+/T11 1 Tf
+23 0 TD
+()Tj
+/T10 1 Tf
+20 0 TD
+(F)Tj
+/T7 1 Tf
+25 3.9998 TD
+(0)Tj
+/T13 1 Tf
+31 -3.9998 TD
+(where)Tj
+/T10 1 Tf
+112.0001 0 TD
+(F)Tj
+/T7 1 Tf
+25 3.9998 TD
+(0)Tj
+/T13 1 Tf
+29.9999 -3.9998 TD
+0.0001 Tc
+[(is)-14999.8(the)-13999.9(p)0.2(itc)]TJ
+169 0 TD
+0 Tc
+[(h)-15000(f)0(requency)]TJ
+192.9999 0 TD
+21.0001 Tc
+(.T)Tj
+57.0001 0 TD
+0 Tc
+(o)Tj
+-967.0001 43 TD
+[(reconstruct)-20000(a)-18000(more)-19000(natural)-20000(sound,)-20999.9(a)0(dditional)-22000.1(\\)0(un)]TJ
+862.0001 0 TD
+(v)Tj
+18.9999 0 TD
+(oiced")Tj
+-880.9999 44 TD
+[(frequencies)-12000(are)-11000(arbitrarily)-14000(added.)-17000(These)-11000(are)-11000(mostly)-12000(c)-0.1(oncen-)]TJ
+0 43 TD
+[(trated)-15000(in)-16000(the)-15000(u)-0.1(pp)-1000(er)-15000.1(frequency)-16000(band.)-24000(The)-14000(pitc)]TJ
+778 0 TD
+[(h)-16000(harmonics)]TJ
+-778 43 TD
+[(are)-13999.9(assigned)-15000(v)]TJ
+236 0 TD
+[(oicing)-16000(w)]TJ
+139 0 TD
+(eigh)Tj
+66 0 TD
+[(ts)-14000.1(of)-13999.9(1.)-18999.9(The)-13000.1(a)0(dditional)-17000(u)0(n)]TJ
+439.9999 0 TD
+(v)Tj
+19 0 TD
+(oiced)Tj
+-899.9999 43.9998 TD
+[(frequencies)-18000(are)-16000(assigned)-18000(w)]TJ
+449 0 TD
+(eigh)Tj
+66 0 TD
+[(ts)-16000(rising)-18000.1(f)0(rom)-16000(0)-16000(t)-0.1(o)-16000(1)-16000(a)0(s)-16000(t)0(he)]TJ
+-515 43.0002 TD
+[(frequency)-14000(increases.)]TJ
+62 46 TD
+-0.0001 Tc
+[(In)-12000.2(un)]TJ
+88 0 TD
+0 Tc
+(v)Tj
+19 0 TD
+[(oiced)-14000.1(frames,)-12000(the)-12000(frequencies)-14000.1(selected)-13000(corresp)-1000.1(o)0(nd)]TJ
+-169 44 TD
+[(to)-9000(the)-10000.1(frequencies)-11000(of)-8999.9(the)-10000(DFT)-9000.1(p)-999.9(oin)]TJ
+564 0 TD
+[(ts,)-12000(eac)]TJ
+105 0 TD
+[(h)-9000.1(a)0.1(ssigned)-12000(a)0(n)-10000(e)0(qual)]TJ
+-669 43 TD
+(w)Tj
+27 0 TD
+(eigh)Tj
+66 0 TD
+14 Tc
+[(to)14000(f)2000(1)14000(.)]TJ
+/T14 1 Tf
+-93 108.9998 TD
+0 Tc
+[(3.2.)-27000(Phase)-16000(syn)]TJ
+288 0 TD
+(thesis)Tj
+/T13 1 Tf
+-288 72.0002 TD
+[(The)-10000(un)]TJ
+117 0 TD
+(v)Tj
+19 0 TD
+[(oiced)-11000(frequencies)-12000(are)-10000(eac)]TJ
+402 0 TD
+[(h)-10000(assigned)-11000(a)-10000(uniformly)-12000(ran-)]TJ
+-538 42.9998 TD
+[(dom)-14000(phase,)-15000(i.e.,)]TJ
+/T10 1 Tf
+279 0 TD
+(')Tj
+/T9 1 Tf
+25 4 TD
+(i)Tj
+/T13 1 Tf
+25 -4 TD
+(=)Tj
+/T10 1 Tf
+41.9999 0 TD
+(U)Tj
+/T13 1 Tf
+30 0 TD
+([)Tj
+/T11 1 Tf
+11 0 TD
+( )Tj
+/T10 1 Tf
+30 0 TD
+1 Tc
+[(;)-6000()]TJ
+/T13 1 Tf
+64 0 TD
+0 Tc
+[(].)-19000(F)]TJ
+63 0 TD
+[(or)-14000(the)-14000(v)]TJ
+134 0 TD
+[(oiced)-15000.1(frequencies)]TJ
+-703 44.0002 TD
+(\(pitc)Tj
+77 0 TD
+[(h)-15000(harmonics\),)-15000(a)-14000(phase)-13999.9(g)-0.1(eneration)-16000.1(s)0.1(c)]TJ
+606.0001 0 TD
+[(heme)-14000(based)-15000(o)0(n)-14000([)0.1(7])]TJ
+-683.0001 42.9998 TD
+[(is)-13000(used.)-18000(In)-12000(this)-13000(case)-13000.1(v)]TJ
+362 0 TD
+[(oiced)-14000(phases)-13000(m)0(a)]TJ
+269 0 TD
+[(y)-13000(consist)-13999.9(of)-12000(t)]TJ
+215.9999 0 TD
+(w)Tj
+27.0001 0 TD
+0.0001 Tc
+[(o)-11999.9(c)0.2(om-)]TJ
+-874.0001 43.0002 TD
+0 Tc
+[(p)-1000(onen)]TJ
+99 0 TD
+-0.0001 Tc
+(ts:)Tj
+/T10 1 Tf
+60 86.9998 TD
+0 Tc
+(')Tj
+/T9 1 Tf
+25 4.0002 TD
+(i)Tj
+/T13 1 Tf
+24 -4.0002 TD
+(=)Tj
+/T10 1 Tf
+40 0 TD
+(i)Tj
+/T7 1 Tf
+36 4.0002 TD
+(0)Tj
+/T13 1 Tf
+18 -4.0002 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+1 Tc
+(kT)Tj
+/T13 1 Tf
+48.0001 0 TD
+8.9999 Tc
+[(\)+)999.9()]TJ
+/T9 1 Tf
+89.9999 4.0002 TD
+0 Tc
+(i)Tj
+/T10 1 Tf
+13.0001 -4.0002 TD
+(;)Tj
+56 0 TD
+(i)Tj
+/T13 1 Tf
+22.9999 0 TD
+11 Tc
+(=0)Tj
+/T10 1 Tf
+59.9999 0 TD
+0 Tc
+(;)Tj
+/T13 1 Tf
+17.0001 0 TD
+(1)Tj
+/T10 1 Tf
+18.9999 0 TD
+6 Tc
+[(;::)-999.9(:;N)]TJ
+/T11 1 Tf
+123 0 TD
+0 Tc
+( )Tj
+/T13 1 Tf
+32 0 TD
+(1)Tj
+/T10 1 Tf
+19 0 TD
+(;)Tj
+/T13 1 Tf
+-817 87.0001 TD
+(where)Tj
+/T10 1 Tf
+112 0 TD
+(k)Tj
+/T13 1 Tf
+36 0 TD
+[(is)-14000(the)-15000(frame)-14000(index,)]TJ
+/T10 1 Tf
+332 0 TD
+(T)Tj
+/T13 1 Tf
+42 0 TD
+[(is)-13999.9(the)-15000(frame)-14000.1(d)0(uration,)]TJ
+/T10 1 Tf
+383.9999 0 TD
+()Tj
+/T7 1 Tf
+23 4 TD
+(0)Tj
+/T13 1 Tf
+31 -4 TD
+(is)Tj
+-959.9999 43 TD
+[(the)-10000(pitc)]TJ
+125 0 TD
+[(h)-12000(excitation)-12000(p)-0.1(hase)-11000(and)-11000()]TJ
+/T9 1 Tf
+412 3.9999 TD
+(i)Tj
+/T13 1 Tf
+23 -3.9999 TD
+[(is)-11000.1(an)-11000(optional)-12000(phase)-11000(oset)]TJ
+-560 43 TD
+[(asso)-1000(ciated)-14000(with)-13000(the)-12000(v)]TJ
+353 0 TD
+[(o)-1000(c)-0.1(al)-13000.1(tract.)-17000(The)-12000(pitc)]TJ
+328 0 TD
+[(h)-13000(e)0(xcitation)-14000(phase)]TJ
+-681 44 TD
+[(is)-14000(calculated)-16000(suc)]TJ
+273 0 TD
+[(h)-15000(that)-14000.1(the)-13999.9(pitc)]TJ
+249 0 TD
+[(h)-14000(harmonics)-15999.9(a)-0.1(re)-14000(con)]TJ
+340.9999 0 TD
+(tin)Tj
+45.0001 0 TD
+(uous)Tj
+-908.0001 42.9999 TD
+(o)Tj
+18 0 TD
+(v)Tj
+19.0001 0 TD
+[(er)-15000(frame)-15000(b)-1000(oundaries.)-24000(It)-15000(is)-15000.1(ev)]TJ
+490.9999 0 TD
+[(aluated)-17000(using)-16000(the)-15000(follo)]TJ
+377.9999 0 TD
+0.0001 Tc
+(wing)Tj
+-905.9999 44.0001 TD
+0 Tc
+(expression:)Tj
+/T10 1 Tf
+58 117 TD
+()Tj
+/T7 1 Tf
+23 3.9999 TD
+(0)Tj
+/T13 1 Tf
+17 -3.9999 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+1 Tc
+(kT)Tj
+/T13 1 Tf
+48 0 TD
+0 Tc
+(\))Tj
+57 0 TD
+(=)Tj
+/T6 1 Tf
+72.0001 -56 TD
+(Z)Tj
+/T9 1 Tf
+41 11 TD
+1 Tc
+(kT)Tj
+/T7 1 Tf
+-18 83.9999 TD
+0 Tc
+(0)Tj
+/T13 1 Tf
+66.0001 -38.9999 TD
+(2)Tj
+/T10 1 Tf
+18.9999 0 TD
+1.0001 Tc
+(F)Tj
+/T7 1 Tf
+48.0001 3.9999 TD
+0 Tc
+(0)Tj
+/T13 1 Tf
+16.9999 -3.9999 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+()Tj
+/T13 1 Tf
+23 0 TD
+(\))Tj
+/T10 1 Tf
+15 0 TD
+(d)Tj
+/T13 1 Tf
+-298 105 TD
+(=)Tj
+/T10 1 Tf
+72.0001 0 TD
+()Tj
+/T7 1 Tf
+23 4 TD
+(0)Tj
+/T13 1 Tf
+17 -4 TD
+([\()Tj
+/T10 1 Tf
+26 0 TD
+(k)Tj
+/T11 1 Tf
+29 0 TD
+( )Tj
+/T13 1 Tf
+39 0 TD
+0.0001 Tc
+(1\))Tj
+/T10 1 Tf
+34 0 TD
+0 Tc
+(T)Tj
+/T13 1 Tf
+27.0001 0 TD
+8.9999 Tc
+[(]+)999.8(2)]TJ
+/T10 1 Tf
+76.9999 0 TD
+0 Tc
+()Tj
+/T6 1 Tf
+29.9999 -45.0001 TD
+()Tj
+/T10 1 Tf
+25 45.0001 TD
+(F)Tj
+/T7 1 Tf
+30.0001 -19 TD
+(\()Tj
+/T9 1 Tf
+11.9999 0 TD
+(k)Tj
+/T8 1 Tf
+17 0 TD
+( )Tj
+/T7 1 Tf
+24.0001 0 TD
+-0.0001 Tc
+(1\))Tj
+-58.0001 29 TD
+0 Tc
+(0)Tj
+/T13 1 Tf
+95 -10 TD
+(+)Tj
+/T10 1 Tf
+39 0 TD
+(F)Tj
+/T7 1 Tf
+30 -19 TD
+(\()Tj
+/T9 1 Tf
+12 0 TD
+(k)Tj
+/T7 1 Tf
+17 0 TD
+(\))Tj
+-34 29 TD
+(0)Tj
+/T6 1 Tf
+48 -55.0001 TD
+()Tj
+/T10 1 Tf
+36 21.0001 TD
+(T)Tj
+ET
+q
+6.72 0 0 -0.48 262.056 381.8041 cm
+/Im1 Do
+Q
+BT
+/T13 1 Tf
+0.24 0 0 -0.24 263.04 373.14 Tm
+(2)Tj
+/T10 1 Tf
+29.0001 -25 TD
+(;)Tj
+/T13 1 Tf
+-918.0001 103 TD
+(where)Tj
+/T10 1 Tf
+109 0 TD
+(F)Tj
+/T7 1 Tf
+25 4 TD
+(0)Tj
+/T13 1 Tf
+17 -4 TD
+(\()Tj
+/T11 1 Tf
+15 0 TD
+()Tj
+/T13 1 Tf
+11 0 TD
+[(\))-10000(i)0(s)-12000(the)-12000(con)]TJ
+183 0 TD
+(tin)Tj
+45 0 TD
+[(uous-time)-13000(pitc)]TJ
+238 0 TD
+[(h)-13000.1(f)0.1(requency)-12000(function)]TJ
+-643 51.9999 TD
+(and)Tj
+/T10 1 Tf
+72 0 TD
+(F)Tj
+/T7 1 Tf
+30 -19 TD
+(\()Tj
+/T9 1 Tf
+12 0 TD
+(k)Tj
+/T7 1 Tf
+17 0 TD
+(\))Tj
+-34 28 TD
+(0)Tj
+/T13 1 Tf
+59 -9 TD
+[(is)-11000(the)-10000(pitc)]TJ
+161 0 TD
+[(h)-12000(a)0(t)-11000(f)-0.1(rame)]TJ
+/T10 1 Tf
+183 0 TD
+(k)Tj
+/T13 1 Tf
+21.0001 0 TD
+[(.)-15999.9(Linear)-12000(in)]TJ
+175 0 TD
+[(terp)-1000(olation)-14000(of)-10000(the)]TJ
+-696.0001 43.0001 TD
+(pitc)Tj
+62 0 TD
+[(h)-14000(frequency)-13999.9(function)-14000.1(i)0.1(s)-14000(a)-0.1(ssumed)-14000.1(b)-1000(et)]TJ
+605 0 TD
+(w)Tj
+27 0 TD
+[(een)-13000(t)-0.1(he)-14000.1(frames.)]TJ
+-632 46 TD
+[(The)-16000(additional)-19000(phase)-16999.9()]TJ
+/T9 1 Tf
+404 3.9999 TD
+(i)Tj
+/T13 1 Tf
+29 -3.9999 TD
+[(can)-16000.1(b)-999.9(e)-16000(deriv)]TJ
+210.0001 0 TD
+-0.0001 Tc
+[(ed)-18000.2(using)-17000.2(a)-16000.1(mini-)]TJ
+-705.0001 42.9999 TD
+0 Tc
+(m)Tj
+31 0 TD
+[(um)-12000(phase)-12000(mo)-1000(del.)-17999.9(Assuming)-13000(the)-12000(v)]TJ
+558 0 TD
+[(o)-1000(cal)-13000(tract)-12000.1(transfer)-12000.1(f)0(unc-)]TJ
+-589 44.0001 TD
+[(tion)-18000(is)-18000(minim)]TJ
+230 0 TD
+[(um)-19000(phase,)-19000(a)-18000(relation)-18999.9(b)-1000.1(e)-0.1(t)]TJ
+430 0 TD
+(w)Tj
+27 0 TD
+[(een)-17999.9(i)-0.1(ts)-18000.1(amplitude)]TJ
+-687 42.9999 TD
+[(and)-15000(phase)-15000(can)-15000(b)-1000(e)-15000(expressed)-15000(via)-16000(the)-14000(complex)-16000(cepstrum)-15000([)-0.1(8].)]TJ
+0 44 TD
+[(The)-15000(input)-17000(binned)-18000(sp)-1000(ectrum)-16000.1(ma)]TJ
+535 0 TD
+[(y)-16000.1(b)-1000(e)-15999.9(used)-16000(in)-16000(order)-15999.9(to)-16000(esti-)]TJ
+-535 43 TD
+[(mate)-12000(a)-12000(smo)-999.9(othed)-13000(v)]TJ
+318.0001 0 TD
+[(ersion)-13000(of)-12000.1(the)-11999.9(s)0(p)-1000(e)0(ec)]TJ
+304.9999 0 TD
+[(h)-12999.9(s)-0.1(p)-1000(e)-0.1(ctrum,)-13000(and)-12000.1(f)0(rom)]TJ
+-623 43.0001 TD
+[(it)-12000(the)-12000(additional)-16000(phase)-12000(comp)-1000(onen)]TJ
+555.0001 0 TD
+-0.0001 Tc
+[(ts)-14000.2()]TJ
+/T9 1 Tf
+71.9999 4 TD
+0 Tc
+(i)Tj
+/T13 1 Tf
+24 -4 TD
+[(can)-12999.9(b)-1000.1(e)-12000.1(calculated)-14000(at)]TJ
+-650.9999 43.9999 TD
+[(the)-13000(frequencies)]TJ
+/T10 1 Tf
+263 0 TD
+(f)Tj
+/T9 1 Tf
+19 4.0001 TD
+(i)Tj
+/T13 1 Tf
+13.0001 -4.0001 TD
+(.)Tj
+/T14 1 Tf
+-130 111.9999 TD
+[(4.)-26000(AMPLITUDE)-14000(GENERA)]TJ
+541 0 TD
+(TION)Tj
+-706 85.0001 TD
+[(4.1.)-27000(Minimization)-11000(problem)-14000(denition)-12000(and)-15000.1(solution)]TJ
+/T13 1 Tf
+0 72.9999 TD
+[(The)-16000(ob)-2000(jectiv)]TJ
+214 0 TD
+[(e)-17000(o)0(f)-16000(t)0.1(his)-17000(stage)-17000(is)-15999.9(to)-17000(reconstruct)-17000(the)-16000(s)0(equence)]TJ
+/T11 1 Tf
+-214 43 TD
+(f)Tj
+/T10 1 Tf
+19 0 TD
+(A)Tj
+/T9 1 Tf
+29 4 TD
+(i)Tj
+/T11 1 Tf
+13 -4 TD
+(g)Tj
+/T9 1 Tf
+19 -18 TD
+(N)Tj
+/T8 1 Tf
+27 0 TD
+( )Tj
+/T7 1 Tf
+24 0 TD
+(1)Tj
+/T9 1 Tf
+-51 29 TD
+(i)Tj
+/T7 1 Tf
+11 0 TD
+(=0)Tj
+/T13 1 Tf
+57 -11 TD
+[(,)-13000(giv)]TJ
+72 0 TD
+[(en)-15000(the)-13000(sine-w)]TJ
+222 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19.0001 0 TD
+[(e)-14000(f)0.1(requencies)]TJ
+/T11 1 Tf
+227.9999 0 TD
+(f)Tj
+/T10 1 Tf
+19.0001 0 TD
+(f)Tj
+/T9 1 Tf
+18.9999 4 TD
+(i)Tj
+/T11 1 Tf
+13 -4 TD
+(g)Tj
+/T9 1 Tf
+19 -18 TD
+(N)Tj
+/T8 1 Tf
+27 0 TD
+( )Tj
+/T7 1 Tf
+24 0 TD
+(1)Tj
+/T9 1 Tf
+-51 29 TD
+(i)Tj
+/T7 1 Tf
+11.0001 0 TD
+-0.0001 Tc
+(=0)Tj
+/T13 1 Tf
+69.9999 -11 TD
+0 Tc
+[(and)-14000(the)]TJ
+-857.9999 50 TD
+[(target)-14000(binned)-16000(s)0(p)-1000(ectrum)]TJ
+/T11 1 Tf
+409 0 TD
+(f)Tj
+/T10 1 Tf
+20.0001 0 TD
+()Tj
+/T9 1 Tf
+21.9999 4 TD
+(k)Tj
+/T11 1 Tf
+18 -4 TD
+(g)Tj
+/T9 1 Tf
+20 -17 TD
+(M)Tj
+/T8 1 Tf
+32.0001 0 TD
+( )Tj
+/T7 1 Tf
+23.9999 0 TD
+(1)Tj
+/T9 1 Tf
+-56 29.0001 TD
+(k)Tj
+/T7 1 Tf
+17 0 TD
+(=0)Tj
+/T13 1 Tf
+54.9999 -12.0001 TD
+14 Tc
+[(,w)14000(h)13999.9(e)14000(r)14000.1(e)]TJ
+/T10 1 Tf
+137 0 TD
+0 Tc
+(M)Tj
+/T13 1 Tf
+55.0001 0 TD
+[(is)-13999.9(the)-14000.1(n)]TJ
+125.9999 0 TD
+(um)Tj
+52 0 TD
+1 Tc
+[(be)1000(r)]TJ
+-930.9999 44 TD
+0 Tc
+[(of)-13000(frequency)-13999.9(bins)-14000(\(t)]TJ
+328 0 TD
+[(ypically)-16000.1(24\).)]TJ
+-266 46 TD
+[(In)-12000.1(general,)-13000(giv)]TJ
+237 0 TD
+[(en)-14000.1(a)-10999.9(s)-0.1(ine-w)]TJ
+185 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19.0001 0 TD
+12.9999 Tc
+[(es)12999.9(p)11999.9(e)12999.8(e)13000(c)]TJ
+116.9999 0 TD
+0 Tc
+[(h)-13000(represen)]TJ
+171 0 TD
+[(tation,)-14000(the)]TJ
+-809 43 TD
+[(discrete-time)-15000(F)]TJ
+251 0 TD
+[(ourier)-14000(transform)]TJ
+/T7 1 Tf
+274 -16 TD
+(1)Tj
+/T13 1 Tf
+31 16 TD
+[(of)-13000(the)-14000(corresp)-1000(onding)-16000(win-)]TJ
+ET
+q
+94.8 0 0 -0.48 49.656 118.2841 cm
+/Im1 Do
+Q
+BT
+/T7 1 Tf
+0.24 0 0 -0.24 60.72 111.3001 Tm
+(1)Tj
+/T5 1 Tf
+18 11.0001 TD
+[(The)-8000(discrete-tim)]TJ
+254 0 TD
+4.9999 Tc
+(eF)Tj
+40.9999 0 TD
+0 Tc
+[(ourier)-7000(transform)-5000(of)-8000(a)-8000(signal)]TJ
+/T4 1 Tf
+416 0 TD
+(x)Tj
+/T5 1 Tf
+20 0 TD
+([)Tj
+/T4 1 Tf
+10.0001 0 TD
+(n)Tj
+/T5 1 Tf
+21 0 TD
+7.9999 Tc
+[(]i)7999.8(sd)7999.8(e)7999.9()8000(n)7999.8(e)7999.9(d)]TJ
+-826.0001 51.9999 TD
+0 Tc
+(as:)Tj
+/T4 1 Tf
+58 0 TD
+(X)Tj
+/T5 1 Tf
+32 0 TD
+(\()Tj
+/T4 1 Tf
+14 0 TD
+(f)Tj
+/T5 1 Tf
+21.0001 0 TD
+(\))Tj
+/T3 1 Tf
+24 -20.9999 TD
+(4)Tj
+/T5 1 Tf
+-1 20.9999 TD
+(=)Tj
+/T6 1 Tf
+38 -29 TD
+(P)Tj
+/T9 1 Tf
+44 44 TD
+(n)Tj
+/T4 1 Tf
+27 -15 TD
+(x)Tj
+/T5 1 Tf
+20 0 TD
+([)Tj
+/T4 1 Tf
+10 0 TD
+(n)Tj
+/T5 1 Tf
+21 0 TD
+6 Tc
+[(]e)5999.9(x)6000.1(p)]TJ
+70 0 TD
+0 Tc
+(\()Tj
+/T2 1 Tf
+14 0 TD
+( )Tj
+/T4 1 Tf
+27 0 TD
+2 Tc
+(jn)Tj
+/T5 1 Tf
+37 0 TD
+0 Tc
+(2)Tj
+/T4 1 Tf
+18 0 TD
+1 Tc
+[(f)-3000(=)1000(f)]TJ
+/T9 1 Tf
+77 4.0001 TD
+0 Tc
+(s)Tj
+/T5 1 Tf
+16.9999 -4.0001 TD
+[(\),)-11000(where)]TJ
+/T4 1 Tf
+138.0001 0 TD
+(f)Tj
+/T9 1 Tf
+16.9999 4.0001 TD
+(s)Tj
+/T5 1 Tf
+29 -4.0001 TD
+[(is)-12000.1(the)-11000(sampling)]TJ
+-751.9999 45.0001 TD
+(frequency)Tj
+148 0 TD
+(.)Tj
+/T13 1 Tf
+932.9999 -2626.9998 TD
+(do)Tj
+39 0 TD
+(w)Tj
+27 0 TD
+[(ed)-13000(short-term)-12999.9(signal)-15000(is)-14000.1(giv)]TJ
+437 0 TD
+[(en)-14000.1(b)]TJ
+72 0 TD
+(y:)Tj
+/T10 1 Tf
+-330 107 TD
+(S)Tj
+/T13 1 Tf
+25 0 TD
+(\()Tj
+/T10 1 Tf
+14.9999 0 TD
+(f)Tj
+/T13 1 Tf
+23.0001 0 TD
+10.9999 Tc
+(\)=)Tj
+/T9 1 Tf
+66.9999 -51 TD
+0 Tc
+(N)Tj
+/T8 1 Tf
+27.0001 0 TD
+( )Tj
+/T7 1 Tf
+24 0 TD
+(1)Tj
+/T6 1 Tf
+-48.0001 13 TD
+(X)Tj
+/T9 1 Tf
+5.0001 87 TD
+(i)Tj
+/T7 1 Tf
+11 0 TD
+(=0)Tj
+/T10 1 Tf
+52.9999 -49 TD
+(A)Tj
+/T9 1 Tf
+29.0001 4 TD
+(i)Tj
+/T10 1 Tf
+13 -4 TD
+(e)Tj
+/T9 1 Tf
+18 -18 TD
+1 Tc
+(j')Tj
+/T1 1 Tf
+33.9999 5 TD
+0 Tc
+(i)Tj
+/T10 1 Tf
+16.0001 13 TD
+(W)Tj
+/T13 1 Tf
+41 0 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(f)Tj
+/T11 1 Tf
+31 0 TD
+( )Tj
+/T10 1 Tf
+39 0 TD
+(f)Tj
+/T9 1 Tf
+19 4 TD
+(i)Tj
+/T13 1 Tf
+12.9999 -4 TD
+(\))Tj
+/T10 1 Tf
+15.0001 0 TD
+(;)Tj
+/T13 1 Tf
+207.0001 0 TD
+-0.0001 Tc
+(\(1\))Tj
+-937.0001 109 TD
+0 Tc
+(where)Tj
+/T10 1 Tf
+114 0 TD
+(W)Tj
+/T13 1 Tf
+41 0 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(f)Tj
+/T13 1 Tf
+23.0001 0 TD
+[(\))-16999.9(i)0(s)-17000(the)-17000(F)]TJ
+165.9999 0 TD
+[(ourier)-18000.1(transform)-16999.9(of)-15999.9(the)-16999.9(time)-17000(domain)]TJ
+-359 43.9998 TD
+(windo)Tj
+98 0 TD
+11.0001 Tc
+[(w\()11000.2(t)]TJ
+68 0 TD
+0 Tc
+[(ypically)-14000(a)-11000(Hamming)-11999.9(w)0(indo)]TJ
+443 0 TD
+(w\).)Tj
+/T10 1 Tf
+71.0001 0 TD
+(W)Tj
+/T13 1 Tf
+40.9998 0 TD
+(\()Tj
+/T10 1 Tf
+15.0002 0 TD
+(f)Tj
+/T13 1 Tf
+22.9999 0 TD
+-0.0001 Tc
+[(\))-10000.1(i)-0.1(s)-11999.9(r)-0.3(eal,)-12000.3(since)]TJ
+-759 43.0002 TD
+0 Tc
+[(the)-14000(windo)]TJ
+165 0 TD
+[(w)-16000(i)0(s)-15000.1(s)0.1(ymmetric,)-15000(and)-16000(for)-14000(all)-15999.9(practical)-16000(purp)-999.8(oses)-16000(it)]TJ
+-165 44 TD
+(ma)Tj
+50 0 TD
+[(y)-13000(b)-1000(e)-13000(assumed)-14000(to)-13000(ha)]TJ
+325 0 TD
+(v)Tj
+19 0 TD
+[(e)-14000(a)-13000(zero)-13000(v)]TJ
+162 0 TD
+[(alue)-14000(for)]TJ
+/T11 1 Tf
+139.9999 0 TD
+(j)Tj
+/T10 1 Tf
+11.0001 0 TD
+(f)Tj
+/T11 1 Tf
+23.0001 0 TD
+(j)Tj
+/T10 1 Tf
+19.9999 0 TD
+11 Tc
+[(>B)9000(W)]TJ
+/T9 1 Tf
+107.9999 3.9998 TD
+1.0002 Tc
+[(wi)1000.4(n)]TJ
+/T13 1 Tf
+55 -3.9998 TD
+0 Tc
+(.)Tj
+-850.9999 43 TD
+[(The)-18999.9(binned)-21000(sp)-999.9(ectrum)-19000(of)]TJ
+/T10 1 Tf
+440 0 TD
+(S)Tj
+/T13 1 Tf
+25 0 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(f)Tj
+/T13 1 Tf
+22.9999 0 TD
+[(\))-19000.1(i)0.1(s)-19000(computed)-20000(using)-21000(t)-0.2(he)]TJ
+-564.9999 42.9998 TD
+[(same)-19000(lter-bank)-21000(as)-19000(in)-19000(the)-19000(MF)]TJ
+529 0 TD
+[(CC)-19000(computation)-21000([1].)]TJ
+390.9999 0 TD
+0.0001 Tc
+(The)Tj
+/T10 1 Tf
+-919.9999 44.0002 TD
+0 Tc
+(k)Tj
+/T13 1 Tf
+21 0 TD
+[('th)-13000(comp)-1000(onen)]TJ
+227 0 TD
+[(t)-14000(o)0(f)-13000(the)-13000(binned)-15000(sp)-1000(ectrum)-13000.1(is)-14000.1(computed)-13999.8(b)]TJ
+667.9999 0 TD
+0.0002 Tc
+(y:)Tj
+/T10 1 Tf
+-863 78 TD
+0 Tc
+(B)Tj
+/T9 1 Tf
+29.0001 3.9998 TD
+(k)Tj
+/T13 1 Tf
+30 -3.9998 TD
+(=)Tj
+/T6 1 Tf
+40 -39 TD
+(X)Tj
+/T9 1 Tf
+25 88 TD
+(l)Tj
+/T10 1 Tf
+41.9999 -49 TD
+(H)Tj
+/T9 1 Tf
+32.0001 3.9998 TD
+(k)Tj
+/T13 1 Tf
+19 -3.9998 TD
+(\()Tj
+/T10 1 Tf
+14.9999 0 TD
+(l)Tj
+/T13 1 Tf
+12 0 TD
+()Tj
+/T10 1 Tf
+32 0 TD
+(f)Tj
+/T13 1 Tf
+23.0001 0 TD
+(\))Tj
+/T11 1 Tf
+21 0 TD
+(j)Tj
+/T10 1 Tf
+10 0 TD
+(S)Tj
+/T13 1 Tf
+25 0 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(l)Tj
+/T13 1 Tf
+11.9999 0 TD
+()Tj
+/T10 1 Tf
+32.0001 0 TD
+(f)Tj
+/T13 1 Tf
+22.9999 0 TD
+(\))Tj
+/T11 1 Tf
+15.0001 0 TD
+(j)Tj
+/T10 1 Tf
+17.9999 0 TD
+31 Tc
+(;k)Tj
+/T13 1 Tf
+74 0 TD
+11.0001 Tc
+(=0)Tj
+/T10 1 Tf
+60.0001 0 TD
+0 Tc
+(;)Tj
+/T13 1 Tf
+17 0 TD
+(1)Tj
+/T10 1 Tf
+18.9999 0 TD
+6 Tc
+(;:::;M)Tj
+/T11 1 Tf
+128 0 TD
+0 Tc
+( )Tj
+/T13 1 Tf
+32 0 TD
+(1)Tj
+/T10 1 Tf
+19 0 TD
+(;)Tj
+/T13 1 Tf
+65.0002 0 TD
+-0.0001 Tc
+(\(2\))Tj
+-937.0001 108.9998 TD
+0 Tc
+(where)Tj
+/T10 1 Tf
+107 0 TD
+(H)Tj
+/T9 1 Tf
+32 4.0002 TD
+(k)Tj
+/T13 1 Tf
+19 -4.0002 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(f)Tj
+/T13 1 Tf
+23 0 TD
+[(\))-9000(i)0(s)-10000(t)0(he)-9000.1(frequency)-11000(r)0.1(esp)-1000.1(o)0(nse)-10000.1(o)0(f)-10000(t)0(he)]TJ
+/T10 1 Tf
+546 0 TD
+(k)Tj
+/T13 1 Tf
+21.0001 0 TD
+[('th)-9000.2(t)0.2(riangular)]TJ
+-763.0001 43 TD
+[(bandpass)-14999.9(lter,)-13000()]TJ
+/T10 1 Tf
+301 0 TD
+(f)Tj
+/T13 1 Tf
+36 0 TD
+[(is)-14000(the)-13000(frequency)-14000(resolution)-16000(of)-13000(the)-12999.8(DFT)]TJ
+-337 44 TD
+[(utilized,)-21000(and)-17999.9(t)0(he)-17999.9(summation)-19000(is)-19000(o)]TJ
+568.0001 0 TD
+(v)Tj
+18.9999 0 TD
+[(er)-17000.1(all)-19000.1(D)-0.1(FT)-18000(p)-1000(o)0.2(in)]TJ
+277.9999 0 TD
+[(ts.)-32000(B)0(y)]TJ
+-864.9999 43.0002 TD
+[(substituting)-17000(\(1\))-13999.9(i)0(n)-15000.1(\()0.1(2\))-14000(w)]TJ
+414 0 TD
+[(e)-13000(obtain)-15999.9(t)-0.2(he)-14000(reconstructed)-16000(b)0(inned)]TJ
+-414 43.9998 TD
+[(sp)-1000.1(ectrum)-13000(as)-14000(a)-13000(function)-14000(of)-13000(the)-13000(sine-w)]TJ
+610 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19 0 TD
+[(e)-14000(amplitudes)]TJ
+/T10 1 Tf
+227.0001 0 TD
+(A)Tj
+/T9 1 Tf
+28.9998 4.0002 TD
+(i)Tj
+/T13 1 Tf
+13 -4.0002 TD
+(:)Tj
+/T10 1 Tf
+-804.9999 107.0001 TD
+(B)Tj
+/T9 1 Tf
+29 4 TD
+(k)Tj
+/T13 1 Tf
+30 -4 TD
+(=)Tj
+/T6 1 Tf
+41 -38.0001 TD
+(X)Tj
+/T9 1 Tf
+25 87.0001 TD
+(l)Tj
+/T10 1 Tf
+41 -49 TD
+(H)Tj
+/T9 1 Tf
+31.9999 4 TD
+(k)Tj
+/T13 1 Tf
+19 -4 TD
+(\()Tj
+/T10 1 Tf
+15.0001 0 TD
+(l)Tj
+/T13 1 Tf
+12 0 TD
+()Tj
+/T10 1 Tf
+31.9999 0 TD
+(f)Tj
+/T13 1 Tf
+23 0 TD
+(\))Tj
+/T6 1 Tf
+21 -70.9999 TD
+()Tj
+0 23.9998 TD
+()Tj
+0 25 TD
+()Tj
+0 25.0001 TD
+()Tj
+0 25 TD
+()Tj
+/T9 1 Tf
+14.0001 -79.0001 TD
+(N)Tj
+/T8 1 Tf
+26.9999 0 TD
+( )Tj
+/T7 1 Tf
+24.0001 0 TD
+(1)Tj
+/T6 1 Tf
+-48 13 TD
+(X)Tj
+/T9 1 Tf
+4.9999 87.0001 TD
+(i)Tj
+/T7 1 Tf
+11.0001 0 TD
+-0.0001 Tc
+(=0)Tj
+/T10 1 Tf
+53 -49 TD
+0 Tc
+(A)Tj
+/T9 1 Tf
+29 4 TD
+(i)Tj
+/T10 1 Tf
+12.9999 -4 TD
+(e)Tj
+/T9 1 Tf
+18.0001 -17.9999 TD
+0.9999 Tc
+(j')Tj
+/T1 1 Tf
+34 4.9998 TD
+0 Tc
+(i)Tj
+/T10 1 Tf
+15 13.0001 TD
+(W)Tj
+/T13 1 Tf
+41 0 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(l)Tj
+/T13 1 Tf
+12 0 TD
+()Tj
+/T10 1 Tf
+32 0 TD
+(f)Tj
+/T11 1 Tf
+32 0 TD
+( )Tj
+/T10 1 Tf
+38.9999 0 TD
+(f)Tj
+/T9 1 Tf
+19 4 TD
+(i)Tj
+/T13 1 Tf
+13 -4 TD
+(\))Tj
+/T6 1 Tf
+15.0002 -70.9999 TD
+()Tj
+0 23.9998 TD
+()Tj
+0 25 TD
+()Tj
+0 25.0001 TD
+()Tj
+0 25 TD
+()Tj
+/T10 1 Tf
+19.9998 -28 TD
+(:)Tj
+/T13 1 Tf
+73.0002 0 TD
+-0.0001 Tc
+(\(3\))Tj
+-875.0001 106.9999 TD
+0 Tc
+(Giv)Tj
+59 0 TD
+[(en)-11000.1(the)-9000.1(f)0.1(requencies)]TJ
+/T10 1 Tf
+305 0 TD
+(f)Tj
+/T9 1 Tf
+19 4.0001 TD
+(i)Tj
+/T13 1 Tf
+22 -4.0001 TD
+[(and)-10000(target)-10000(binned)-10999.9(sp)-1000(ectrum)]TJ
+/T10 1 Tf
+467.9999 0 TD
+()Tj
+/T9 1 Tf
+22 4.0001 TD
+(k)Tj
+/T13 1 Tf
+18.0002 -4.0001 TD
+(,)Tj
+-975.0001 49.0001 TD
+(w)Tj
+27 0 TD
+[(e)-10000(wish)-11000(to)-11000(nd)]TJ
+/T11 1 Tf
+231 0 TD
+(f)Tj
+/T10 1 Tf
+19 0 TD
+(A)Tj
+/T9 1 Tf
+28.9999 3.9999 TD
+(i)Tj
+/T11 1 Tf
+13.0001 -3.9999 TD
+(g)Tj
+/T9 1 Tf
+20 -18.0001 TD
+(N)Tj
+/T8 1 Tf
+26.9999 0 TD
+( )Tj
+/T7 1 Tf
+24 0 TD
+(1)Tj
+/T9 1 Tf
+-50.9999 29 TD
+(i)Tj
+/T7 1 Tf
+10.9999 0 TD
+0.0001 Tc
+(=0)Tj
+/T13 1 Tf
+67.0001 -10.9999 TD
+0 Tc
+(s.t.)Tj
+/T6 1 Tf
+67.9999 -30.0001 TD
+(P)Tj
+/T9 1 Tf
+44 10.0001 TD
+(M)Tj
+/T8 1 Tf
+32.0001 0 TD
+( )Tj
+/T7 1 Tf
+23.9999 0 TD
+(1)Tj
+/T9 1 Tf
+-56 33 TD
+(k)Tj
+/T7 1 Tf
+17.0001 0 TD
+(=0)Tj
+/T13 1 Tf
+55 -13 TD
+([)Tj
+/T10 1 Tf
+10.9999 0 TD
+(B)Tj
+/T9 1 Tf
+29 3.9999 TD
+(k)Tj
+/T11 1 Tf
+23.0001 -3.9999 TD
+( )Tj
+/T10 1 Tf
+34 0 TD
+()Tj
+/T9 1 Tf
+22 3.9999 TD
+(k)Tj
+/T13 1 Tf
+18 -3.9999 TD
+(])Tj
+/T7 1 Tf
+10.9999 -16 TD
+(2)Tj
+/T13 1 Tf
+28 16 TD
+[(is)-11000(minimized)]TJ
+-776.9999 43 TD
+(and)Tj
+/T10 1 Tf
+75 0 TD
+(A)Tj
+/T9 1 Tf
+28.9999 4 TD
+(i)Tj
+/T11 1 Tf
+24 -4 TD
+()Tj
+/T13 1 Tf
+41 0 TD
+(0)Tj
+/T10 1 Tf
+19 0 TD
+(;)Tj
+/T11 1 Tf
+31 0 TD
+(8)Tj
+/T10 1 Tf
+21.0001 0 TD
+(i)Tj
+/T13 1 Tf
+12.9999 0 TD
+[(.)-18000.1(T)0.1(his)-14000.1(minimization)-17000(p)-0.1(roblem)-14999.9(i)-0.2(s)-13999.8(u)-0.2(nderdeter-)]TJ
+-252.9999 42.9999 TD
+[(mined)-15000(\(usually)]TJ
+/T10 1 Tf
+263 0 TD
+17 Tc
+[(N>)5000(M)]TJ
+/T13 1 Tf
+131 0 TD
+0 Tc
+[(\).)-19999.9(In)-14000(order)-14999.9(t)0(o)-14000(decrease)-15000(the)-14000(n)]TJ
+484.9999 0 TD
+0.0002 Tc
+(um)Tj
+52.0002 0 TD
+0.9998 Tc
+[(be)999.8(r)]TJ
+-931.0001 44.0001 TD
+0 Tc
+[(of)-14000(degrees)-15000(of)-14000(freedom,)-15000(additional)-17000.2(c)0.2(onstrain)]TJ
+718 0 TD
+0.0001 Tc
+[(ts)-15999.8(should)-15999.9(b)-999.9(e)-14999.7(in-)]TJ
+-718 42.9999 TD
+0 Tc
+[(tro)-1000(duced.)-19000(W)]TJ
+213 0 TD
+[(e)-13000.1(d)0.1(ene)-15000.1(a)-12999.9(set)-13000(of)]TJ
+/T10 1 Tf
+278 0 TD
+(M)Tj
+/T13 1 Tf
+54 0 TD
+[(p)-1000.1(o)0(sitiv)]TJ
+110.0001 0 TD
+[(e)-15999.9(f)0(requency)-14000(d)0.2(omain)]TJ
+-655.0001 44 TD
+[(basis)-16000(functions:)]TJ
+/T10 1 Tf
+282 0 TD
+( )Tj
+/T9 1 Tf
+25 4.0001 TD
+(m)Tj
+/T13 1 Tf
+29 -4.0001 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(f)Tj
+/T13 1 Tf
+23 0 TD
+(\))Tj
+/T10 1 Tf
+15 0 TD
+21 Tc
+(;m)Tj
+/T13 1 Tf
+80 0 TD
+15 Tc
+(=0)Tj
+/T10 1 Tf
+64 0 TD
+6 Tc
+(;:::;M)Tj
+/T11 1 Tf
+130 0 TD
+0 Tc
+( )Tj
+/T13 1 Tf
+33.9999 0 TD
+[(1,)-15000.1(and)-16000.2(d)0.2(ene)-16999.8(t)-0.2(he)]TJ
+-696.9999 43 TD
+[(set)-14000(of)-14000(amplitudes)-16000(to)-13999.9(b)-1000(e)-15000.1(samples)-15000.1(of)-13999.9(a)-14000(linear)-16000(com)]TJ
+801.9999 0 TD
+[(bination)-17000(of)]TJ
+-801.9999 43.0001 TD
+[(these)-13000(basis)-14000(functions)-15000(at)-13000.1(the)-13000(sine-w)]TJ
+574.0001 0 TD
+(a)Tj
+18 0 TD
+(v)Tj
+19 0 TD
+[(e)-14000(f)0.1(requencies)]TJ
+/T10 1 Tf
+227 0 TD
+(f)Tj
+/T9 1 Tf
+18.9998 3.9999 TD
+(i)Tj
+/T13 1 Tf
+13 -3.9999 TD
+(:)Tj
+/T10 1 Tf
+-745 108 TD
+(A)Tj
+/T9 1 Tf
+29 4 TD
+(i)Tj
+/T3 1 Tf
+26.0001 -27.0001 TD
+(4)Tj
+/T13 1 Tf
+-3 23.0001 TD
+(=)Tj
+/T10 1 Tf
+41 0 TD
+()Tj
+/T9 1 Tf
+20 4 TD
+(i)Tj
+19 -55.0001 TD
+(M)Tj
+/T8 1 Tf
+32 0 TD
+( )Tj
+/T7 1 Tf
+24 0 TD
+(1)Tj
+/T6 1 Tf
+-50 12.0001 TD
+(X)Tj
+/T9 1 Tf
+-3.0001 87.9999 TD
+(m)Tj
+/T7 1 Tf
+27 0 TD
+(=0)Tj
+/T10 1 Tf
+47 -48.9999 TD
+(x)Tj
+/T9 1 Tf
+22 4 TD
+(m)Tj
+/T10 1 Tf
+30.0001 -4 TD
+( )Tj
+/T9 1 Tf
+25 4 TD
+(m)Tj
+/T13 1 Tf
+28.9999 -4 TD
+(\()Tj
+/T10 1 Tf
+15.0001 0 TD
+(f)Tj
+/T9 1 Tf
+19 4 TD
+(i)Tj
+/T13 1 Tf
+12.9999 -4 TD
+(\))Tj
+/T10 1 Tf
+15.0001 0 TD
+(;)Tj
+55 0 TD
+(i)Tj
+/T13 1 Tf
+24 0 TD
+9.9999 Tc
+(=0)Tj
+/T10 1 Tf
+58.9999 0 TD
+0 Tc
+(;)Tj
+/T13 1 Tf
+18.0001 0 TD
+(1)Tj
+/T10 1 Tf
+19 0 TD
+6 Tc
+(;:::;N)Tj
+/T11 1 Tf
+121.9999 0 TD
+0 Tc
+( )Tj
+/T13 1 Tf
+32.0002 0 TD
+(1)Tj
+/T10 1 Tf
+19 0 TD
+(;)Tj
+/T13 1 Tf
+87 0 TD
+-0.0001 Tc
+(\(4\))Tj
+-937.0001 108.9999 TD
+0 Tc
+(where)Tj
+/T10 1 Tf
+111 0 TD
+(x)Tj
+/T9 1 Tf
+22 4.0001 TD
+(m)Tj
+/T13 1 Tf
+43 -4.0001 TD
+[(are)-13000.1(the)-14000(non-negativ)]TJ
+325 0 TD
+[(e)-15999.9(b)-0.1(asis)-14999.9(function)-14999.8(gains)-13999.8(\()]TJ
+/T10 1 Tf
+391.9999 0 TD
+(x)Tj
+/T9 1 Tf
+22 4.0001 TD
+(m)Tj
+/T11 1 Tf
+41.0002 -4.0001 TD
+()Tj
+/T13 1 Tf
+-956.0001 43 TD
+(0)Tj
+/T10 1 Tf
+19 0 TD
+(;)Tj
+/T11 1 Tf
+36 0 TD
+(8)Tj
+/T10 1 Tf
+21 0 TD
+(m)Tj
+/T13 1 Tf
+34 0 TD
+[(\))-19000(and)]TJ
+/T10 1 Tf
+114 0 TD
+()Tj
+/T9 1 Tf
+19.9999 4.0001 TD
+(i)Tj
+/T13 1 Tf
+32.0001 -4.0001 TD
+[(are)-19000.1(the)-19000(resp)-1000(ectiv)]TJ
+288.9999 0 TD
+21 Tc
+(ev)Tj
+57 0 TD
+0 Tc
+[(oicing)-21000(w)]TJ
+144 0 TD
+0.0001 Tc
+(eigh)Tj
+66 0 TD
+0 Tc
+[(ts)-20000(as)-19000(de-)]TJ
+-831.9999 44 TD
+[(scrib)-1000(ed)-18000(in)-18000(subsection)-19000.1(3)0(.1.)-28000(B)0(y)-17000(substituting)-19999.9(\(4\))-16999.8(in)-17000(\(3\))-17000(a)0(nd)]TJ
+0 43 TD
+(c)Tj
+16 0 TD
+[(hanging)-15000(the)-14000(order)-14000(o)0(f)-13000(summation,)-15000(w)]TJ
+594 0 TD
+[(e)-12999.9(obtain)-14999.9(a)0.2(n)-14000(e)-0.2(xpression)]TJ
+-610 44 TD
+[(for)-16999.9(the)-18000.1(binned)-20000(sp)-1000(ectrum)-18000(of)-18000(the)-18000(reconstructed)-18999.8(signal)-19999.8(a)-0.2(s)-18000(a)]TJ
+0 43.0001 TD
+[(function)-14000(of)-13000(the)-13000(basis)-14000(function)-15000.1(gains)]TJ
+/T10 1 Tf
+603 0 TD
+(x)Tj
+/T9 1 Tf
+22 3.9999 TD
+(m)Tj
+/T13 1 Tf
+28.9999 -3.9999 TD
+(:)Tj
+/T10 1 Tf
+-505.9999 108 TD
+(B)Tj
+/T9 1 Tf
+29 4 TD
+(k)Tj
+/T13 1 Tf
+30 -4 TD
+(=)Tj
+/T6 1 Tf
+39.9999 -39 TD
+(X)Tj
+/T9 1 Tf
+25 86.9999 TD
+(l)Tj
+/T10 1 Tf
+42.0001 -47.9999 TD
+(H)Tj
+/T9 1 Tf
+32 4 TD
+(k)Tj
+/T13 1 Tf
+18.9999 -4 TD
+(\()Tj
+/T10 1 Tf
+15.0001 0 TD
+(l)Tj
+/T13 1 Tf
+12 0 TD
+()Tj
+/T10 1 Tf
+32 0 TD
+(f)Tj
+/T13 1 Tf
+22.9999 0 TD
+(\))Tj
+/T11 1 Tf
+23.0001 0 TD
+()Tj
+/T6 1 Tf
+19 -72 TD
+()Tj
+0 25 TD
+()Tj
+T*
+()Tj
+T*
+()Tj
+T*
+()Tj
+/T9 1 Tf
+13.9999 -79.0001 TD
+(M)Tj
+/T8 1 Tf
+32 0 TD
+( )Tj
+/T7 1 Tf
+24 0 TD
+(1)Tj
+/T6 1 Tf
+-50.9999 12.0001 TD
+(X)Tj
+/T9 1 Tf
+-3 86.9999 TD
+(m)Tj
+/T7 1 Tf
+27 0 TD
+(=0)Tj
+/T10 1 Tf
+48 -47.9999 TD
+(x)Tj
+/T9 1 Tf
+22 4 TD
+(m)Tj
+/T10 1 Tf
+29 -4 TD
+(S)Tj
+/T7 1 Tf
+25 -18 TD
+(\()Tj
+/T9 1 Tf
+11.9999 0 TD
+(m)Tj
+/T7 1 Tf
+27.0001 0 TD
+(\))Tj
+/T13 1 Tf
+14.9999 18 TD
+(\()Tj
+/T10 1 Tf
+15.0001 0 TD
+(l)Tj
+/T13 1 Tf
+12 0 TD
+()Tj
+/T10 1 Tf
+32.0001 0 TD
+(f)Tj
+/T13 1 Tf
+22.9998 0 TD
+(\))Tj
+/T6 1 Tf
+15 -72 TD
+()Tj
+0 25 TD
+()Tj
+T*
+()Tj
+T*
+()Tj
+T*
+()Tj
+/T10 1 Tf
+20 -27.9999 TD
+(;)Tj
+/T13 1 Tf
+110.0002 0 TD
+-0.0001 Tc
+(\(5\))Tj
+-937.0001 106.9998 TD
+0 Tc
+(where:)Tj
+/T10 1 Tf
+0 100 TD
+(S)Tj
+/T7 1 Tf
+25 -18 TD
+(\()Tj
+/T9 1 Tf
+12.0001 0 TD
+(m)Tj
+/T7 1 Tf
+26.9999 0 TD
+(\))Tj
+/T13 1 Tf
+14.9999 18 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(f)Tj
+/T13 1 Tf
+23.0001 0 TD
+10 Tc
+(\)=)Tj
+/T9 1 Tf
+65 -51 TD
+0 Tc
+(N)Tj
+/T8 1 Tf
+26.9999 0 TD
+( )Tj
+/T7 1 Tf
+24.0001 0 TD
+(1)Tj
+/T6 1 Tf
+-48.0001 13 TD
+(X)Tj
+/T9 1 Tf
+6 87 TD
+(i)Tj
+/T7 1 Tf
+11.0001 0 TD
+-0.0001 Tc
+(=0)Tj
+/T10 1 Tf
+53 -49 TD
+0 Tc
+( )Tj
+/T9 1 Tf
+25 4 TD
+(m)Tj
+/T13 1 Tf
+28.9999 -4 TD
+(\()Tj
+/T10 1 Tf
+15.0001 0 TD
+(f)Tj
+/T9 1 Tf
+19 4 TD
+(i)Tj
+/T13 1 Tf
+12.9999 -4 TD
+(\))Tj
+/T10 1 Tf
+15.0001 0 TD
+()Tj
+/T9 1 Tf
+19.9999 4 TD
+(i)Tj
+/T10 1 Tf
+13 -4 TD
+(e)Tj
+/T9 1 Tf
+18 -18 TD
+1.0001 Tc
+(j')Tj
+/T1 1 Tf
+34 5 TD
+0 Tc
+(i)Tj
+/T10 1 Tf
+15.0001 13 TD
+(W)Tj
+/T13 1 Tf
+40.9999 0 TD
+(\()Tj
+/T10 1 Tf
+15.0001 0 TD
+(f)Tj
+/T11 1 Tf
+28 0 TD
+( )Tj
+/T10 1 Tf
+34 0 TD
+(f)Tj
+/T9 1 Tf
+19 4 TD
+(i)Tj
+/T13 1 Tf
+12.9999 -4 TD
+(\))Tj
+/T10 1 Tf
+25 0 TD
+17.0001 Tc
+(;m)Tj
+/T13 1 Tf
+73.0001 0 TD
+9.9999 Tc
+(=0)Tj
+/T10 1 Tf
+58.9999 0 TD
+0 Tc
+(;)Tj
+/T13 1 Tf
+17 0 TD
+(1)Tj
+/T10 1 Tf
+19 0 TD
+7 Tc
+[(;:)999.8(:)1000.2(:)1000(;)999.8(M)]TJ
+/T11 1 Tf
+125 0 TD
+0 Tc
+( )Tj
+/T13 1 Tf
+28 0 TD
+(1)Tj
+-966.9999 107 TD
+[(is)-16000(the)-16000(discrete-time)-17000(F)]TJ
+363 0 TD
+[(ourier)-17000(transform)-16000(o)0(f)-16000(the)-16000.1(signal)-16999.8(recon-)]TJ
+-363 44.0001 TD
+[(structed)-19000(using)-19000(the)]TJ
+/T10 1 Tf
+332 0 TD
+(m)Tj
+/T13 1 Tf
+34 0 TD
+[('th)-18000(basis)-19000.1(function)-20000.1(alone.)]TJ
+451.0001 0 TD
+[(Note)-18999.8(that)]TJ
+/T10 1 Tf
+-817.0001 47.9999 TD
+(S)Tj
+/T13 1 Tf
+25 0 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(f)Tj
+/T13 1 Tf
+23 0 TD
+11 Tc
+(\)=)Tj
+/T6 1 Tf
+65.9999 -30 TD
+0 Tc
+(P)Tj
+/T9 1 Tf
+44.0001 10 TD
+(M)Tj
+/T8 1 Tf
+32 0 TD
+( )Tj
+/T7 1 Tf
+23.9999 0 TD
+(1)Tj
+/T9 1 Tf
+-55.9999 33.0001 TD
+(m)Tj
+/T7 1 Tf
+26.9999 0 TD
+0.0001 Tc
+(=0)Tj
+/T10 1 Tf
+52.0001 -13.0001 TD
+0 Tc
+(x)Tj
+/T9 1 Tf
+22 4 TD
+(m)Tj
+/T10 1 Tf
+28.9999 -4 TD
+(S)Tj
+/T7 1 Tf
+25 -16 TD
+(\()Tj
+/T9 1 Tf
+12 0 TD
+(m)Tj
+/T7 1 Tf
+27.0001 0 TD
+(\))Tj
+/T13 1 Tf
+15 16 TD
+(\()Tj
+/T10 1 Tf
+14.9999 0 TD
+(f)Tj
+/T13 1 Tf
+23.0001 0 TD
+-0.0001 Tc
+(\).)Tj
+-358 52 TD
+0 Tc
+[(The)-11000(expression)-14000(\(5\))-11000(is)-12000(replaced)-13000(b)]TJ
+527.9999 0 TD
+[(y)-11000(a)0(n)-12000.1(appro)]TJ
+177 0 TD
+(ximation)Tj
+169.0002 -9 TD
+(~)Tj
+/T10 1 Tf
+-9.0002 9 TD
+(B)Tj
+/T9 1 Tf
+29.0002 4.0001 TD
+(k)Tj
+/T13 1 Tf
+19 -4.0001 TD
+(,)Tj
+-975.0001 43 TD
+[(in)-18000(whic)]TJ
+124 0 TD
+[(h)-19000(the)-18000(absolute)-18999.9(of)-17000(sums)-19000(is)-17999.9(replaced)-18999.9(b)]TJ
+636 0 TD
+[(y)-18000(the)-18000(sum)-18000(of)]TJ
+-760 44 TD
+(absolutes:)Tj
+153.9999 91 TD
+(~)Tj
+/T10 1 Tf
+-8.9999 9 TD
+(B)Tj
+/T9 1 Tf
+29 4 TD
+(k)Tj
+/T13 1 Tf
+29.9999 -4 TD
+(=)Tj
+/T9 1 Tf
+40 -50.9999 TD
+(M)Tj
+/T8 1 Tf
+32.0001 0 TD
+( )Tj
+/T7 1 Tf
+23.9999 0 TD
+(1)Tj
+/T6 1 Tf
+-50 13 TD
+(X)Tj
+/T9 1 Tf
+-3 87 TD
+(m)Tj
+/T7 1 Tf
+27.0001 0 TD
+-0.0001 Tc
+(=0)Tj
+/T10 1 Tf
+47 -49.0001 TD
+0 Tc
+(x)Tj
+/T9 1 Tf
+22 4 TD
+(m)Tj
+/T6 1 Tf
+35.9999 -41.9999 TD
+(X)Tj
+/T9 1 Tf
+25 87 TD
+(l)Tj
+/T10 1 Tf
+41.0001 -49.0001 TD
+(H)Tj
+/T9 1 Tf
+32 4 TD
+(k)Tj
+/T13 1 Tf
+19 -4 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(l)Tj
+/T13 1 Tf
+11.9999 0 TD
+()Tj
+/T10 1 Tf
+32.0001 0 TD
+(f)Tj
+/T13 1 Tf
+22.9999 0 TD
+(\))Tj
+/T11 1 Tf
+23.0001 0 TD
+()Tj
+/T6 1 Tf
+19 -34 TD
+()Tj
+0 25 TD
+()Tj
+/T10 1 Tf
+13.9999 9 TD
+(S)Tj
+/T7 1 Tf
+25 -18 TD
+(\()Tj
+/T9 1 Tf
+12 0 TD
+(m)Tj
+/T7 1 Tf
+27.0001 0 TD
+(\))Tj
+/T13 1 Tf
+15 18 TD
+(\()Tj
+/T10 1 Tf
+14.9999 0 TD
+(l)Tj
+/T13 1 Tf
+12 0 TD
+()Tj
+/T10 1 Tf
+32 0 TD
+(f)Tj
+/T13 1 Tf
+23 0 TD
+(\))Tj
+/T6 1 Tf
+15 -34 TD
+()Tj
+0 25 TD
+()Tj
+/T10 1 Tf
+20 9 TD
+(;)Tj
+/T13 1 Tf
+107.0002 0 TD
+-0.0001 Tc
+(\(6\))Tj
+ET
+endstream
+endobj
+24 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB ]
+/Font <<
+/T1 25 0 R
+/T2 26 0 R
+/T3 27 0 R
+/T4 28 0 R
+/T5 29 0 R
+/T6 30 0 R
+/T7 17 0 R
+/T8 18 0 R
+/T9 19 0 R
+/T10 20 0 R
+/T11 21 0 R
+/T13 5 0 R
+/T14 6 0 R
+>>
+/XObject <<
+/Im1 31 0 R
+>>
+/ExtGState <<
+/GS1 10 0 R
+>>
+>>
+endobj
+33 0 obj
+<<
+/Length 23608
+>>
+stream
+BT
+/T13 1 Tf
+0.24 0 0 -0.24 49.68 715.86 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+(where)Tj
+/T10 1 Tf
+118 0 TD
+(k)Tj
+/T13 1 Tf
+43 0 TD
+22 Tc
+(=0)Tj
+/T10 1 Tf
+71 0 TD
+0 Tc
+(;)Tj
+/T13 1 Tf
+17 0 TD
+(1)Tj
+/T10 1 Tf
+19 0 TD
+6 Tc
+(;:::;M)Tj
+/T11 1 Tf
+133 0 TD
+0 Tc
+( )Tj
+/T13 1 Tf
+37 0 TD
+0.0001 Tc
+(1.)Tj
+67 0 TD
+0 Tc
+[(The)-20000.1(resulting)-22000(appro)]TJ
+344.9999 0 TD
+(ximated)Tj
+-849.9999 43 TD
+[(binned)-18000(s)0(p)-1000(ectrum)-16000(is)-17000(linear)-17999.9(in)-16000(resp)-1000(ect)-17000.1(to)-14999.9(the)-16000(basis)-18000(function)]TJ
+T*
+[(gains.)-19999.9(The)-13000(appro)]TJ
+288 0 TD
+[(ximation)-17000(\(6\))-12999.9(i)0(s)-15000(accurate)-13999.9(when)-14000.1(there)-14000(i)-0.1(s)-14000(n)0(o)]TJ
+-288 44 TD
+(o)Tj
+18 0 TD
+(v)Tj
+19.0001 0 TD
+[(erlap)-15000(b)-1000(et)]TJ
+150 0 TD
+(w)Tj
+27 0 TD
+[(een)-15000(the)-14000.1(supp)-1000(orts)-14999.9(o)0(f)-13000(t)-0.1(he)-14000(summed)-15000(terms)-13999.9(in)-14000(\(1\),)]TJ
+-214 43 TD
+(i.e.,)Tj
+/T10 1 Tf
+78 0 TD
+(F)Tj
+/T7 1 Tf
+25 4 TD
+(0)Tj
+/T10 1 Tf
+34 -4 TD
+(>)Tj
+/T13 1 Tf
+47 0 TD
+(2)Tj
+/T10 1 Tf
+19 0 TD
+2 Tc
+(BW)Tj
+/T9 1 Tf
+67 4 TD
+1 Tc
+[(wi)1000(n)]TJ
+/T13 1 Tf
+56 -4 TD
+17 Tc
+[(,o)17000.1(rw)17000(h)16999.9(e)17000(nt)16999.9(h)17000.1(e)0.1(o)]TJ
+270.9999 0 TD
+0 Tc
+(v)Tj
+19 0 TD
+[(erlap)-18999.9(i)-0.1(s)-17999.9(s)-0.1(mall.)-30000(More-)]TJ
+-616 43 TD
+(o)Tj
+18 0 TD
+(v)Tj
+19.0001 0 TD
+[(er,)-13000(i)0(t)-14000(can)-14000.1(b)-1000(e)-14000(sho)]TJ
+272.9999 0 TD
+[(wn)-13000(that)-14000(\(6\))-13000.1(i)0.1(s)-14000(a)-14000(g)0(o)-1000(o)-1000.1(d)-13999.9(a)0(ppro)]TJ
+468 0 TD
+[(ximation)-16000.1(for)]TJ
+-778 43.9998 TD
+[(particular)-15000(selections)-14999.9(o)0(f)-13000(t)-0.1(he)-13000(basis)-14000.1(functions.)-19000.1(Dene:)]TJ
+/T10 1 Tf
+194 97 TD
+(R)Tj
+/T9 1 Tf
+29 4.0002 TD
+1 Tc
+[(k;)1000(m)]TJ
+/T3 1 Tf
+69 -27.0002 TD
+0 Tc
+(4)Tj
+/T13 1 Tf
+-2 23 TD
+(=)Tj
+/T6 1 Tf
+40 -37.9998 TD
+(X)Tj
+/T9 1 Tf
+25 87 TD
+(l)Tj
+/T10 1 Tf
+42 -49.0002 TD
+(H)Tj
+/T9 1 Tf
+32.0001 4.0002 TD
+(k)Tj
+/T13 1 Tf
+17.9999 -4.0002 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(l)Tj
+/T13 1 Tf
+12 0 TD
+()Tj
+/T10 1 Tf
+32 0 TD
+(f)Tj
+/T13 1 Tf
+23 0 TD
+(\))Tj
+/T11 1 Tf
+24 0 TD
+()Tj
+/T6 1 Tf
+19 -33.9998 TD
+()Tj
+0 25 TD
+()Tj
+/T10 1 Tf
+13.9999 8.9998 TD
+(S)Tj
+/T7 1 Tf
+25 -17.9998 TD
+(\()Tj
+/T9 1 Tf
+12 0 TD
+(m)Tj
+/T7 1 Tf
+27.0001 0 TD
+(\))Tj
+/T13 1 Tf
+13.9999 17.9998 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(l)Tj
+/T13 1 Tf
+12.0001 0 TD
+()Tj
+/T10 1 Tf
+31.9999 0 TD
+(f)Tj
+/T13 1 Tf
+23 0 TD
+(\))Tj
+/T6 1 Tf
+15 -33.9998 TD
+()Tj
+0 25 TD
+()Tj
+/T10 1 Tf
+20 8.9998 TD
+(:)Tj
+/T13 1 Tf
+-780.9999 137.0002 TD
+[(Then)-13000(\(6\))-13000(b)-1000(ecomes:)]TJ
+339 -9 TD
+(~)Tj
+/T10 1 Tf
+-9 9 TD
+(B)Tj
+/T9 1 Tf
+29 3.9998 TD
+(k)Tj
+/T13 1 Tf
+30 -3.9998 TD
+(=)Tj
+/T6 1 Tf
+40.0001 -30 TD
+(P)Tj
+/T9 1 Tf
+43.9999 10 TD
+(M)Tj
+/T8 1 Tf
+32 0 TD
+( )Tj
+/T7 1 Tf
+24 0 TD
+(1)Tj
+/T9 1 Tf
+-56 33.9998 TD
+(m)Tj
+/T7 1 Tf
+27 0 TD
+(=0)Tj
+/T10 1 Tf
+52.0001 -13.9998 TD
+(x)Tj
+/T9 1 Tf
+21.9999 3.9998 TD
+(m)Tj
+/T10 1 Tf
+29 -3.9998 TD
+(R)Tj
+/T9 1 Tf
+28.9999 3.9998 TD
+1 Tc
+[(k;)1000(m)]TJ
+/T10 1 Tf
+56.0001 -3.9998 TD
+0 Tc
+(:)Tj
+/T13 1 Tf
+-626 45.9998 TD
+(W)Tj
+36 0 TD
+[(e)-19000(wish)-20000(to)-19000.1(nd)-19000(a)-19000(set)-19000(of)-18000(non-negativ)]TJ
+612 0 TD
+[(e)-21000(basis)-21000(f)0(unction)]TJ
+-710 44 TD
+[(gains,)-14000(s.t.)]TJ
+/T9 1 Tf
+274 43 TD
+(M)Tj
+/T8 1 Tf
+32 0 TD
+( )Tj
+/T7 1 Tf
+24 0 TD
+(1)Tj
+/T6 1 Tf
+-50 13 TD
+(X)Tj
+/T9 1 Tf
+2 87 TD
+(k)Tj
+/T7 1 Tf
+17 0 TD
+(=0)Tj
+/T6 1 Tf
+53 -119 TD
+(")Tj
+/T9 1 Tf
+24.0001 19 TD
+(M)Tj
+/T8 1 Tf
+31.9999 0 TD
+( )Tj
+/T7 1 Tf
+24.0001 0 TD
+(1)Tj
+/T6 1 Tf
+-51.0001 13 TD
+(X)Tj
+/T9 1 Tf
+-3 87 TD
+(m)Tj
+/T7 1 Tf
+27 0 TD
+(=0)Tj
+/T10 1 Tf
+48 -48.9998 TD
+(x)Tj
+/T9 1 Tf
+22 3.9998 TD
+(m)Tj
+/T10 1 Tf
+29.0001 -3.9998 TD
+(R)Tj
+/T9 1 Tf
+28.9999 3.9998 TD
+1 Tc
+[(k;)1000(m)]TJ
+/T11 1 Tf
+64.9999 -3.9998 TD
+0 Tc
+( )Tj
+/T10 1 Tf
+38.0001 0 TD
+()Tj
+/T9 1 Tf
+21.9999 3.9998 TD
+(k)Tj
+/T6 1 Tf
+19 -74 TD
+(#)Tj
+/T7 1 Tf
+24 8.0002 TD
+(2)Tj
+/T13 1 Tf
+-700.9999 166.9998 TD
+[(is)-15000(minimized.)-22000(In)]TJ
+277 0 TD
+[(tro)-1000(ducing)-16000(an)]TJ
+/T10 1 Tf
+229 0 TD
+(M)Tj
+/T11 1 Tf
+44 0 TD
+()Tj
+/T10 1 Tf
+33.0001 0 TD
+(M)Tj
+/T13 1 Tf
+53.9999 0 TD
+(matrix)Tj
+/T14 1 Tf
+126 0 TD
+(R)Tj
+/T13 1 Tf
+33 0 TD
+[(,)-14000.1(whose)-13999.9(en-)]TJ
+-796 43 TD
+[(tries)-17000(are)]TJ
+/T10 1 Tf
+156 0 TD
+(R)Tj
+/T9 1 Tf
+29 4.0002 TD
+1 Tc
+[(k;)1000(m)]TJ
+/T13 1 Tf
+56 -4.0002 TD
+16 Tc
+[(,a)16000(n)16000.1(d)-1000(v)]TJ
+124.0001 0 TD
+0 Tc
+(ectors)Tj
+/T14 1 Tf
+114 0 TD
+(x)Tj
+/T10 1 Tf
+22.9999 0 TD
+6 Tc
+(;)Tj
+/T13 1 Tf
+41.0001 0 TD
+0 Tc
+[(,)-15999.9(whic)]TJ
+101.9999 0 TD
+17.0001 Tc
+[(ha)17000.1(r)17000.2(e)]TJ
+/T10 1 Tf
+105 0 TD
+0 Tc
+(M)Tj
+/T11 1 Tf
+46 0 TD
+()Tj
+/T13 1 Tf
+34.0001 0 TD
+[(1)-16000(c)0.1(olumn)]TJ
+-830.0001 44 TD
+(v)Tj
+19 0 TD
+[(ectors,)-14999.9(the)-15000(ab)-1000(o)]TJ
+251 0 TD
+(v)Tj
+19 0 TD
+[(e)-15000(minimizatio)-1000(n)-17000.1(p)0.1(roblem)-15999.9(can)-15000(con)]TJ
+545.0001 0 TD
+(v)Tj
+18.9999 0 TD
+(enien)Tj
+85 0 TD
+(tly)Tj
+-937.9999 43 TD
+[(b)-1000(e)-13000(written)-14000(in)-14000(a)-13000(m)0(atrix)-13000(form:)]TJ
+293 86.0001 TD
+(^)Tj
+/T14 1 Tf
+-2 1 TD
+(x)Tj
+/T13 1 Tf
+34 0 TD
+[(=)-10000.1(a)0.1(rg)-7000(min)]TJ
+/T14 1 Tf
+101 25 TD
+(x)Tj
+/T8 1 Tf
+23 0 TD
+()Tj
+/T7 1 Tf
+24 0 TD
+(0)Tj
+/T11 1 Tf
+23.0001 -25 TD
+(k)Tj
+/T14 1 Tf
+18.9999 0 TD
+(Rx)Tj
+/T11 1 Tf
+65.0001 0 TD
+( )Tj
+/T10 1 Tf
+37.9999 0 TD
+()Tj
+/T11 1 Tf
+24 0 TD
+(k)Tj
+/T7 1 Tf
+18.9999 -18 TD
+(2)Tj
+/T10 1 Tf
+24.0001 18 TD
+(;)Tj
+/T13 1 Tf
+251.9999 0 TD
+(\(7\))Tj
+-936.9999 107.9999 TD
+(where)Tj
+113 -0.9999 TD
+(^)Tj
+/T14 1 Tf
+-2 0.9999 TD
+(x)Tj
+/T13 1 Tf
+36 0 TD
+[(is)-14000(the)-13000(optimal)-15000(b)0.1(asis)-14000(function)-13999.9(gain)-15000.1(v)]TJ
+593 0 TD
+(ector.)Tj
+-678 46.0001 TD
+[(The)-20000(least)-20000(squares)-19999.9(p)-0.1(roblem)-21000(\(7\))-19000(can)-19999.9(b)-1000(e)-19000(s)0.1(olv)]TJ
+746 0 TD
+-0.0001 Tc
+[(ed)-21000.2(b)]TJ
+79 0 TD
+18.9999 Tc
+[(ya)18999.8(n)]TJ
+78 0 TD
+0 Tc
+(y)Tj
+-965.0001 43 TD
+(n)Tj
+20 0 TD
+(um)Tj
+52 0 TD
+[(b)-1000(e)0(r)-16999.9(o)-0.1(f)-15000(iterativ)]TJ
+237 0 TD
+17.0001 Tc
+[(et)17000.2(e)17000.1(c)]TJ
+82 0 TD
+0 Tc
+[(hniques)-18000(\(e.g.)-24999.9(s)-0.1(teep)-999.9(e)0.1(st)-16000(decen)]TJ
+482.0001 0 TD
+-0.0001 Tc
+[(t\))-32000.1([9],)]TJ
+-873.0001 42.9999 TD
+0 Tc
+[(under)-17000(the)-17000(constrain)]TJ
+333 0 TD
+[(t)-18000(o)0(f)-16000(a)-17000(non-negativ)]TJ
+310 0 TD
+[(e)-19000(solution.)-29000(In)-17000(prac-)]TJ
+-643 44 TD
+[(tice,)-17000(a)-16000(simple)-18000(iterativ)]TJ
+365.0001 0 TD
+[(e)-17999.9(m)-0.1(etho)-999.9(d,)-16999.9(where)-16000(at)-16000(eac)]TJ
+404.9999 0 TD
+[(h)-17000.1(iteration)-18000.1(a)]TJ
+-770 43 TD
+(dieren)Tj
+122 0 TD
+[(t)-16000(basis)-16000(function)-16000(gain)-16000(is)-15999.9(up)-1000(dated)-16000(separately)]TJ
+721.9999 0 TD
+0.0001 Tc
+[(,)-16000(i)0.2(s)-15000(u)0.2(sed)]TJ
+-843.9999 43.0001 TD
+0 Tc
+[(to)-13000(minimize)-15000(\(7\).)]TJ
+62 46.9999 TD
+(Finally)Tj
+112 0 TD
+[(,)-23000(the)-19000(amplitudes)]TJ
+/T10 1 Tf
+309 0 TD
+(A)Tj
+/T9 1 Tf
+29 4 TD
+(i)Tj
+/T13 1 Tf
+32 -4 TD
+[(are)-19000(repro)-1000.1(duced)-21000.1(u)0.1(sing)-19999.9(\(4\).)]TJ
+-544 43.0001 TD
+[(The)-16000(STFT)-17000(can)-17000(t)0(hen)-17000(b)-1000(e)-16000.1(r)0.1(econstructed)-18000(from)-16000.1(the)-16999.9(s)-0.1(ine-w)]TJ
+930.9999 0 TD
+(a)Tj
+18.0001 0 TD
+(v)Tj
+19 0 TD
+(e)Tj
+-968.0001 43 TD
+[(frequencies,)-14000(amplitudes)-16000.1(and)-13000(phases)-13999.9(using)-15000(\()0(1\).)]TJ
+/T14 1 Tf
+0 109 TD
+[(4.2.)-27000(Basis)-16000(function)-12000(selection)]TJ
+/T13 1 Tf
+0 72 TD
+[(The)-11000(c)]TJ
+93 0 TD
+[(hoice)-13000(of)-10999.9(basis)-13000(functions)]TJ
+/T10 1 Tf
+396 0 TD
+( )Tj
+/T9 1 Tf
+25 4 TD
+(m)Tj
+/T13 1 Tf
+30 -4 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(f)Tj
+/T13 1 Tf
+23 0 TD
+[(\))-9999.9(i)-0.1(s)-13000(c)0(ritical)-13000(for)-10999.9(o)0(btaining)]TJ
+-582 42.9999 TD
+[(a)-14000(g)0(o)-1000(o)-1000(d)-14000(reconstruction.)-21000.1(The)-14000(space)-13999.9(spanned)-15000(b)]TJ
+749.0001 0 TD
+-0.0001 Tc
+[(y)-14000.1(the)]TJ
+/T10 1 Tf
+100.9999 0 TD
+0 Tc
+(M)Tj
+/T13 1 Tf
+55.0001 0 TD
+(basis)Tj
+-905.0001 44 TD
+[(functions)-15000(represen)]TJ
+303 0 TD
+[(ts)-13999.9(the)-13000(structure)-14000(o)0(f)-13000(t)0(he)-12999.9(sp)-1000(ectral)-15000(en)]TJ
+567 0 TD
+(v)Tj
+19 0 TD
+[(elop)-1000(e.)]TJ
+-889.0001 43 TD
+[(It)-9000(w)]TJ
+65 0 TD
+[(as)-10000(found)-10000(that)-10000(basis)-11000(functions)-11000.1(similar)-12000(in)-10000(nature)-11000(to)]TJ
+/T10 1 Tf
+807 0 TD
+(H)Tj
+/T9 1 Tf
+32 4.0001 TD
+(k)Tj
+/T13 1 Tf
+19 -4.0001 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(f)Tj
+/T13 1 Tf
+23 0 TD
+(\),)Tj
+-960.9999 43.0001 TD
+[(i.e.,)-19000(with)-19000(the)-18000(same)-18000(supp)-1000(orts)-20000.1(and)-19000(c)0(en)]TJ
+641 0 TD
+[(ter)-18000(frequencies,)-21000.1(giv)]TJ
+327.0001 0 TD
+(e)Tj
+-968.0001 43.9999 TD
+[(go)-1000(o)-1000(d)-12000(reconstruction)-13000(results.)-17000(A)-11000.1(t)]TJ
+532.0001 0 TD
+[(ypical)-13000(set)-10999.9(o)0(f)-10000(basis)-12000(functions)]TJ
+-532.0001 43.0001 TD
+[(is)-12000(sho)]TJ
+91 0 TD
+[(wn)-12000(in)-12000(Fig.)-28000(2.)-16000(Suc)]TJ
+301 0 TD
+[(h)-12000(b)-0.1(asis)-13000.1(functions)-12999.9(assure)-11000(that)-12000.1(t)0(he)-11000(re-)]TJ
+-392 43.9999 TD
+[(construction)-14000(accuracy)-14000(increases)-13000(in)-14000(lo)]TJ
+610 0 TD
+(w)Tj
+27 0 TD
+[(er)-12000(frequencies,)-14000(w)0(here)]TJ
+-637 43.0001 TD
+[(the)-14000(ear)-14000(is)-15000(more)-14000(sensitiv)]TJ
+391 0 TD
+[(e,)-16000(and)-14000.1(m)0.1(ain)]TJ
+200 0 TD
+[(tains)-16000(the)-15000.1(s)0.1(p)-1000(ectral)-15000(e)-0.1(n)]TJ
+346.0001 0 TD
+(v)Tj
+18.9999 0 TD
+0.0001 Tc
+(e-)Tj
+-955.9999 42.9998 TD
+0 Tc
+[(lop)-1000(e)-17000(forman)]TJ
+202 0 TD
+[(t)-16000(p)-1000(eaks.)-26999.9(Because)-16000(of)-15999.9(the)-15999.9(narro)]TJ
+515 0 TD
+[(w)-16000.1(s)0.1(upp)-1000(orts,)-18000(the)]TJ
+-717 44 TD
+(matrix)Tj
+/T14 1 Tf
+128 0 TD
+(R)Tj
+/T13 1 Tf
+49 0 TD
+[(b)-1000(ecomes)-16999.9(sparse)-16999.9(\(banded\))-17000(and)-17000(the)-16999.9(m)-0.1(inimization)]TJ
+-177 43 TD
+[(problem)-14000(\(7\))-13000(ma)]TJ
+261 0 TD
+[(y)-13000(b)-1000(e)-14000(solv)]TJ
+149 0 TD
+[(ed)-14000(ecien)]TJ
+165 0 TD
+(tly)Tj
+42 0 TD
+(.)Tj
+ET
+0 G
+0 J 0 j 0.419 w 10 M []0 d
+1 i 
+173.346 131.813 m
+156.558 140.208 144.293 155.539 139.788 173.761 c
+139.789 131.813 m
+156.577 140.208 168.842 155.539 173.347 173.761 c
+215.294 131.813 m
+196.278 139.643 181.177 154.745 173.346 173.761 c
+173.346 131.813 m
+192.363 139.643 207.464 154.745 215.294 173.761 c
+265.631 131.813 m
+244.354 139.288 226.483 154.18 215.294 173.761 c
+81.062 131.813 m
+84.971 145.55 87.776 159.577 89.452 173.761 c
+99.939 131.813 m
+93.76 144.985 90.199 159.231 89.452 173.76 c
+S
+0 0 0 RG
+0.21 w 
+141.897 131.82 m
+141.897 130.662 140.958 129.723 139.8 129.723 c
+138.642 129.723 137.703 130.662 137.703 131.82 c
+137.703 132.978 138.642 133.917 139.8 133.917 c
+140.958 133.917 141.897 132.978 141.897 131.82 c
+B
+175.497 131.82 m
+175.497 130.662 174.558 129.723 173.4 129.723 c
+172.242 129.723 171.303 130.662 171.303 131.82 c
+171.303 132.978 172.242 133.917 173.4 133.917 c
+174.558 133.917 175.497 132.978 175.497 131.82 c
+B
+217.377 131.82 m
+217.377 130.662 216.438 129.723 215.28 129.723 c
+214.122 129.723 213.183 130.662 213.183 131.82 c
+213.183 132.978 214.122 133.917 215.28 133.917 c
+216.438 133.917 217.377 132.978 217.377 131.82 c
+B
+0 G
+0.419 w 
+114.62 131.813 m
+129.143 141.056 138.468 156.596 139.788 173.761 c
+S
+0 0 0 RG
+0.21 w 
+91.497 131.82 m
+91.497 130.662 90.558 129.723 89.4 129.723 c
+88.242 129.723 87.303 130.662 87.303 131.82 c
+87.303 132.978 88.242 133.917 89.4 133.917 c
+90.558 133.917 91.497 132.978 91.497 131.82 c
+B
+BT
+/F2 1 Tf
+7.5505 0 0 7.5505 87.3542 142.3003 Tm
+(0)Tj
+ET
+0 G
+2 j 0.419 w 
+78.545 175.439 m
+81.062 182.15 l
+83.579 175.439 l
+S
+0 j 
+81.062 182.15 m
+81.062 131.813 l
+274.02 131.813 l
+S
+2 j 
+267.309 134.33 m
+274.02 131.813 l
+267.309 129.297 l
+S
+1 J 0 j 0.839 w [0.419 4.195 ]4.195 d
+106.231 156.982 m
+123.01 156.982 l
+236.268 156.982 m
+269.826 156.982 l
+S
+BT
+7.5505 0 0 7.5505 143.9833 121.3265 Tm
+(Frequency)Tj
+3.6111 3.0556 TD
+[(m)-3944.2(m+1)]TJ
+-5 0 TD
+(m-1)Tj
+-8.0556 3.6111 TD
+(1)Tj
+0 -5.5556 TD
+(0)Tj
+0 7.5505 -7.5505 0 70.5752 136.0081 Tm
+(Amplitude)Tj
+/T13 1 Tf
+0.24 0 0 -0.24 51.12 100.7401 Tm
+[(Figure)-15000(2:)-17000(T)]TJ
+196 0 TD
+[(ypical)-14000(50%)-13000(o)]TJ
+212 0 TD
+(v)Tj
+19 0 TD
+[(erlapping)-16000.1(basis)-15000(f)0(unctions)]TJ
+/T10 1 Tf
+429.0001 0 TD
+( )Tj
+/T9 1 Tf
+25 4.0001 TD
+(m)Tj
+/T13 1 Tf
+29.9999 -4.0001 TD
+(\()Tj
+/T10 1 Tf
+15 0 TD
+(f)Tj
+/T13 1 Tf
+23 0 TD
+(\).)Tj
+/T14 1 Tf
+285.9999 -2562.9998 TD
+[(5.)-27000(RESUL)]TJ
+205 0 TD
+[(TS)-13999.9(AND)-14000.1(DISCUSSION)]TJ
+/T13 1 Tf
+-364.9999 80 TD
+[(Sp)-1000(eec)]TJ
+93.0001 0 TD
+[(h)-10999.9(signals)-13000(at)-11000(sampling)-13000(rates)-10999.9(i)0(n)-11000.1(t)0.1(he)-11000(range)-11999.9(8)0(-16)-10000(kHz)-11000.2(w)]TJ
+844 0 TD
+(ere)Tj
+-937.0001 43 TD
+[(reconstructed)-20000(using)-19999.9(the)-19000(describ)-999.8(e)-0.1(d)-21000.1(a)0.1(lgorithm.)]TJ
+806.0001 0 TD
+-0.0002 Tc
+[(It)-18000.2(w)]TJ
+74 0 TD
+0.0001 Tc
+[(as)-18999.7(ob-)]TJ
+-880.0001 44 TD
+0 Tc
+(serv)Tj
+66 0 TD
+[(ed)-11000(that)-11000(in)-12000(spite)-12000(of)-11000(appro)]TJ
+399 0 TD
+[(ximation)-14000.1(\(6\),)-10999.8(the)-11000(a)0.2(ctual)-12000.2(b)0(inned)]TJ
+-465 42.9998 TD
+[(sp)-1000.1(ectra)-9000(computed)-10000(after)-8000.1(reconstruction)-11000.1(w)]TJ
+663 0 TD
+[(ere)-8999.9(i)-0.1(ndeed)-10000.2(v)]TJ
+193.9999 0 TD
+[(ery)-9000.2(c)0(lose)]TJ
+-856.9999 43.0002 TD
+[(to)-12000(the)-12000(target)-12000(binned)-14000(sp)-1000(ectra.)-16999.9(Natural)-13000(sounding,)-14000(go)-1000(o)-1000(d)-12999.8(qual-)]TJ
+0 44 TD
+(it)Tj
+24 0 TD
+14 Tc
+[(yi)14000(n)]TJ
+64 0 TD
+0 Tc
+[(telligi)-1000(bl)-1000.1(e)-15999.9(s)0(p)-1000(e)-0.1(ec)]TJ
+244 0 TD
+15.0001 Tc
+(hw)Tj
+63 0 TD
+0 Tc
+[(as)-13000(ac)]TJ
+82 0 TD
+(hiev)Tj
+67 0 TD
+[(ed,)-15000(w)-0.1(hic)]TJ
+139 0 TD
+[(h)-15000(i)0(s)-14000(a)0.2(pplicable)-16999.8(for)]TJ
+-683 43 TD
+0.0001 Tc
+(pla)Tj
+49 0 TD
+0 Tc
+(ybac)Tj
+76 0 TD
+15 Tc
+[(ki)15000(n)2000(V)]TJ
+105 0 TD
+0 Tc
+[(oice)-14000(Recognition)-16000(systems.)]TJ
+-168 43.9998 TD
+[(Reconstruction)-13000(qualit)]TJ
+357 0 TD
+[(y)-12000(i)0(s)-10999.9(h)-0.1(ighly)-13000.1(d)0.1(ep)-1000(enden)]TJ
+338 0 TD
+-0.0001 Tc
+[(t)-11999.9(o)-0.1(n)-11000.1(t)-0.3(he)-10000.3(accu-)]TJ
+-757 43.0002 TD
+0 Tc
+[(racy)-14000(of)-13000(the)-13000(pitc)]TJ
+257 0 TD
+[(h)-15000.1(e)0.1(stimation.)-20000(MF)]TJ
+299 0 TD
+[(CC)-13000.1(feature)-14000(v)]TJ
+218.0001 0 TD
+[(ector)-13999.8(d)-0.2(imen-)]TJ
+-774.0001 42.9998 TD
+[(sions)-13000.1(of)-11999.9(13)-13000.1(and)-13000(2)0(4)-13000.1(w)]TJ
+339 0 TD
+[(ere)-12000(used)-13000(\(with)]TJ
+/T10 1 Tf
+249 0 TD
+(M)Tj
+/T13 1 Tf
+46 0 TD
+[(=)-4000(2)0(4)-13000(f)0(requency)-13000(bins\),)]TJ
+-634 44 TD
+[(resulting)-17000(i)0(n)-16000(a)-15000(noticeable)-17000.2(i)0.1(mpro)]TJ
+520 0 TD
+(v)Tj
+19 0 TD
+(emen)Tj
+86 0 TD
+-0.0001 Tc
+[(t)-17000.1(i)-0.2(n)-15000(q)-0.2(ualit)]TJ
+172.0001 0 TD
+17 Tc
+[(yw)17000(h)17000.2(e)16999.8(n)1000(u)17000.2(s)16999.8(-)]TJ
+-797.0001 43 TD
+0.0001 Tc
+[(ing)-9999.8(a)-8999.9(v)]TJ
+107 0 TD
+0 Tc
+[(ector)-10000(dimension)-12000(of)-9000.1(24.)-16000(Using)-10000(the)-9000.1(additional)-13000(minim)]TJ
+824.0001 0 TD
+-0.0002 Tc
+(um)Tj
+-931.0001 44 TD
+0 Tc
+[(phase)-15000(as)-14000(describ)-1000(ed)-16000(in)-15000(section)-15000(3.2)-13999.9(resulted)-16000(in)-15000(minor)-15000(q)0(ualit)]TJ
+963.9999 0 TD
+(y)Tj
+-963.9999 43.0002 TD
+(impro)Tj
+96 0 TD
+(v)Tj
+19 0 TD
+(emen)Tj
+86 0 TD
+[(t)-11000(and)-9000(ma)]TJ
+146 0 TD
+[(y)-10000(b)-1000.1(e)-9999.9(omitted)-10000(d)-0.2(ue)-10000(to)-8999.9(complexit)]TJ
+490.0001 0 TD
+-0.0001 Tc
+[(y)-11000.1(c)-0.1(onsid-)]TJ
+-837.0001 43 TD
+0 Tc
+[(erations.)-21000(Reconstruction)-17000.1(w)]TJ
+457 0 TD
+[(as)-13000(demonstrated)-16000(at)-13999.8(4%-6%)-14000.2(real)]TJ
+-457 44 TD
+[(time)-12000(on)-12000(a)-12000(P)]TJ
+194 0 TD
+(en)Tj
+37 0 TD
+[(tium)-14000(I)-1000(I)-11000(266)-12000(MHz)-12000(PC)-12000(w)]TJ
+387 0 TD
+[(orkstation)-13000.2(\(dep)-1000.2(ending)]TJ
+-618 43 TD
+[(on)-13000(sampling)-15000(rate)-13000(and)-14000(MF)]TJ
+428 0 TD
+[(CC)-13000(dimension\).)]TJ
+-366 43 TD
+(W)Tj
+36 0 TD
+[(ork)-18000(is)-17999.9(in)-17999.9(progress)-17999.9(to)-18000(impro)]TJ
+466 0 TD
+(v)Tj
+19 0 TD
+[(e)-17999.9(t)-0.1(he)-18000.1(reconstructed)-19000(au-)]TJ
+-583 44 TD
+[(dio)-20999.9(q)0(ualit)]TJ
+165 0 TD
+(y)Tj
+17 0 TD
+(.)Tj
+53 0 TD
+[(This)-21000.1(includes)-23000(psyc)]TJ
+322 0 TD
+[(hoacoustic)-23000(p)-1000(ost)-20999.8(ltering,)]TJ
+-557 42.9998 TD
+(w)Tj
+27 0 TD
+(eigh)Tj
+66.0001 0 TD
+[(ted)-19000(least)-19000(square)-20000(solutions)-20000(in)-19000(\(7\),)-20000(impro)]TJ
+685 0 TD
+(v)Tj
+19 0 TD
+-0.0001 Tc
+[(ed)-20000.3(mixture)]TJ
+-797.0001 44.0001 TD
+0 Tc
+[(of)-14000(v)]TJ
+64 0 TD
+[(oiced)-16000(and)-15000(un)]TJ
+217 0 TD
+(v)Tj
+19 0 TD
+[(oiced)-17000(frequencies,)-16000(e)0(tc.)-21000(A)0(n)-15000(impro)]TJ
+551.9999 0 TD
+(v)Tj
+19 0 TD
+[(ed)-16000.2(fea-)]TJ
+-870.9999 43 TD
+[(ture)-14000(extraction)-16000(algorithm)-17000.1(will)-16000(include)-15999.9(pitc)]TJ
+712 0 TD
+-0.0001 Tc
+[(h)-16000.2(f)-0.1(requency)-15000.3(a)-0.1(nd)]TJ
+-712 42.9999 TD
+0 Tc
+[(subband)-10999.9(v)]TJ
+169 0 TD
+[(oicing)-12000(degree)-11000(indicators)-12000.1(extracted)-10000(i)0(n)-10999.8(a)-9000(closed)-11000(lo)-1000(op)]TJ
+-169 44 TD
+[(manner)-13000(\(analysis-b)]TJ
+314.9999 0 TD
+(y-syn)Tj
+88.0001 0 TD
+[(the)-1000(sis)-1000(\),)-14000(whic)]TJ
+210 0 TD
+14 Tc
+[(hm)13999.9(a)]TJ
+85.0001 0 TD
+0 Tc
+[(y)-12000(e)0.1(nhance)-14000(sp)-999.8(eec)]TJ
+265.9998 0 TD
+(h)Tj
+-963.9999 43 TD
+(qualit)Tj
+94 0 TD
+[(y)-15000(a)0(t)-13000(t)0(he)-12999.9(exp)-1000(ense)-14000(of)-13000(higher)-14000(pro)-1000(c)0(essing)-15000(p)-1000(o)]TJ
+676.9999 0 TD
+(w)Tj
+27.0002 0 TD
+(er.)Tj
+/T14 1 Tf
+-486.0002 98.0001 TD
+[(6.)-27000.1(REFERENCES)]TJ
+/T13 1 Tf
+-311.9999 79.9999 TD
+[([1])-20000(S.)-12000(Da)]TJ
+152 0 TD
+[(vis)-14000(and)-13000(P)]TJ
+156 0 TD
+[(.)-11000.1(M)0.2(ermelstein,)-14000(\\)-0.1(Comparison)-14000(of)-12000.2(paramet-)]TJ
+-247 43 TD
+[(ric)-12000(represen)]TJ
+191 0 TD
+[(tations)-12999.9(for)-11000.1(monosyllabi)-1000.1(c)-14000(w)]TJ
+438.9999 0 TD
+[(ord)-11000(r)0.2(ecognition)-13999.8(i)0(n)]TJ
+-629.9999 44 TD
+-0.0001 Tc
+(con)Tj
+56 0 TD
+0 Tc
+(tin)Tj
+45 0 TD
+[(uously)-18999.9(sp)-1000(ok)]TJ
+199.9999 0 TD
+[(en)-17000.1(sen)]TJ
+107.0001 0 TD
+(tences,")Tj
+/T12 1 Tf
+150 0 TD
+[(IEEE)-15999.9(T)]TJ
+133 0 TD
+(r)Tj
+13.9999 0 TD
+[(ans.)-16000(A)]TJ
+113 0 TD
+(c)Tj
+16 0 TD
+(oust.,)Tj
+-833.9999 43.0001 TD
+(Sp)Tj
+40 0 TD
+(e)Tj
+16 0 TD
+(e)Tj
+16 0 TD
+[(ch,)-10999.9(Signal)-11999.9(Pr)]TJ
+216.9999 0 TD
+(o)Tj
+18.0001 0 TD
+(c)Tj
+15.9999 0 TD
+(essing)Tj
+/T13 1 Tf
+102.0001 0 TD
+10 Tc
+(,v)Tj
+40 0 TD
+0 Tc
+[(ol.)-12999.9(28,)-12999.9(p)-0.1(p.)-13000(357{366,)-14000(1980.)]TJ
+-526 55 TD
+[([2])-20000(S.)-20000(Y)]TJ
+139 0 TD
+[(oung,)-21000(\\A)-20000(review)-20000(of)-20000(large-v)]TJ
+470 0 TD
+[(o)-1000(c)0.1(abulary)-23000(con)]TJ
+241.0001 0 TD
+(tin)Tj
+44.9998 0 TD
+(uous-)Tj
+-833.9999 42.9999 TD
+[(sp)-1000(eec)]TJ
+87 0 TD
+[(h)-13000(r)0.1(ecognition,")]TJ
+/T12 1 Tf
+261.9999 0 TD
+[(IEEE)-12999.9(Signal)-11000.1(Pr)]TJ
+261 0 TD
+(o)Tj
+18.0001 0 TD
+(c)Tj
+16 0 TD
+[(essing)-10000(Magazine)]TJ
+/T13 1 Tf
+271.9999 0 TD
+(,)Tj
+-915.9999 44 TD
+[(pp.)-13000.1(45{57,)-14000(Sept.)-13000(1996.)]TJ
+-61 54.0001 TD
+[([3])-20000(G.)-17000(N.)-16000(Ramasw)]TJ
+314.9999 0 TD
+0.0001 Tc
+(am)Tj
+50 0 TD
+18.0001 Tc
+[(ya)18000.1(n)18000(d)0.2(P)]TJ
+140.0002 0 TD
+0 Tc
+[(.)-16999.9(S)0(.)-17000(Gopalakrishn)-1000(an,)-21000(\\Com-)]TJ
+-444.0001 43 TD
+[(pression)-27000(o)0(f)-25999.9(a)0(coustic)-27000(f)0.1(eatures)-25000.1(for)-25999.9(sp)-999.9(eec)]TJ
+691.9999 0 TD
+[(h)-26000.2(r)0.2(ecognition)]TJ
+-691.9999 44 TD
+[(in)-17999.9(net)]TJ
+101 0 TD
+(w)Tj
+27 0 TD
+[(ork)-15999.9(en)]TJ
+107 0 TD
+(vironmen)Tj
+153.9999 0 TD
+-0.0001 Tc
+[(ts,")-20000.2(in)]TJ
+/T12 1 Tf
+129 0 TD
+0.0001 Tc
+(Pr)Tj
+40.0001 0 TD
+0 Tc
+(o)Tj
+17.9999 0 TD
+(c)Tj
+16 0 TD
+(e)Tj
+16.0001 0 TD
+(e)Tj
+15.9999 0 TD
+[(dings)-14000(of)-16000(ICASSP)]TJ
+/T13 1 Tf
+291 0 TD
+(,)Tj
+-914.9999 42.9999 TD
+(1998.)Tj
+-61 55.0001 TD
+[([4])-20000(K.)-17000(Koishida,)-21000(K.)-18000.1(T)]TJ
+380.0001 0 TD
+[(okuda,)-18999.9(T.)-17000(Koba)]TJ
+273.9999 0 TD
+(y)Tj
+19.0001 0 TD
+[(ashi,)-20999.9(and)-19000.2(S.)-18000.2(Imai,)]TJ
+-612.0001 43 TD
+[(\\Celp)-17000.1(co)-999.9(ding)-17000.1(based)-17000(on)-16999.9(mel)-15999.9(c)-0.1(epstral)-18000.1(analysis,")-19000(in)]TJ
+/T12 1 Tf
+851.0001 0 TD
+-0.0002 Tc
+(Pr)Tj
+39.9998 0 TD
+0 Tc
+(o-)Tj
+-890.9999 44 TD
+(c)Tj
+16 0 TD
+(e)Tj
+16 0 TD
+(e)Tj
+15.9999 0 TD
+[(dings)-11000.1(of)-13000(ICASSP)]TJ
+/T13 1 Tf
+285.0001 0 TD
+[(,)-10999.9(p)0(.)-13000.1(33,)-12999.9(1995.)]TJ
+-394 53.9999 TD
+[([5])-20000(Y.)-18000(St)]TJ
+154 0 TD
+[(ylianou,)-21999.9(O)0(.)-18000(Capp)-1000(e,)-20000(and)-18999.9(E.)-18000(Moulines,)-21999.8(\\Con)]TJ
+752.0001 0 TD
+(tin)Tj
+44.9998 0 TD
+0.0002 Tc
+(u-)Tj
+-889.9999 44.0001 TD
+0 Tc
+[(ous)-12999.9(probabilisti)-999.9(c)-15000.1(transform)-13000(for)-12000(v)]TJ
+540 0 TD
+[(oice)-13000.1(con)]TJ
+132 0 TD
+(v)Tj
+19 0 TD
+-0.0001 Tc
+(ersion,")Tj
+/T12 1 Tf
+140.9999 0 TD
+0 Tc
+(IEEE)Tj
+-831.9999 42.9999 TD
+(T)Tj
+23.9999 0 TD
+(r)Tj
+14.0001 0 TD
+[(ansactions)-15000.1(o)0(n)-17999.9(S)0(p)]TJ
+294 0 TD
+(e)Tj
+15.9999 0 TD
+(e)Tj
+16 0 TD
+[(ch)-16000(and)-17000(A)]TJ
+161.0001 0 TD
+[(udio)-16000(Pr)]TJ
+128.9999 0 TD
+(o)Tj
+18.0001 0 TD
+(c)Tj
+15.9999 0 TD
+(essing)Tj
+/T13 1 Tf
+102 0 TD
+17 Tc
+(,v)Tj
+47.0002 0 TD
+-0.0001 Tc
+[(ol.)-18000.3(6)-0.1(,)]TJ
+-837.0001 43 TD
+0 Tc
+[(p.)-12999.9(137,)-13000(Mar.)-13000.1(1998.)]TJ
+-61 55 TD
+[([6])-20000(R.)-24000(J.)-23000(McAula)]TJ
+308 0 TD
+[(y)-26000(and)-24999.9(T.)-22999.9(F.)-24000(Quatiery)]TJ
+398 0 TD
+[(,)-27000(\\Sp)-1000(eec)]TJ
+150.0001 0 TD
+[(h)-25999.8(a)-0.2(nal-)]TJ
+-795.0001 43 TD
+(ysis/syn)Tj
+134 0 TD
+[(thesis)-25000(based)-23000(o)-0.1(n)-21999.9(a)-22000.1(sin)]TJ
+382 0 TD
+[(usoidal)-25999.9(represen)]TJ
+277.9999 0 TD
+(tation,")Tj
+/T12 1 Tf
+-793.9999 44.0001 TD
+[(IEEE)-11000.1(T)]TJ
+128 0 TD
+(r)Tj
+13.9999 0 TD
+[(ans.)-10000(A)]TJ
+107 0 TD
+(c)Tj
+16.0001 0 TD
+[(oust.,)-8999.9(Sp)]TJ
+143 0 TD
+(e)Tj
+15.9999 0 TD
+(e)Tj
+16.0001 0 TD
+[(ch,)-8999.9(Signal)-9000.1(Pr)]TJ
+212 0 TD
+(o)Tj
+18 0 TD
+(c)Tj
+15.9999 0 TD
+0.0001 Tc
+(essing)Tj
+/T13 1 Tf
+102.0002 0 TD
+6.9998 Tc
+(,v)Tj
+37 0 TD
+0 Tc
+[(ol.)-11000.2(34,)]TJ
+-825.0001 42.9999 TD
+[(pp.)-13000.1(744{754,)-14000(Aug.)-13000(1986.)]TJ
+-61 55 TD
+[([7])-20000(R.)-10000(J.)-10000(McAula)]TJ
+281 0 TD
+[(y)-12000(and)-11000(T.)-10000(F.)-10000.1(Quatiery)]TJ
+343.0001 0 TD
+[(,)-11999.9(\\Sin)]TJ
+93 0 TD
+[(usoidal)-13999.8(c)0(o)-1000(ding,")]TJ
+-656.0001 43 TD
+(in)Tj
+/T12 1 Tf
+44 0 TD
+(Sp)Tj
+40 0 TD
+(e)Tj
+16 0 TD
+(e)Tj
+16 0 TD
+0.0001 Tc
+[(ch)-9999.8(Co)]TJ
+93 0 TD
+0 Tc
+[(ding)-10999.9(and)-11000(Synthesis)]TJ
+/T13 1 Tf
+322.9999 0 TD
+[(\(W.)-11000.1(K)0(leijn)-12999.8(and)-13000.2(K.)-10999.8(P)]TJ
+340 0 TD
+-0.0001 Tc
+(ali-)Tj
+-871.9999 43 TD
+0 Tc
+(w)Tj
+26.9999 0 TD
+[(al,)-12999.9(e)-0.1(ds.\),)-12999.9(c)]TJ
+172 0 TD
+[(h.)-12000(4,)-12999.9(pp.)-13000(121{170,)-14000(Elsevier,)-15000(1995.)]TJ
+-259.9999 55 TD
+[([8])-20000(L.)-13000.1(R.)-11999.9(Rabiner)-15000(and)-14000(R.)-13000(W.)-13000(Sc)]TJ
+533 0 TD
+(hafer,)Tj
+/T12 1 Tf
+108 0 TD
+[(Digital)-12000.1(Pr)]TJ
+165.9999 0 TD
+(o)Tj
+18.0002 0 TD
+(c)Tj
+16 0 TD
+[(essing)-12000(o)0(f)]TJ
+-780.0001 43.0001 TD
+(Sp)Tj
+40 0 TD
+(e)Tj
+16 0 TD
+(e)Tj
+16 0 TD
+[(ch)-12000(Signals)]TJ
+/T13 1 Tf
+169.9999 0 TD
+14 Tc
+[(.P)14000(r)13999.9(e)14000(n)]TJ
+103 0 TD
+0 Tc
+[(tice)-14000(Hall,)-14000(1978.)]TJ
+-405.9999 54.9999 TD
+([9])Tj
+70 -10 TD
+(_)Tj
+-9 10 TD
+[(A.)-14000(Bj)]TJ
+92.9999 0 TD
+(orc)Tj
+50 0 TD
+0.0001 Tc
+(k,)Tj
+/T12 1 Tf
+46 0 TD
+0 Tc
+(Numeric)Tj
+143.0001 0 TD
+[(al)-13000(Metho)]TJ
+146 0 TD
+-0.0001 Tc
+[(ds)-14000.2(for)-15000.2(L)]TJ
+135 0 TD
+0 Tc
+(e)Tj
+15.9999 0 TD
+[(ast)-13999.9(S)-0.2(quar)]TJ
+158.0002 0 TD
+-0.0001 Tc
+[(es)-13000.1(Pr)]TJ
+86.9998 0 TD
+0.0001 Tc
+(ob-)Tj
+-873.9999 43 TD
+0 Tc
+(lems)Tj
+/T13 1 Tf
+75 0 TD
+[(.)-15999.9(S)0(IAM,)-13000.1(1996.)]TJ
+ET
+endstream
+endobj
+34 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/F2 16 0 R
+/T3 27 0 R
+/T6 30 0 R
+/T7 17 0 R
+/T8 18 0 R
+/T9 19 0 R
+/T10 20 0 R
+/T11 21 0 R
+/T12 4 0 R
+/T13 5 0 R
+/T14 6 0 R
+>>
+/ExtGState <<
+/GS1 10 0 R
+>>
+>>
+endobj
+31 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 1
+/Height 1
+/BitsPerComponent 1
+/ImageMask true
+/Length 2
+>>
+stream
+ 
+endstream
+endobj
+10 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/TR /Identity
+>>
+endobj
+35 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+25 0 obj
+<<
+/Name /T1
+/Type /Font
+/Subtype /Type3
+/Resources 35 0 R
+/FontBBox [3 0 9 15]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 105
+/LastChar 105
+/Encoding 36 0 R
+/CharProcs 37 0 R
+/Widths [11 ]
+>>
+endobj
+36 0 obj
+<<
+/Type /Encoding
+/Differences [105/i ]
+>>
+endobj
+37 0 obj
+<<
+/i 38 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 93
+>>
+stream
+11 0 3 0 9 15 d1
+q
+6 0 0 15 3.1 0.1 cm
+BI
+/W 6
+/H 15
+/BPC 1
+/IM true
+ID קקÿÿÿÿgOֿֿ›—
+EI
+Q
+endstream
+endobj
+39 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+26 0 obj
+<<
+/Name /T2
+/Type /Font
+/Subtype /Type3
+/Resources 39 0 R
+/FontBBox [3 7 23 9]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 0
+/LastChar 0
+/Encoding 40 0 R
+/CharProcs 41 0 R
+/Widths [27 ]
+>>
+endobj
+40 0 obj
+<<
+/Type /Encoding
+/Differences [0/; ]
+>>
+endobj
+41 0 obj
+<<
+/; 42 0 R
+>>
+endobj
+42 0 obj
+<<
+/Length 84
+>>
+stream
+27 0 3 7 23 9 d1
+q
+20 0 0 2 3.1 7.1 cm
+BI
+/W 20
+/H 2
+/BPC 1
+/IM true
+ID     
+EI
+Q
+endstream
+endobj
+43 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+27 0 obj
+<<
+/Name /T3
+/Type /Font
+/Subtype /Type3
+/Resources 43 0 R
+/FontBBox [2 0 22 14]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 52
+/LastChar 52
+/Encoding 44 0 R
+/CharProcs 45 0 R
+/Widths [24 ]
+>>
+endobj
+44 0 obj
+<<
+/Type /Encoding
+/Differences [52/4 ]
+>>
+endobj
+45 0 obj
+<<
+/4 46 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 123
+>>
+stream
+24 0 2 0 22 14 d1
+q
+20 0 0 14 2.1 0.1 cm
+BI
+/W 20
+/H 14
+/BPC 1
+/IM true
+ID ÿÿÿÿ‏ÿ‏gÿücÿרסÿסרÿףüÿדüַ‏?ÿÿ    
+EI
+Q
+endstream
+endobj
+47 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+28 0 obj
+<<
+/Name /T4
+/Type /Font
+/Subtype /Type3
+/Resources 47 0 R
+/FontBBox [0 -8 18 14]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 25
+/LastChar 120
+/Encoding 48 0 R
+/CharProcs 49 0 R
+/Widths [20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 18 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 29 
+0 0 0 0 0 0 0 0 0 0 0 0 0 17 0 0 
+0 14 0 0 0 21 0 0 0 0 0 0 0 0 0 20 
+]
+>>
+endobj
+48 0 obj
+<<
+/Type /Encoding
+/Differences [25/#19 61/= 88/X 
+102/f 106/j 110/n 120/x 
+]
+>>
+endobj
+49 0 obj
+<<
+/#19 50 0 R
+/= 51 0 R
+/X 52 0 R
+/f 53 0 R
+/j 54 0 R
+/n 55 0 R
+/x 56 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 123
+>>
+stream
+20 0 1 0 19 14 d1
+q
+18 0 0 14 1.1 0.1 cm
+BI
+/W 18
+/H 14
+/BPC 1
+/IM true
+ID נ ?א ?Þקÿ¾ןÿ~ןÿ‎ןÿ‎ןÿ‎ןÿשןÿûןÿףןÿףחÿחחÿחקÿ
+EI
+Q
+endstream
+endobj
+51 0 obj
+<<
+/Length 149
+>>
+stream
+18 0 2 -8 15 25 d1
+q
+13 0 0 33 2.1 -7.9 cm
+BI
+/W 13
+/H 33
+/BPC 1
+/IM true
+ID ÿחÿחÿַÿֿÿֿÿÿÿÿÿ?‏?‏‏üüÿüÿרÿשÿשÿסÿףÿףÿדÿחÿַÿֿÿֿÿÿÿÿÿ?ÿ?ÿ
+EI
+Q
+endstream
+endobj
+52 0 obj
+<<
+/Length 173
+>>
+stream
+29 0 1 0 28 23 d1
+q
+27 0 0 23 1.1 0.1 cm
+BI
+/W 27
+/H 23
+/BPC 1
+/IM true
+ID üאÿ‡רÿÿ‡שÿÿַףÿÿַחÿÿֳןÿÿדßÿÿב¿ÿÿסÿÿנÿÿÿרÿÿÿרÿÿÿנÿÿלÿÿÜ?ÿÿ?ÿÿ>?ÿÿ~ÿ‏ÿÿ‎ÿÿûÿÿדÿÿ üÿ
+EI
+Q
+endstream
+endobj
+53 0 obj
+<<
+/Length 141
+>>
+stream
+17 0 2 -6 18 23 d1
+q
+16 0 0 29 2.1 -5.9 cm
+BI
+/W 16
+/H 29
+/BPC 1
+/IM true
+ID ÿסÿלÿָÿֹÿÿÿÿÿרÿ?ÿ?ÿ?ÿ?ÿ?‏‏‏‏‏‏üÿüÿüÿüÿ™ÿÿ3ÿ‡ÿ
+EI
+Q
+endstream
+endobj
+54 0 obj
+<<
+/Length 141
+>>
+stream
+14 0 0 -6 13 23 d1
+q
+13 0 0 29 0.1 -5.9 cm
+BI
+/W 13
+/H 29
+/BPC 1
+/IM true
+ID ÿחÿַÿןÿÿÿÿÿÿÿÿÿÿÿÿ‏?‎ßûֿûֿקÿÿÿÿ?ÿ?ÿ?ÿ?‏‏‏‏ÿÿ9ÿ‡ÿ
+EI
+Q
+endstream
+endobj
+55 0 obj
+<<
+/Length 123
+>>
+stream
+21 0 1 0 19 14 d1
+q
+18 0 0 14 1.1 0.1 cm
+BI
+/W 18
+/H 14
+/BPC 1
+/IM true
+ID ֳַÿ»9ÿ¸‎ÿ¹‎ÿqשÿףשÿףשÿףףÿחףÿחף¿חח¿חחֿקֿנÿ
+EI
+Q
+endstream
+endobj
+56 0 obj
+<<
+/Length 123
+>>
+stream
+20 0 1 0 18 14 d1
+q
+17 0 0 14 1.1 0.1 cm
+BI
+/W 17
+/H 14
+/BPC 1
+/IM true
+ID נאÿמ^ß<ß<ÿ¾ÿ‏ÿ‏ÿ‏ÿüÿÿü‎ÿ<‎ÿûÿ:קÿ‡ÿ
+EI
+Q
+endstream
+endobj
+57 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+29 0 obj
+<<
+/Name /T5
+/Type /Font
+/Subtype /Type3
+/Resources 57 0 R
+/FontBBox [0 -9 23 23]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 12
+/LastChar 121
+/Encoding 58 0 R
+/CharProcs 59 0 R
+/Widths [20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 14 14 0 0 
+10 12 10 0 0 0 18 0 0 0 0 0 0 0 10 0 
+0 27 0 0 0 0 0 0 0 0 23 0 0 0 0 0 
+0 0 0 0 0 0 0 0 25 0 0 0 0 0 0 10 
+0 10 0 0 0 18 0 16 20 16 11 18 20 10 0 0 
+10 30 20 18 20 19 14 14 14 20 0 25 19 19 ]
+>>
+endobj
+58 0 obj
+<<
+/Type /Encoding
+/Differences [12/#0C 40/#28 /#29 44/, /- /. 50/2 58/: 61/= 70/F 84/T 91/#5B 
+93/#5D 97/a 99/c /d /e /f /g /h /i 108/l /m /n /o /p /q /r /s /t /u 119/w /x /y ]
+>>
+endobj
+59 0 obj
+<<
+/#0C 60 0 R
+/#28 61 0 R
+/#29 62 0 R
+/, 63 0 R
+/- 64 0 R
+/. 65 0 R
+/2 66 0 R
+/: 67 0 R
+/= 68 0 R
+/F 69 0 R
+/T 70 0 R
+/#5B 71 0 R
+/#5D 72 0 R
+/a 73 0 R
+/c 74 0 R
+/d 75 0 R
+/e 76 0 R
+/f 77 0 R
+/g 78 0 R
+/h 79 0 R
+/i 80 0 R
+/l 81 0 R
+/m 82 0 R
+/n 83 0 R
+/o 84 0 R
+/p 85 0 R
+/q 86 0 R
+/r 87 0 R
+/s 88 0 R
+/t 89 0 R
+/u 90 0 R
+/w 91 0 R
+/x 92 0 R
+/y 93 0 R
+>>
+endobj
+60 0 obj
+<<
+/Length 150
+>>
+stream
+20 0 0 0 19 23 d1
+q
+19 0 0 23 0.1 0.1 cm
+BI
+/W 19
+/H 23
+/BPC 1
+/IM true
+ID ÿÿר}ÿסרÿדרÿד‎ÿדÿÿדÿÿדÿÿדÿÿ  ÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿ א
+EI
+Q
+endstream
+endobj
+61 0 obj
+<<
+/Length 115
+>>
+stream
+14 0 3 -9 11 25 d1
+q
+8 0 0 34 3.1 -8.9 cm
+BI
+/W 8
+/H 34
+/BPC 1
+/IM true
+ID ‏‎ûףחחֿֿֿֿחחףû‎‏
+EI
+Q
+endstream
+endobj
+62 0 obj
+<<
+/Length 115
+>>
+stream
+14 0 2 -9 10 25 d1
+q
+8 0 0 34 2.1 -8.9 cm
+BI
+/W 8
+/H 34
+/BPC 1
+/IM true
+ID ¿ßֿחחףףסשששררררררררררשששסףףחחֿß¿
+EI
+Q
+endstream
+endobj
+63 0 obj
+<<
+/Length 89
+>>
+stream
+10 0 3 -6 7 4 d1
+q
+4 0 0 10 3.1 -5.9 cm
+BI
+/W 4
+/H 10
+/BPC 1
+/IM true
+ID ןןßß¿¿
+EI
+Q
+endstream
+endobj
+64 0 obj
+<<
+/Length 79
+>>
+stream
+12 0 0 6 9 8 d1
+q
+9 0 0 2 0.1 6.1 cm
+BI
+/W 9
+/H 2
+/BPC 1
+/IM true
+ID   
+EI
+Q
+endstream
+endobj
+65 0 obj
+<<
+/Length 79
+>>
+stream
+10 0 3 0 7 4 d1
+q
+4 0 0 4 3.1 0.1 cm
+BI
+/W 4
+/H 4
+/BPC 1
+/IM true
+ID 
+EI
+Q
+endstream
+endobj
+66 0 obj
+<<
+/Length 123
+>>
+stream
+18 0 2 0 15 21 d1
+q
+13 0 0 21 2.1 0.1 cm
+BI
+/W 13
+/H 21
+/BPC 1
+/IM true
+ID נֿ¿ֿ?ַַ¿ַÿַÿÿÿÿ?‏üÿשÿףקקקןחְ€ 
+EI
+Q
+endstream
+endobj
+67 0 obj
+<<
+/Length 92
+>>
+stream
+10 0 3 0 7 14 d1
+q
+4 0 0 14 3.1 0.1 cm
+BI
+/W 4
+/H 14
+/BPC 1
+/IM true
+ID ÿÿÿÿÿÿ
+EI
+Q
+endstream
+endobj
+68 0 obj
+<<
+/Length 111
+>>
+stream
+27 0 2 3 24 13 d1
+q
+22 0 0 10 2.1 3.1 cm
+BI
+/W 22
+/H 10
+/BPC 1
+/IM true
+ID     ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ    
+EI
+Q
+endstream
+endobj
+69 0 obj
+<<
+/Length 150
+>>
+stream
+23 0 1 0 21 23 d1
+q
+20 0 0 23 1.1 0.1 cm
+BI
+/W 20
+/H 23
+/BPC 1
+/IM true
+ID   דÿדÿדÿßדÿןדÿןדÿןדûÿדûÿדûÿדףÿאÿדףÿדûÿדûÿדûÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿ ?ÿ
+EI
+Q
+endstream
+endobj
+70 0 obj
+<<
+/Length 150
+>>
+stream
+25 0 1 0 23 23 d1
+q
+22 0 0 23 1.1 0.1 cm
+BI
+/W 22
+/H 23
+/BPC 1
+/IM true
+ID € ַח¿ַק¿ַקַûַûַûÿַÿÿַÿÿַÿÿַÿÿַÿÿַÿÿַÿÿַÿÿַÿÿַÿÿַÿÿַÿÿַÿÿַÿÿַÿר ?
+EI
+Q
+endstream
+endobj
+71 0 obj
+<<
+/Length 113
+>>
+stream
+10 0 3 -8 9 25 d1
+q
+6 0 0 33 3.1 -7.9 cm
+BI
+/W 6
+/H 33
+/BPC 1
+/IM true
+ID ?????????????????????????????
+EI
+Q
+endstream
+endobj
+72 0 obj
+<<
+/Length 113
+>>
+stream
+10 0 0 -8 6 25 d1
+q
+6 0 0 33 0.1 -7.9 cm
+BI
+/W 6
+/H 33
+/BPC 1
+/IM true
+ID ףףףףףףףףףףףףףףףףףףףףףףףףףףףףף
+EI
+Q
+endstream
+endobj
+73 0 obj
+<<
+/Length 109
+>>
+stream
+18 0 1 0 17 14 d1
+q
+16 0 0 14 1.1 0.1 cm
+BI
+/W 16
+/H 14
+/BPC 1
+/IM true
+ID א?ַַֿןַÿַüבַַֿַֶֶ† אב
+EI
+Q
+endstream
+endobj
+74 0 obj
+<<
+/Length 109
+>>
+stream
+16 0 1 0 14 14 d1
+q
+13 0 0 14 1.1 0.1 cm
+BI
+/W 13
+/H 14
+/BPC 1
+/IM true
+ID רחַַֿןÿÿÿÿÿÿקֿקחֿר?
+EI
+Q
+endstream
+endobj
+75 0 obj
+<<
+/Length 150
+>>
+stream
+20 0 1 0 19 23 d1
+q
+18 0 0 23 1.1 0.1 cm
+BI
+/W 18
+/H 23
+/BPC 1
+/IM true
+ID ÿÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿר1ÿדֱÿֿסÿסÿסÿסÿסÿסÿסÿסÿסÿֿבÿחׁÿר0?
+EI
+Q
+endstream
+endobj
+76 0 obj
+<<
+/Length 109
+>>
+stream
+16 0 1 0 14 14 d1
+q
+13 0 0 14 1.1 0.1 cm
+BI
+/W 13
+/H 14
+/BPC 1
+/IM true
+ID נ?חֿֿַח ÿÿÿÿקֿןחֿר?
+EI
+Q
+endstream
+endobj
+77 0 obj
+<<
+/Length 127
+>>
+stream
+11 0 0 0 12 23 d1
+q
+12 0 0 23 0.1 0.1 cm
+BI
+/W 12
+/H 23
+/BPC 1
+/IM true
+ID üשסדßדÿדÿדÿדÿדÿ דÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿ 
+EI
+Q
+endstream
+endobj
+78 0 obj
+<<
+/Length 125
+>>
+stream
+18 0 1 -7 17 14 d1
+q
+16 0 0 21 1.1 -6.9 cm
+BI
+/W 16
+/H 21
+/BPC 1
+/IM true
+ID נaחֿֿח?׀ßÿÿְְְס?ש?ש?שףַַנ
+EI
+Q
+endstream
+endobj
+79 0 obj
+<<
+/Length 150
+>>
+stream
+20 0 0 0 19 23 d1
+q
+19 0 0 23 0.1 0.1 cm
+BI
+/W 19
+/H 23
+/BPC 1
+/IM true
+ID ÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדƒÿגqÿברÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿ `
+EI
+Q
+endstream
+endobj
+80 0 obj
+<<
+/Length 101
+>>
+stream
+10 0 0 0 8 23 d1
+q
+8 0 0 23 0.1 0.1 cm
+BI
+/W 8
+/H 23
+/BPC 1
+/IM true
+ID חֳֳחÿÿÿÿÿƒדדדדדדדדדדדד 
+EI
+Q
+endstream
+endobj
+81 0 obj
+<<
+/Length 124
+>>
+stream
+10 0 0 0 9 23 d1
+q
+9 0 0 23 0.1 0.1 cm
+BI
+/W 9
+/H 23
+/BPC 1
+/IM true
+ID ÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿ 
+EI
+Q
+endstream
+endobj
+82 0 obj
+<<
+/Length 137
+>>
+stream
+30 0 0 0 29 14 d1
+q
+29 0 0 14 0.1 0.1 cm
+BI
+/W 29
+/H 14
+/BPC 1
+/IM true
+ID ƒאÿגqבר~?דר‏?דר‏?דר‏?דר‏?דר‏?דר‏?דר‏?דר‏?דר‏?דר‏? `
+EI
+Q
+endstream
+endobj
+83 0 obj
+<<
+/Length 123
+>>
+stream
+20 0 0 0 19 14 d1
+q
+19 0 0 14 0.1 0.1 cm
+BI
+/W 19
+/H 14
+/BPC 1
+/IM true
+ID ƒÿגqÿברÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿ `
+EI
+Q
+endstream
+endobj
+84 0 obj
+<<
+/Length 109
+>>
+stream
+18 0 1 0 16 14 d1
+q
+15 0 0 14 1.1 0.1 cm
+BI
+/W 15
+/H 14
+/BPC 1
+/IM true
+ID ר?חֿֿחףףסססססדֿחחֿר?
+EI
+Q
+endstream
+endobj
+85 0 obj
+<<
+/Length 143
+>>
+stream
+20 0 0 -6 18 14 d1
+q
+18 0 0 20 0.1 -5.9 cm
+BI
+/W 18
+/H 20
+/BPC 1
+/IM true
+ID ÿאסÿדüÿדüד‏ד‏?ד‏?ד‏?ד‏?ד‏דüדרÿאסÿדÿדÿÿדÿÿדÿÿדÿÿדÿÿ ÿ
+EI
+Q
+endstream
+endobj
+86 0 obj
+<<
+/Length 143
+>>
+stream
+19 0 1 -6 19 14 d1
+q
+18 0 0 20 1.1 -5.9 cm
+BI
+/W 18
+/H 20
+/BPC 1
+/IM true
+ID ר=ÿדÙÿַבÿסÿסÿסÿסÿסÿסÿסÿסÿֿבÿדׁÿר1ÿÿסÿÿסÿÿסÿÿסÿÿסÿÿ€?
+EI
+Q
+endstream
+endobj
+87 0 obj
+<<
+/Length 109
+>>
+stream
+14 0 0 0 13 14 d1
+q
+13 0 0 14 0.1 0.1 cm
+BI
+/W 13
+/H 14
+/BPC 1
+/IM true
+ID גַבַדןדÿדÿדÿדÿדÿדÿדÿדÿדÿ 
+EI
+Q
+endstream
+endobj
+88 0 obj
+<<
+/Length 109
+>>
+stream
+14 0 1 0 12 14 d1
+q
+11 0 0 14 1.1 0.1 cm
+BI
+/W 11
+/H 14
+/BPC 1
+/IM true
+ID א¿??¿?¿ÿ ÿ€א?‏??`ÿ
+EI
+Q
+endstream
+endobj
+89 0 obj
+<<
+/Length 121
+>>
+stream
+14 0 1 0 11 20 d1
+q
+10 0 0 20 1.1 0.1 cm
+BI
+/W 10
+/H 20
+/BPC 1
+/IM true
+ID קÿקÿקÿחÿחÿַÿ ַÿַÿַÿַÿַÿַÿַÿַ¿ַ¿ַ¿ַ¿דנÿ
+EI
+Q
+endstream
+endobj
+90 0 obj
+<<
+/Length 123
+>>
+stream
+20 0 0 0 19 14 d1
+q
+19 0 0 14 0.1 0.1 cm
+BI
+/W 19
+/H 14
+/BPC 1
+/IM true
+ID ְÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדרÿדנÿסטÿü
+EI
+Q
+endstream
+endobj
+91 0 obj
+<<
+/Length 123
+>>
+stream
+25 0 1 0 23 14 d1
+q
+22 0 0 14 1.1 0.1 cm
+BI
+/W 22
+/H 14
+/BPC 1
+/IM true
+ID ƒַַַַַןדֳßדֳßד³ßס±¿ס±¿סy¿רxרxרüüüÿüüÿ
+EI
+Q
+endstream
+endobj
+92 0 obj
+<<
+/Length 109
+>>
+stream
+19 0 1 0 17 14 d1
+q
+16 0 0 14 1.1 0.1 cm
+BI
+/W 16
+/H 14
+/BPC 1
+/IM true
+ID ְֳחדןסßר¿ר?ü‏?‎ûקחֳַַ€
+EI
+Q
+endstream
+endobj
+93 0 obj
+<<
+/Length 123
+>>
+stream
+19 0 1 -6 17 14 d1
+q
+16 0 0 20 1.1 -5.9 cm
+BI
+/W 16
+/H 20
+/BPC 1
+/IM true
+ID אֳסֳףדקדקסןסןרßרßü?ü?ü?‏‏‏ÿ‏ÿÿÿ[ÿ‡ÿ
+EI
+Q
+endstream
+endobj
+94 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+30 0 obj
+<<
+/Name /T6
+/Type /Font
+/Subtype /Type3
+/Resources 94 0 R
+/FontBBox [0 -122 38 0]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 12
+/LastChar 90
+/Encoding 95 0 R
+/CharProcs 96 0 R
+/Widths [14 0 0 0 25 25 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 24 24 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 44 0 0 0 0 0 0 0 60 0 23 ]
+>>
+endobj
+95 0 obj
+<<
+/Type /Encoding
+/Differences [12/#0C 16/#10 /#11 34/" /#23 80/P 88/X 90/Z ]
+>>
+endobj
+96 0 obj
+<<
+/#0C 97 0 R
+/#10 98 0 R
+/#11 99 0 R
+/" 100 0 R
+/#23 101 0 R
+/P 102 0 R
+/X 103 0 R
+/Z 104 0 R
+>>
+endobj
+97 0 obj
+<<
+/Length 108
+>>
+stream
+14 0 6 -26 8 1 d1
+q
+2 0 0 27 6.1 -25.9 cm
+BI
+/W 2
+/H 27
+/BPC 1
+/IM true
+ID ???????????????????????????
+EI
+Q
+endstream
+endobj
+98 0 obj
+<<
+/Length 232
+>>
+stream
+25 0 8 -72 23 2 d1
+q
+15 0 0 74 8.1 -71.9 cm
+BI
+/W 15
+/H 74
+/BPC 1
+/IM true
+ID ÿשÿףÿחÿֿÿÿÿ?‏?‏üüÿרÿשÿסÿףÿדÿדÿחÿַÿַÿַÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֿÿַÿַÿַÿחÿדÿדÿףÿסÿשÿרÿüÿü‏‏?ÿ?ÿÿÿֿÿחÿףÿש
+EI
+Q
+endstream
+endobj
+99 0 obj
+<<
+/Length 232
+>>
+stream
+25 0 1 -72 16 2 d1
+q
+15 0 0 74 1.1 -71.9 cm
+BI
+/W 15
+/H 74
+/BPC 1
+/IM true
+ID ?ÿÿֿÿחÿדÿףÿשÿרÿüÿü‏‏?ÿ?ÿÿÿÿÿֿÿַÿַÿַÿחÿדÿדÿדÿדÿדÿדÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿדÿדÿדÿדÿדÿדÿחÿַÿַÿַÿֿÿÿÿÿÿ?‏?‏üüÿרÿשÿףÿדÿחÿֿÿÿ?ÿ
+EI
+Q
+endstream
+endobj
+100 0 obj
+<<
+/Length 338
+>>
+stream
+24 0 11 -122 23 2 d1
+q
+12 0 0 124 11.1 -121.9 cm
+BI
+/W 12
+/H 124
+/BPC 1
+/IM true
+ID    ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ   
+EI
+Q
+endstream
+endobj
+101 0 obj
+<<
+/Length 336
+>>
+stream
+24 0 0 -122 12 2 d1
+q
+12 0 0 124 0.1 -121.9 cm
+BI
+/W 12
+/H 124
+/BPC 1
+/IM true
+ID    ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ   
+EI
+Q
+endstream
+endobj
+102 0 obj
+<<
+/Length 294
+>>
+stream
+44 0 2 -42 41 0 d1
+q
+39 0 0 42 2.1 -41.9 cm
+BI
+/W 39
+/H 42
+/BPC 1
+/IM true
+ID         ÿÿא‡ÿÿ‏ֳÿÿÿ‡דÿÿÿחסÿÿÿףנÿÿÿûרÿÿÿûüÿÿ‎ü?ÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿ‡ÿÿÿÿַÿÿÿÿדÿÿÿÿבÿÿÿÿנÿÿÿÿרÿÿÿÿüÿÿÿüÿÿÿüÿÿÿÿרÿÿÿÿשÿÿÿÿףÿÿÿÿחÿÿÿÿַÿÿÿÿֿÿÿÿÿÿÿÿÿ?ÿÿÿ‏?ÿÿÿ‏ÿÿ‎üÿÿÿûשÿÿÿûסÿÿÿףףÿÿÿחחÿÿÿ‡ֿÿÿ‏ÿÿא€       
+EI
+Q
+endstream
+endobj
+103 0 obj
+<<
+/Length 490
+>>
+stream
+60 0 2 -58 57 0 d1
+q
+55 0 0 58 2.1 -57.9 cm
+BI
+/W 55
+/H 58
+/BPC 1
+/IM true
+ID       ?      €ÿÿÿ‏ €ÿÿÿÿאְÿÿÿüא?ÿÿÿÿנ?ÿÿÿÿַנÿÿÿÿחרÿÿÿÿףüÿÿÿÿûüÿÿÿÿû‏ÿÿÿÿ‎ÿÿÿÿÿÿÿ€ÿÿÿÿÿÿ€ÿÿÿÿÿÿְÿÿÿÿÿא?ÿÿÿÿÿנ?ÿÿÿÿÿנÿÿÿÿÿרÿÿÿÿÿüÿÿÿÿÿüÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ€ÿÿÿÿÿÿְÿÿÿÿÿא?ÿÿÿÿÿא?ÿÿÿÿÿנ?ÿÿÿÿÿרÿÿÿÿÿüÿÿÿÿÿרÿÿÿÿÿÿסÿÿÿÿÿÿדÿÿÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏?ÿÿÿÿÿüÿÿÿÿÿרÿÿÿÿÿÿסÿÿÿÿÿÿסÿÿÿÿÿÿדÿÿÿÿ‎ÿַÿÿÿÿûÿÿÿÿÿûÿÿÿÿÿף‏ÿÿÿÿח‏?ÿÿÿÿַüÿÿÿÿרÿÿÿÿ‏סÿÿÿÿנדÿÿÿ‏ ְ     ְ     €           ?
+EI
+Q
+endstream
+endobj
+104 0 obj
+<<
+/Length 544
+>>
+stream
+23 0 2 -92 38 0 d1
+q
+36 0 0 92 2.1 -91.9 cm
+BI
+/W 36
+/H 92
+/BPC 1
+/IM true
+ID ÿÿÿüÿÿÿשÿÿÿףÿÿÿףÿÿÿףÿÿÿדÿÿÿחÿÿÿÿַÿÿÿÿַÿÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿ‏ÿÿÿ‏?ÿÿÿ‏?ÿÿÿü?ÿÿÿü?ÿÿÿü?ÿÿÿü?ÿÿÿרÿÿÿרÿÿÿרÿÿÿרÿÿÿנÿÿÿנÿÿÿנÿÿÿÿנÿÿÿÿאÿÿÿÿאÿÿÿÿאÿÿÿÿאÿÿÿÿבÿÿÿÿֱÿÿÿÿֱÿÿÿÿֱÿÿÿÿֱÿÿÿÿֳÿÿÿÿƒÿÿÿÿƒÿÿÿÿƒÿÿÿÿƒÿÿÿÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿ‏ÿÿÿ‏ÿÿÿ‏ÿÿÿ‏ÿÿÿ‏ÿÿÿüÿÿÿüÿÿÿü?ÿÿÿü?ÿÿÿü?ÿÿÿü?ÿÿÿרÿÿÿרÿÿÿרÿÿÿרÿÿÿרÿÿÿÿרÿÿÿÿנÿÿÿÿנÿÿÿÿסÿÿÿÿסÿÿÿÿסÿÿÿÿבÿÿÿÿדÿÿÿÿדÿÿÿÿדÿÿÿÿחÿÿÿÿַÿÿÿÿַÿÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿ?ÿÿÿÿÿÿÿÿÿÿבÿÿÿÿ
+EI
+Q
+endstream
+endobj
+105 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+17 0 obj
+<<
+/Name /T7
+/Type /Font
+/Subtype /Type3
+/Resources 105 0 R
+/FontBBox [1 -7 11 16]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 40
+/LastChar 61
+/Encoding 106 0 R
+/CharProcs 107 0 R
+/Widths [12 12 0 0 0 0 0 0 15 15 15 0 0 0 0 0 
+0 0 0 0 0 23 ]
+>>
+endobj
+106 0 obj
+<<
+/Type /Encoding
+/Differences [40/#28 /#29 48/0 /1 /2 61/= ]
+>>
+endobj
+107 0 obj
+<<
+/#28 108 0 R
+/#29 109 0 R
+/0 110 0 R
+/1 111 0 R
+/2 112 0 R
+/= 113 0 R
+>>
+endobj
+108 0 obj
+<<
+/Length 106
+>>
+stream
+12 0 1 -7 8 19 d1
+q
+7 0 0 26 1.1 -6.9 cm
+BI
+/W 7
+/H 26
+/BPC 1
+/IM true
+ID ‎ûקןֿß¿¿????????¿¿ßֿןקû‎
+EI
+Q
+endstream
+endobj
+109 0 obj
+<<
+/Length 106
+>>
+stream
+12 0 2 -7 9 19 d1
+q
+7 0 0 26 2.1 -6.9 cm
+BI
+/W 7
+/H 26
+/BPC 1
+/IM true
+ID ¿ßןחקףûûששששששששûûףקחןß¿
+EI
+Q
+endstream
+endobj
+110 0 obj
+<<
+/Length 113
+>>
+stream
+15 0 1 0 12 16 d1
+q
+11 0 0 16 1.1 0.1 cm
+BI
+/W 11
+/H 16
+/BPC 1
+/IM true
+ID אÿ־?¿¿????????¿¿?־אÿ
+EI
+Q
+endstream
+endobj
+111 0 obj
+<<
+/Length 111
+>>
+stream
+15 0 2 0 11 16 d1
+q
+9 0 0 16 2.1 0.1 cm
+BI
+/W 9
+/H 16
+/BPC 1
+/IM true
+ID ףÿֳÿ3ÿףÿףÿףÿףÿףÿףÿףÿףÿףÿףÿףÿףÿ 
+EI
+Q
+endstream
+endobj
+112 0 obj
+<<
+/Length 113
+>>
+stream
+15 0 1 0 12 16 d1
+q
+11 0 0 16 1.1 0.1 cm
+BI
+/W 11
+/H 16
+/BPC 1
+/IM true
+ID אÿ¿??ÿÿÿ?‏üÿשÿףÿןßßß€? ?
+EI
+Q
+endstream
+endobj
+113 0 obj
+<<
+/Length 103
+>>
+stream
+23 0 2 2 19 10 d1
+q
+17 0 0 8 2.1 2.1 cm
+BI
+/W 17
+/H 8
+/BPC 1
+/IM true
+ID     ÿÿÿÿÿÿÿÿÿÿÿÿ    
+EI
+Q
+endstream
+endobj
+114 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+18 0 obj
+<<
+/Name /T8
+/Type /Font
+/Subtype /Type3
+/Resources 114 0 R
+/FontBBox [3 -7 21 7]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 0
+/LastChar 21
+/Encoding 115 0 R
+/CharProcs 116 0 R
+/Widths [24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 24 ]
+>>
+endobj
+115 0 obj
+<<
+/Type /Encoding
+/Differences [0/; 21/#15 ]
+>>
+endobj
+116 0 obj
+<<
+/; 117 0 R
+/#15 118 0 R
+>>
+endobj
+117 0 obj
+<<
+/Length 84
+>>
+stream
+24 0 3 5 21 7 d1
+q
+18 0 0 2 3.1 5.1 cm
+BI
+/W 18
+/H 2
+/BPC 1
+/IM true
+ID   ?  ?
+EI
+Q
+endstream
+endobj
+118 0 obj
+<<
+/Length 155
+>>
+stream
+24 0 3 -7 21 17 d1
+q
+18 0 0 24 3.1 -6.9 cm
+BI
+/W 18
+/H 24
+/BPC 1
+/IM true
+ID ?ÿÿÿÿֳÿÿנÿÿü?ÿÿÿÿֳÿÿנÿÿü?ÿü?ÿנÿÿֳÿÿÿü?ÿנÿÿֳÿÿÿÿ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ  ?  ?
+EI
+Q
+endstream
+endobj
+119 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+19 0 obj
+<<
+/Name /T9
+/Type /Font
+/Subtype /Type3
+/Resources 119 0 R
+/FontBBox [0 -5 8 18]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 39
+/LastChar 119
+/Encoding 120 0 R
+/CharProcs 121 0 R
+/Widths [20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 9 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 29 24 0 0 0 0 0 18 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 11 13 16 10 27 19 0 0 0 0 15 0 0 0 
+22 ]
+>>
+endobj
+120 0 obj
+<<
+/Type /Encoding
+/Differences [39/' 59/;; 77/M /N 84/T 105/i /j /k /l /m /n 115/s 119/w ]
+>>
+endobj
+121 0 obj
+<<
+/' 122 0 R
+/;; 123 0 R
+/M 124 0 R
+/N 125 0 R
+/T 126 0 R
+/i 127 0 R
+/j 128 0 R
+/k 129 0 R
+/l 130 0 R
+/m 131 0 R
+/n 132 0 R
+/s 133 0 R
+/w 134 0 R
+>>
+endobj
+122 0 obj
+<<
+/Length 115
+>>
+stream
+20 0 2 -5 18 11 d1
+q
+16 0 0 16 2.1 -4.9 cm
+BI
+/W 16
+/H 16
+/BPC 1
+/IM true
+ID ןדßֱ¿¼¿~¾‏~‎~‎½ûחְנ?שÿûÿףÿףÿףÿ
+EI
+Q
+endstream
+endobj
+123 0 obj
+<<
+/Length 84
+>>
+stream
+9 0 3 -5 6 3 d1
+q
+3 0 0 8 3.1 -4.9 cm
+BI
+/W 3
+/H 8
+/BPC 1
+/IM true
+ID ¿ßß¿¿
+EI
+Q
+endstream
+endobj
+124 0 obj
+<<
+/Length 149
+>>
+stream
+29 0 2 0 30 17 d1
+q
+28 0 0 17 2.1 0.1 cm
+BI
+/W 28
+/H 17
+/BPC 1
+/IM true
+ID נ?ü‏?ü‏?ת‎?פÿ‎פÿ‎לÿ‎ÜÿûÙÿû¹ÿûֿyÿû־שÿק־ףÿקֽףÿקֻףÿקדףÿחחחÿן ÿ
+EI
+Q
+endstream
+endobj
+125 0 obj
+<<
+/Length 132
+>>
+stream
+24 0 2 0 25 17 d1
+q
+23 0 0 17 2.1 0.1 cm
+BI
+/W 23
+/H 17
+/BPC 1
+/IM true
+ID נ‏?ן‏?ן‎ß‎ß‎ֿß‎ֿßûח¿ûח¿ûף¿ûף¿קשקשקüקüח‏ÿ‏ÿ
+EI
+Q
+endstream
+endobj
+126 0 obj
+<<
+/Length 132
+>>
+stream
+18 0 2 0 20 17 d1
+q
+18 0 0 17 2.1 0.1 cm
+BI
+/W 18
+/H 17
+/BPC 1
+/IM true
+ID ְ ?ֿ?¿¿¿?¿?¿?¿ÿ?ÿ‏ÿ‏ÿ‏ÿ‏ÿüÿÿüÿÿüÿÿüÿÿשÿÿ€ÿ
+EI
+Q
+endstream
+endobj
+127 0 obj
+<<
+/Length 96
+>>
+stream
+11 0 2 0 8 18 d1
+q
+6 0 0 18 2.1 0.1 cm
+BI
+/W 6
+/H 18
+/BPC 1
+/IM true
+ID ûףÿÿÿÿÿ§ggֿֿ››—ֿ
+EI
+Q
+endstream
+endobj
+128 0 obj
+<<
+/Length 129
+>>
+stream
+13 0 0 -5 11 18 d1
+q
+11 0 0 23 0.1 -4.9 cm
+BI
+/W 11
+/H 23
+/BPC 1
+/IM true
+ID ÿßÿßÿÿÿÿÿÿÿÿÿÿüû?ק?ק?ÿ?‏‏‏‏üÿüÿüÿüÿ¹ÿ3ÿ‡ÿ
+EI
+Q
+endstream
+endobj
+129 0 obj
+<<
+/Length 115
+>>
+stream
+16 0 2 0 14 17 d1
+q
+12 0 0 17 2.1 0.1 cm
+BI
+/W 12
+/H 17
+/BPC 1
+/IM true
+ID ֳÿףÿףÿחÿחÿחÿח־oֻֽֿÿַÿ€ÿoo>_??
+EI
+Q
+endstream
+endobj
+130 0 obj
+<<
+/Length 95
+>>
+stream
+10 0 2 0 7 17 d1
+q
+5 0 0 17 2.1 0.1 cm
+BI
+/W 5
+/H 17
+/BPC 1
+/IM true
+ID ‡חחֿֿֿֿ??77/
+EI
+Q
+endstream
+endobj
+131 0 obj
+<<
+/Length 114
+>>
+stream
+27 0 2 0 25 11 d1
+q
+23 0 0 11 2.1 0.1 cm
+BI
+/W 23
+/H 11
+/BPC 1
+/IM true
+ID eוחcדחgחחחחחֽֿֿֿֿֿֿֿֿֿֿ›ַ
+EI
+Q
+endstream
+endobj
+132 0 obj
+<<
+/Length 103
+>>
+stream
+19 0 2 0 17 11 d1
+q
+15 0 0 11 2.1 0.1 cm
+BI
+/W 15
+/H 11
+/BPC 1
+/IM true
+ID eחcחgחחחֽֿֿֿֿֿֿ›ַ
+EI
+Q
+endstream
+endobj
+133 0 obj
+<<
+/Length 101
+>>
+stream
+15 0 3 0 12 11 d1
+q
+9 0 0 11 3.1 0.1 cm
+BI
+/W 9
+/H 11
+/BPC 1
+/IM true
+ID נÿןÞßÿֱÿאÿ‏?ÿ|ÿƒÿ
+EI
+Q
+endstream
+endobj
+134 0 obj
+<<
+/Length 114
+>>
+stream
+22 0 2 0 20 11 d1
+q
+18 0 0 11 2.1 0.1 cm
+BI
+/W 18
+/H 11
+/BPC 1
+/IM true
+ID ַן?·ֿ?sֿ¿gֿ¿חֿ¿ֿֿֿֿÿןÿנדÿ
+EI
+Q
+endstream
+endobj
+135 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+20 0 obj
+<<
+/Name /T10
+/Type /Font
+/Subtype /Type3
+/Resources 135 0 R
+/FontBBox [1 -7 21 26]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 12
+/LastChar 120
+/Encoding 136 0 R
+/CharProcs 137 0 R
+/Widths [22 0 0 0 0 0 0 0 0 0 0 0 0 22 20 22 
+0 0 23 0 25 0 0 0 0 0 0 25 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 11 
+0 0 30 0 0 29 29 0 0 0 25 0 32 0 0 0 
+0 37 31 0 0 0 29 23 22 26 0 36 0 0 0 0 
+0 0 0 0 0 0 0 0 20 18 19 0 0 13 0 20 
+11 34 0 0 0 0 0 0 0 0 0 0 22 ]
+>>
+endobj
+136 0 obj
+<<
+/Type /Encoding
+/Differences [12/#0C 25/#19 /#1A /#1B 
+30/#1E 32/#20 39/' 58/: /;; 
+62/#3E 65/A /B 70/F 72/H 77/M /N 82/R /S /T /U 87/W 100/d /e /f 105/i 107/k 
+/l /m 120/x ]
+>>
+endobj
+137 0 obj
+<<
+/#0C 138 0 R
+/#19 139 0 R
+/#1A 140 0 R
+/#1B 141 0 R
+/#1E 142 0 R
+/#20 143 0 R
+/' 144 0 R
+/: 145 0 R
+/;; 146 0 R
+/#3E 147 0 R
+/A 148 0 R
+/B 149 0 R
+/F 150 0 R
+/H 151 0 R
+/M 152 0 R
+/N 153 0 R
+/R 154 0 R
+/S 155 0 R
+/T 156 0 R
+/U 157 0 R
+/W 158 0 R
+/d 159 0 R
+/e 160 0 R
+/f 161 0 R
+/i 162 0 R
+/k 163 0 R
+/l 164 0 R
+/m 165 0 R
+/x 166 0 R
+>>
+endobj
+138 0 obj
+<<
+/Length 182
+>>
+stream
+22 0 1 -7 21 26 d1
+q
+20 0 0 33 1.1 -6.9 cm
+BI
+/W 20
+/H 33
+/BPC 1
+/IM true
+ID ÿרÿחÿßÿ¿ÿÿ‏ÿ‏ÿ‎ÿ‎ÿ?‎ְ‎Üÿûְû‏?ûÿ?û‏?ק‏?ק‏?ק‏?ק‏חüחüÿחרÿכסÿÝחÿÞÿßÿÿßÿÿ¿ÿÿ¿ÿÿ¿ÿÿ¿ÿÿÿÿ
+EI
+Q
+endstream
+endobj
+139 0 obj
+<<
+/Length 129
+>>
+stream
+22 0 2 0 21 16 d1
+q
+19 0 0 16 2.1 0.1 cm
+BI
+/W 19
+/H 16
+/BPC 1
+/IM true
+ID א ְ € ?ןÿ~ןÿüןÿ‎ֿÿ‎ֿÿשֿÿשֿÿףֿÿףַÿדַÿדַÿֳַÿחחÿ
+EI
+Q
+endstream
+endobj
+140 0 obj
+<<
+/Length 129
+>>
+stream
+20 0 2 -7 18 16 d1
+q
+16 0 0 23 2.1 -6.9 cm
+BI
+/W 16
+/H 23
+/BPC 1
+/IM true
+ID ÿ‡‏9üשרüשüסüדרדרדרדרַסַףַדַח‹?ÿÿÿÿÿÿ?ÿ
+EI
+Q
+endstream
+endobj
+141 0 obj
+<<
+/Length 129
+>>
+stream
+22 0 2 0 21 16 d1
+q
+19 0 0 16 2.1 0.1 cm
+BI
+/W 19
+/H 16
+/BPC 1
+/IM true
+ID ü ר נ ?דֳÿַדÿדÿדÿדÿדÿדÿ?ַÿ?ַÿ?ÿÿ?ÿאÿÿ
+EI
+Q
+endstream
+endobj
+142 0 obj
+<<
+/Length 182
+>>
+stream
+23 0 2 -7 20 26 d1
+q
+18 0 0 33 2.1 -6.9 cm
+BI
+/W 18
+/H 33
+/BPC 1
+/IM true
+ID ÿûÿÿûÿÿקÿÿקÿÿקÿÿקÿÿןÿÿןÿÿןÿÿןÿÿÿר״ÿףÞחÞֿ¾?¾?¾?¾?~?~||ÿשÿףÿֶַÿנ?ÿ‎ÿÿ‎ÿÿ‎ÿÿ‎ÿÿûÿÿûÿÿûÿÿ
+EI
+Q
+endstream
+endobj
+143 0 obj
+<<
+/Length 182
+>>
+stream
+25 0 2 -7 23 26 d1
+q
+21 0 0 33 2.1 -6.9 cm
+BI
+/W 21
+/H 33
+/BPC 1
+/IM true
+ID ÿ‏ÿÿ‏ÿÿ‎ÿÿ‎ÿÿ‎ÿÿ‎ÿÿûÿÿûÿÿûÿÿûÿדקֿÙק‡¸קַxקחqןחqןחסןןדןןדßןדßßַßßחß¿ד¿ד¾ÿס¹ÿüÿÿÿÿÿÿÿÿÿ‏ÿÿ‏ÿÿ‏ÿÿ
+EI
+Q
+endstream
+endobj
+144 0 obj
+<<
+/Length 152
+>>
+stream
+25 0 2 -7 22 16 d1
+q
+20 0 0 23 2.1 -6.9 cm
+BI
+/W 20
+/H 23
+/BPC 1
+/IM true
+ID ןü?ןנßא¿חֿ¿ֿן¿ן¿ןÿןןß>ÿÿ?†רְ ÿנÿüÿשÿÿשÿÿשÿÿסÿÿסÿÿסÿÿףÿÿ
+EI
+Q
+endstream
+endobj
+145 0 obj
+<<
+/Length 79
+>>
+stream
+11 0 3 0 7 4 d1
+q
+4 0 0 4 3.1 0.1 cm
+BI
+/W 4
+/H 4
+/BPC 1
+/IM true
+ID 
+EI
+Q
+endstream
+endobj
+146 0 obj
+<<
+/Length 90
+>>
+stream
+11 0 3 -7 7 4 d1
+q
+4 0 0 11 3.1 -6.9 cm
+BI
+/W 4
+/H 11
+/BPC 1
+/IM true
+ID ןןןßß¿
+EI
+Q
+endstream
+endobj
+147 0 obj
+<<
+/Length 149
+>>
+stream
+30 0 3 -2 26 20 d1
+q
+23 0 0 22 3.1 -1.9 cm
+BI
+/W 23
+/H 22
+/BPC 1
+/IM true
+ID ÿÿ‡ÿÿבÿÿרÿ‏ÿÿ‡ÿÿבÿÿרÿ‏ÿÿ‡ÿÿבÿÿבÿÿ‡ÿ‏ÿרÿבÿÿ‡ÿ‏ÿרÿבÿÿ‡ÿÿÿÿ
+EI
+Q
+endstream
+endobj
+148 0 obj
+<<
+/Length 185
+>>
+stream
+29 0 1 0 27 26 d1
+q
+26 0 0 26 1.1 0.1 cm
+BI
+/W 26
+/H 26
+/BPC 1
+/IM true
+ID ÿÿןÿÿÿֿÿÿÿÿÿÿÿÿÿÿÿÿGÿÿ‏ַÿÿ‎ַÿÿ‎ַÿÿûַÿÿûַÿÿקַÿÿןַÿÿןֳÿÿßדÿÿßדÿÿ€ÿÿדÿÿדÿ‏ÿדÿüÿדÿ‎ÿדÿûÿבÿûÿסÿדÿבÿ ÿ ?
+EI
+Q
+endstream
+endobj
+149 0 obj
+<<
+/Length 185
+>>
+stream
+29 0 2 0 28 26 d1
+q
+26 0 0 26 2.1 0.1 cm
+BI
+/W 26
+/H 26
+/BPC 1
+/IM true
+ID ‏ ÿÿַרÿÿַüÿַü?ÿü?ÿü?ÿü?ÿü?ÿרÿרÿÿבÿÿֳÿ‏ ÿ‏?דÿ‏?סÿ‏?נÿüנÿüנÿüנÿüנÿרÿבÿרÿבÿרÿֳÿרÿ‡ÿס‏ÿ  ÿ
+EI
+Q
+endstream
+endobj
+150 0 obj
+<<
+/Length 185
+>>
+stream
+25 0 2 0 27 26 d1
+q
+25 0 0 26 2.1 0.1 cm
+BI
+/W 25
+/H 26
+/BPC 1
+/IM true
+ID ‏  ÿַüÿַ‏ÿַÿÿÿÿÿÿÿÿÿÿ¿ÿÿ¿ÿÿ¿ÿÿ?ÿ‏ ÿ‏?ÿ‏?ÿ‏?ÿü~ÿÿüÿÿüÿÿüÿÿרÿÿÿרÿÿÿרÿÿÿרÿÿÿנÿÿÿ ÿÿ
+EI
+Q
+endstream
+endobj
+151 0 obj
+<<
+/Length 185
+>>
+stream
+32 0 2 0 32 26 d1
+q
+30 0 0 26 2.1 0.1 cm
+BI
+/W 30
+/H 26
+/BPC 1
+/IM true
+ID ‏ pÿַ‏?ÿַ‏?ÿַ‏?ÿüÿüÿüÿüÿרÿÿרÿÿרÿÿרÿ‏ ÿ‏?סÿ‏?סÿ‏?סÿüדÿüדÿüדÿüדÿרÿַÿרÿַÿרÿַÿרÿַÿסÿÿ  ÿ
+EI
+Q
+endstream
+endobj
+152 0 obj
+<<
+/Length 211
+>>
+stream
+37 0 2 0 38 26 d1
+q
+36 0 0 26 2.1 0.1 cm
+BI
+/W 36
+/H 26
+/BPC 1
+/IM true
+ID ‏ÿרÿֳÿנÿÿֳÿנÿÿֳÿטÿÿ£ÿׁÿÿ±ÿׁÿÿ±ÿ±ÿÿ±ÿ±ÿÿqÿcÿÿq‏דÿÿq‏דÿÿq‎דÿ‏ס‎ַÿ‏סûַÿ‏סקַÿ‏סקַÿ‎רןÿ‎רןÿ‎רßÿ‎ר¿ÿûר¿ÿûרÿûרÿףרÿÿדש‏?ÿ yאÿ
+EI
+Q
+endstream
+endobj
+153 0 obj
+<<
+/Length 185
+>>
+stream
+31 0 2 0 32 26 d1
+q
+30 0 0 26 2.1 0.1 cm
+BI
+/W 30
+/H 26
+/BPC 1
+/IM true
+ID ‏üÿֳÿÿֳÿ¿ÿֳÿ¿ÿ±ÿÿ±ÿÿ±ÿÿ¸ÿÿx‏ÿÿ|‏ÿÿ|~ÿÿ|~ÿ‏‏=ÿ‏‏=ÿ‏‏=ÿ‏ÿÿ‎ÿÿ‎ÿÿ‎ÿ‹ÿ‎ÿ‹ÿûÿ‡ÿûÿַÿûÿַÿףÿַÿדÿןÿ ןÿ
+EI
+Q
+endstream
+endobj
+154 0 obj
+<<
+/Length 185
+>>
+stream
+29 0 2 0 28 26 d1
+q
+26 0 0 26 2.1 0.1 cm
+BI
+/W 26
+/H 26
+/BPC 1
+/IM true
+ID ‏ ÿÿַבÿÿַרÿÿַרÿרÿרÿרÿרÿנÿÿסÿÿדÿÿÿ‏ ?ÿ‏??ÿ‏?ÿ‏?ÿüÿüÿüÿüÿרÿÿרÿÿרÿ¿רÿסÿ† בÿ
+EI
+Q
+endstream
+endobj
+155 0 obj
+<<
+/Length 159
+>>
+stream
+23 0 2 0 23 26 d1
+q
+21 0 0 26 2.1 0.1 cm
+BI
+/W 21
+/H 26
+/BPC 1
+/IM true
+ID ÿאקÿ'ÿַ‏ÿַüÿןשÿןשÿןשÿןשÿÿרÿÿר?ÿüÿ‏ ÿÿ€ÿר?ÿ‏?ÿ‏?ÿÿ?ßÿ?ßÿ?‏‏üÿשÿ3ףÿ|ÿ
+EI
+Q
+endstream
+endobj
+156 0 obj
+<<
+/Length 185
+>>
+stream
+22 0 1 0 26 26 d1
+q
+25 0 0 26 1.1 0.1 cm
+BI
+/W 25
+/H 26
+/BPC 1
+/IM true
+ID ְ  ַס‏ßסÿ¿סÿ¿דÿדÿדÿדÿÿַÿÿÿַÿÿÿַÿÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏?ÿÿ‏?ÿÿ‏?ÿÿ‏?ÿÿü?ÿÿ€ÿÿ
+EI
+Q
+endstream
+endobj
+157 0 obj
+<<
+/Length 159
+>>
+stream
+26 0 3 0 27 26 d1
+q
+24 0 0 26 3.1 0.1 cm
+BI
+/W 24
+/H 26
+/BPC 1
+/IM true
+ID € סÿַסÿןסÿןדÿßדÿßדÿßדÿßַÿ¿ַÿ¿ַÿ¿ַÿ¿ÿÿÿÿ‏ÿ‏ÿ‏ÿ‎ÿ‎ÿûÿקÿןÿַÿנÿ
+EI
+Q
+endstream
+endobj
+158 0 obj
+<<
+/Length 211
+>>
+stream
+36 0 2 0 39 26 d1
+q
+37 0 0 26 2.1 0.1 cm
+BI
+/W 37
+/H 26
+/BPC 1
+/IM true
+ID  > רדÿ‡‏?דÿÿדÿ‏ÿדÿG‏ÿדÿG‎ÿד‏ַ‎ÿד‏ַûÿד‎ַûÿדûַקÿדûַןÿדקַןÿדקַßÿבןַßÿסןַ¿ÿסßַ¿ÿסַÿס¿ֶÿסֶÿÿסֵÿÿנÿֵÿÿנÿֳÿÿסÿדÿÿסÿחÿÿףÿחÿÿףÿןÿÿ
+EI
+Q
+endstream
+endobj
+159 0 obj
+<<
+/Length 133
+>>
+stream
+20 0 2 0 18 26 d1
+q
+16 0 0 26 2.1 0.1 cm
+BI
+/W 16
+/H 26
+/BPC 1
+/IM true
+ID ÿְÿרÿרÿרÿסÿסÿסÿסÿדÿדücף£חַַַַֿַ???›ֳַ
+EI
+Q
+endstream
+endobj
+160 0 obj
+<<
+/Length 113
+>>
+stream
+18 0 2 0 15 16 d1
+q
+13 0 0 16 2.1 0.1 cm
+BI
+/W 13
+/H 16
+/BPC 1
+/IM true
+ID üסןחןַןןß ?ÿÿÿÿקןßֿ?אÿ
+EI
+Q
+endstream
+endobj
+161 0 obj
+<<
+/Length 182
+>>
+stream
+19 0 2 -7 21 26 d1
+q
+19 0 0 33 2.1 -6.9 cm
+BI
+/W 19
+/H 33
+/BPC 1
+/IM true
+ID ÿר?ÿףÿחÿח?ÿַÿÿַÿÿַÿÿַÿÿÿÿÿר ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏?ÿ‏?ÿ‏?ÿ‏?ÿ‏?ÿüÿüÿüÿüÿÿüÿÿ˜ÿÿÿÿ3ÿÿ‡ÿÿ
+EI
+Q
+endstream
+endobj
+162 0 obj
+<<
+/Length 131
+>>
+stream
+13 0 2 0 11 26 d1
+q
+9 0 0 26 2.1 0.1 cm
+BI
+/W 9
+/H 26
+/BPC 1
+/IM true
+ID üÿüüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֳÿ±ÿ±ÿqÿqÿcÿדÿדÿַÿַÿֶÿÿÿÿÿֳÿ
+EI
+Q
+endstream
+endobj
+163 0 obj
+<<
+/Length 133
+>>
+stream
+20 0 2 0 18 26 d1
+q
+16 0 0 26 2.1 0.1 cm
+BI
+/W 16
+/H 26
+/BPC 1
+/IM true
+ID אüüüרÿרÿרÿרÿסÿסÿסססּד¸ד|גÿבÿֳÿְֶ?ַ›ַ
+EI
+Q
+endstream
+endobj
+164 0 obj
+<<
+/Length 105
+>>
+stream
+11 0 2 0 10 26 d1
+q
+8 0 0 26 2.1 0.1 cm
+BI
+/W 8
+/H 26
+/BPC 1
+/IM true
+ID ְרררססססדדדדַַַַ—ַ
+EI
+Q
+endstream
+endobj
+165 0 obj
+<<
+/Length 145
+>>
+stream
+34 0 2 0 31 16 d1
+q
+29 0 0 16 2.1 0.1 cm
+BI
+/W 29
+/H 16
+/BPC 1
+/IM true
+ID ֱַנ³<ֿ?pü?pü?qüqüדר‏?דר‏?דר‏?דרüַסüwַסüwַסרקַסרןדüßֿף‏?
+EI
+Q
+endstream
+endobj
+166 0 obj
+<<
+/Length 113
+>>
+stream
+22 0 2 0 18 16 d1
+q
+16 0 0 16 2.1 0.1 cm
+BI
+/W 16
+/H 16
+/BPC 1
+/IM true
+ID נבמ\Þ¾<¾?¾?üüüüר‎ר‎8‎û4ק
+EI
+Q
+endstream
+endobj
+167 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+21 0 obj
+<<
+/Name /T11
+/Type /Font
+/Subtype /Type3
+/Resources 167 0 R
+/FontBBox [0 -10 15 28]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 0
+/LastChar 107
+/Encoding 168 0 R
+/CharProcs 169 0 R
+/Widths [30 11 30 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 30 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 21 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 19 19 0 0 11 19 ]
+>>
+endobj
+168 0 obj
+<<
+/Type /Encoding
+/Differences [0/; /#01 /#02 21/#15 56/8 102/f /g 106/j /k ]
+>>
+endobj
+169 0 obj
+<<
+/; 170 0 R
+/#01 171 0 R
+/#02 172 0 R
+/#15 173 0 R
+/8 174 0 R
+/f 175 0 R
+/g 176 0 R
+/j 177 0 R
+/k 178 0 R
+>>
+endobj
+170 0 obj
+<<
+/Length 85
+>>
+stream
+30 0 3 8 26 10 d1
+q
+23 0 0 2 3.1 8.1 cm
+BI
+/W 23
+/H 2
+/BPC 1
+/IM true
+ID     
+EI
+Q
+endstream
+endobj
+171 0 obj
+<<
+/Length 80
+>>
+stream
+11 0 3 7 7 11 d1
+q
+4 0 0 4 3.1 7.1 cm
+BI
+/W 4
+/H 4
+/BPC 1
+/IM true
+ID 
+EI
+Q
+endstream
+endobj
+172 0 obj
+<<
+/Length 135
+>>
+stream
+30 0 5 0 24 18 d1
+q
+19 0 0 18 5.1 0.1 cm
+BI
+/W 19
+/H 18
+/BPC 1
+/IM true
+ID ?ÿÿ‏?ַüדרÿססÿרדÿüGÿ‏ÿ‏ÿüGÿרדÿססÿדרÿַü‏?ÿ?ÿ
+EI
+Q
+endstream
+endobj
+173 0 obj
+<<
+/Length 176
+>>
+stream
+30 0 3 -7 26 24 d1
+q
+23 0 0 31 3.1 -6.9 cm
+BI
+/W 23
+/H 31
+/BPC 1
+/IM true
+ID ?ÿÿÿÿֳÿÿנÿÿü?ÿÿÿÿֳÿÿנÿÿü?ÿÿÿÿֳÿÿסÿÿֳÿÿÿü?ÿנÿÿֳÿÿÿü?ÿנÿÿֳÿÿÿÿ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ    
+EI
+Q
+endstream
+endobj
+174 0 obj
+<<
+/Length 159
+>>
+stream
+21 0 0 0 20 26 d1
+q
+20 0 0 26 0.1 0.1 cm
+BI
+/W 20
+/H 26
+/BPC 1
+/IM true
+ID ?ÿֿ?ÿֿÿÿÿÿֿÿ?ַ‏?ח‏א א ףüÿףüÿסרÿששÿרסÿüףÿüףÿücÿ‏gÿ‏gÿ‏ÿÿÿÿÿÿÿÿÿ
+EI
+Q
+endstream
+endobj
+175 0 obj
+<<
+/Length 157
+>>
+stream
+19 0 3 -9 15 28 d1
+q
+12 0 0 37 3.1 -8.9 cm
+BI
+/W 12
+/H 37
+/BPC 1
+/IM true
+ID ÿ‏?üרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿסÿדÿÿדÿסÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿü‏?ÿ
+EI
+Q
+endstream
+endobj
+176 0 obj
+<<
+/Length 157
+>>
+stream
+19 0 3 -9 15 28 d1
+q
+12 0 0 37 3.1 -8.9 cm
+BI
+/W 12
+/H 37
+/BPC 1
+/IM true
+ID ÿדÿסÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿü‏?ÿ‏?üרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿסÿדÿÿ
+EI
+Q
+endstream
+endobj
+177 0 obj
+<<
+/Length 117
+>>
+stream
+11 0 4 -9 6 28 d1
+q
+2 0 0 37 4.1 -8.9 cm
+BI
+/W 2
+/H 37
+/BPC 1
+/IM true
+ID ?????????????????????????????????????
+EI
+Q
+endstream
+endobj
+178 0 obj
+<<
+/Length 160
+>>
+stream
+19 0 4 -10 14 28 d1
+q
+10 0 0 38 4.1 -9.9 cm
+BI
+/W 10
+/H 38
+/BPC 1
+/IM true
+ID ????????????????????????????????????????????????????????????????????????????
+EI
+Q
+endstream
+endobj
+179 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+4 0 obj
+<<
+/Name /T12
+/Type /Font
+/Subtype /Type3
+/Resources 179 0 R
+/FontBBox [-1 -7 21 26]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 44
+/LastChar 122
+/Encoding 180 0 R
+/CharProcs 181 0 R
+/Widths [12 14 12 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 29 0 27 29 26 0 0 0 15 0 0 
+24 34 29 0 26 0 0 22 27 0 0 0 0 0 0 0 
+0 0 0 0 0 20 18 18 20 18 12 18 20 12 0 0 
+10 31 22 20 20 18 16 16 13 21 0 0 0 19 16 ]
+>>
+endobj
+180 0 obj
+<<
+/Type /Encoding
+/Differences [44/, /- /. 65/A 67/C /D /E 73/I 76/L /M /N 80/P 83/S /T 97/a /b /c /d /e /f /g /h /i 108/l /m /n /o /p /q /r /s /t /u 121/y /z ]
+>>
+endobj
+181 0 obj
+<<
+/, 182 0 R
+/- 183 0 R
+/. 184 0 R
+/A 185 0 R
+/C 186 0 R
+/D 187 0 R
+/E 188 0 R
+/I 189 0 R
+/L 190 0 R
+/M 191 0 R
+/N 192 0 R
+/P 193 0 R
+/S 194 0 R
+/T 195 0 R
+/a 196 0 R
+/b 197 0 R
+/c 198 0 R
+/d 199 0 R
+/e 200 0 R
+/f 201 0 R
+/g 202 0 R
+/h 203 0 R
+/i 204 0 R
+/l 205 0 R
+/m 206 0 R
+/n 207 0 R
+/o 208 0 R
+/p 209 0 R
+/q 210 0 R
+/r 211 0 R
+/s 212 0 R
+/t 213 0 R
+/u 214 0 R
+/y 215 0 R
+/z 216 0 R
+>>
+endobj
+182 0 obj
+<<
+/Length 90
+>>
+stream
+12 0 3 -7 8 4 d1
+q
+5 0 0 11 3.1 -6.9 cm
+BI
+/W 5
+/H 11
+/BPC 1
+/IM true
+ID חַ‡ַקןןßß¿
+EI
+Q
+endstream
+endobj
+183 0 obj
+<<
+/Length 82
+>>
+stream
+14 0 3 6 12 9 d1
+q
+9 0 0 3 3.1 6.1 cm
+BI
+/W 9
+/H 3
+/BPC 1
+/IM true
+ID    ÿ
+EI
+Q
+endstream
+endobj
+184 0 obj
+<<
+/Length 79
+>>
+stream
+12 0 4 0 9 4 d1
+q
+5 0 0 4 4.1 0.1 cm
+BI
+/W 5
+/H 4
+/BPC 1
+/IM true
+ID ֿ‡
+EI
+Q
+endstream
+endobj
+185 0 obj
+<<
+/Length 159
+>>
+stream
+29 0 2 0 26 26 d1
+q
+24 0 0 26 2.1 0.1 cm
+BI
+/W 24
+/H 26
+/BPC 1
+/IM true
+ID ÿÿßÿÿÿÿÿÿÿ‏ÿ‏ÿ‎ÿ‎ÿûÿקÿקÿןÿןÿßÿßÿ¿ÿÿ ‏ÿַ‏ÿַ‎ÿַûÿַûÿַףÿַדÿַ ‏ 
+EI
+Q
+endstream
+endobj
+186 0 obj
+<<
+/Length 159
+>>
+stream
+27 0 6 0 29 26 d1
+q
+23 0 0 26 6.1 0.1 cm
+BI
+/W 23
+/H 26
+/BPC 1
+/IM true
+ID ÿנ}ÿÿ?יüברÿףסÿףדÿףחÿףַÿקֿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿßÿßÿßÿ¿ÿ¿ÿֿ‏ÿןשÿףחÿüÿ
+EI
+Q
+endstream
+endobj
+187 0 obj
+<<
+/Length 185
+>>
+stream
+29 0 3 0 29 26 d1
+q
+26 0 0 26 3.1 0.1 cm
+BI
+/W 26
+/H 26
+/BPC 1
+/IM true
+ID ü ÿÿסÿÿרÿÿüÿÿ‏ÿ‏ÿ‏ÿ‏?‏?‏?‏?‏?‏?‏?‏?‏?üüüüüüüüÿרÿרÿרÿרÿרÿסÿרÿףÿסÿדÿסÿַÿסÿÿסÿÿדüÿ ÿÿ
+EI
+Q
+endstream
+endobj
+188 0 obj
+<<
+/Length 159
+>>
+stream
+26 0 3 0 27 26 d1
+q
+24 0 0 26 3.1 0.1 cm
+BI
+/W 24
+/H 26
+/BPC 1
+/IM true
+ID ü  ÿרÿüÿ‏ÿ‏ÿ‏ÿ‏ÿ‏‏?‏?‏?‏>ü ÿü~ÿü~ÿü~ÿר‎ÿרÿûרÿûרÿקסÿקסÿחסÿןסÿֿדÿ  
+EI
+Q
+endstream
+endobj
+189 0 obj
+<<
+/Length 159
+>>
+stream
+15 0 2 0 19 26 d1
+q
+17 0 0 26 2.1 0.1 cm
+BI
+/W 17
+/H 26
+/BPC 1
+/IM true
+ID ‏ ÿַÿÿַÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏?ÿ‏?ÿ‏?ÿ‏?ÿüÿüÿüÿüÿרÿÿרÿÿרÿÿרÿÿסÿÿ ÿ
+EI
+Q
+endstream
+endobj
+190 0 obj
+<<
+/Length 159
+>>
+stream
+24 0 3 0 23 26 d1
+q
+20 0 0 26 3.1 0.1 cm
+BI
+/W 20
+/H 26
+/BPC 1
+/IM true
+ID ü ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏?ÿ‏?ÿ‏?ÿ‏?ÿüÿüÿüÿüÿרÿÿרÿןרÿןרÿßסÿßסÿסÿ¿סÿ?דü  
+EI
+Q
+endstream
+endobj
+191 0 obj
+<<
+/Length 211
+>>
+stream
+34 0 3 0 37 26 d1
+q
+34 0 0 26 3.1 0.1 cm
+BI
+/W 34
+/H 26
+/BPC 1
+/IM true
+ID üÿא?ÿ‡ÿֳÿÿ‡ÿֳÿÿ‡ÿ£ÿÿGÿGÿÿGÿGÿÿc‏ַÿÿc‏ַÿ‏ד‎ÿ‏ד‎ÿ‏דûÿ‏דקÿ‎דקÿ‎דןÿ‎דןÿ‎דßÿûד¾?ÿûד¾?ÿûד~?ÿûד~?ÿקנüÿקנüÿקסüÿחףüÿַףרÿÿ קְÿ
+EI
+Q
+endstream
+endobj
+192 0 obj
+<<
+/Length 185
+>>
+stream
+29 0 3 0 32 26 d1
+q
+29 0 0 26 3.1 0.1 cm
+BI
+/W 29
+/H 26
+/BPC 1
+/IM true
+ID üרÿ‡‏?ÿ‡ÿÿ‡ÿÿc‏ÿÿc‏ÿÿc‏ÿÿq‏ÿ‏ס‎ÿ‏ש‎ÿ‏ר‎ÿ‏ר‎ÿ‎ü{ÿ‎ü{ÿ‎ü{ÿ‎‏;ÿû‏7ÿû‏7ÿûÿÿûÿÿקÿÿקÿÿקÿÿחÿÿַÿßÿ ÿßÿ
+EI
+Q
+endstream
+endobj
+193 0 obj
+<<
+/Length 159
+>>
+stream
+26 0 3 0 27 26 d1
+q
+24 0 0 26 3.1 0.1 cm
+BI
+/W 24
+/H 26
+/BPC 1
+/IM true
+ID ü ÿדÿשÿרÿרÿרÿרÿר‏?ס‏?ס‏?ד‏?ַüü üÿüÿרÿÿרÿÿרÿÿרÿÿסÿÿסÿÿסÿÿסÿÿדÿÿ ?ÿ
+EI
+Q
+endstream
+endobj
+194 0 obj
+<<
+/Length 159
+>>
+stream
+22 0 3 0 23 26 d1
+q
+20 0 0 26 3.1 0.1 cm
+BI
+/W 20
+/H 26
+/BPC 1
+/IM true
+ID ÿְןÿo‏‏ÿüÿßשÿßשÿßשÿßשÿÿרÿÿר?ÿüÿ‏ÿÿ€ÿÿנÿüÿ‏ÿ‏ß‏ß‏üÿüÿשÿףÿ7חÿxÿ
+EI
+Q
+endstream
+endobj
+195 0 obj
+<<
+/Length 159
+>>
+stream
+27 0 7 0 29 26 d1
+q
+22 0 0 26 7.1 0.1 cm
+BI
+/W 22
+/H 26
+/BPC 1
+/IM true
+ID ְ ַדףßדû¿דû¿ַûַûַûַûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏?ÿ‏?ÿ‏?ÿ‏?ÿüÿüÿüÿüÿרÿ ÿ
+EI
+Q
+endstream
+endobj
+196 0 obj
+<<
+/Length 113
+>>
+stream
+20 0 4 0 19 16 d1
+q
+15 0 0 16 4.1 0.1 cm
+BI
+/W 15
+/H 16
+/BPC 1
+/IM true
+ID ü3סׁחדַדֿדדַַַַ???ֻבח
+EI
+Q
+endstream
+endobj
+197 0 obj
+<<
+/Length 133
+>>
+stream
+18 0 4 0 17 26 d1
+q
+13 0 0 26 4.1 0.1 cm
+BI
+/W 13
+/H 26
+/BPC 1
+/IM true
+ID ÿסÿסÿסÿדÿדÿדÿדÿַÿַÿִ?ֳֿ‡ֿחחחַַַַ????בÿ
+EI
+Q
+endstream
+endobj
+198 0 obj
+<<
+/Length 113
+>>
+stream
+18 0 4 0 17 16 d1
+q
+13 0 0 16 4.1 0.1 cm
+BI
+/W 13
+/H 16
+/BPC 1
+/IM true
+ID ‏שקףחחַֿןÿÿÿÿÿÿקןßֿ?אÿ
+EI
+Q
+endstream
+endobj
+199 0 obj
+<<
+/Length 159
+>>
+stream
+20 0 4 0 21 26 d1
+q
+17 0 0 26 4.1 0.1 cm
+BI
+/W 17
+/H 26
+/BPC 1
+/IM true
+ID ÿאÿüÿüÿüÿרÿÿרÿÿרÿÿרÿÿסÿÿסÿü1ÿסׁÿחדÿַדÿֿדÿדÿַÿַÿַÿַÿ?ÿ?ÿ?ÿÿֻÿבחÿ
+EI
+Q
+endstream
+endobj
+200 0 obj
+<<
+/Length 113
+>>
+stream
+18 0 4 0 17 16 d1
+q
+13 0 0 16 4.1 0.1 cm
+BI
+/W 13
+/H 16
+/BPC 1
+/IM true
+ID ‏שחדקַקקן ÿÿÿÿקןßֿ?אÿ
+EI
+Q
+endstream
+endobj
+201 0 obj
+<<
+/Length 184
+>>
+stream
+12 0 -1 -7 16 26 d1
+q
+17 0 0 33 -0.9 -6.9 cm
+BI
+/W 17
+/H 33
+/BPC 1
+/IM true
+ID ÿרÿÿזÿהÿִÿÿֿÿÿֿÿÿÿÿÿÿÿÿÿר ÿÿÿÿÿÿÿÿÿÿÿ‏?ÿ‏?ÿ‏?ÿ‏?ÿ‏?ÿüÿüÿüÿüÿüÿרÿÿרÿÿרÿÿ™ÿÿÿÿ3ÿÿÿÿ
+EI
+Q
+endstream
+endobj
+202 0 obj
+<<
+/Length 152
+>>
+stream
+18 0 2 -7 19 16 d1
+q
+17 0 0 23 2.1 -6.9 cm
+BI
+/W 17
+/H 23
+/BPC 1
+/IM true
+ID ÿÿütשרÿסרÿףרÿדרÿַסÿַסÿַסÿַסÿֿדÿֿדÿֿדÿחֳÿח‡ÿרGÿÿַÿÿַÿÿÿÿÿ>?ÿ€ÿÿ
+EI
+Q
+endstream
+endobj
+203 0 obj
+<<
+/Length 159
+>>
+stream
+20 0 2 0 19 26 d1
+q
+17 0 0 26 2.1 0.1 cm
+BI
+/W 17
+/H 26
+/BPC 1
+/IM true
+ID אÿüÿüÿüÿרÿÿרÿÿרÿÿרÿÿסÿÿסÿÿסƒÿנyÿברÿברÿדרÿדרÿַסÿַסÿַסÿַדÿדדַֶÿזÿסÿ
+EI
+Q
+endstream
+endobj
+204 0 obj
+<<
+/Length 104
+>>
+stream
+12 0 4 0 12 25 d1
+q
+8 0 0 25 4.1 0.1 cm
+BI
+/W 8
+/H 25
+/BPC 1
+/IM true
+ID üרשÿÿÿÿÿÿַ³±qccדַַ›ַ
+EI
+Q
+endstream
+endobj
+205 0 obj
+<<
+/Length 105
+>>
+stream
+10 0 3 0 11 26 d1
+q
+8 0 0 26 3.1 0.1 cm
+BI
+/W 8
+/H 26
+/BPC 1
+/IM true
+ID ְרררססססדדדדַַַַ—ֿ
+EI
+Q
+endstream
+endobj
+206 0 obj
+<<
+/Length 145
+>>
+stream
+31 0 4 0 30 16 d1
+q
+26 0 0 16 4.1 0.1 cm
+BI
+/W 26
+/H 16
+/BPC 1
+/IM true
+ID ֿƒבÿ¦yÿaר|aרücרücרüַסרÿַסרÿַסרÿַססÿדס¿דס¿דד¿דדַףחרÿ
+EI
+Q
+endstream
+endobj
+207 0 obj
+<<
+/Length 129
+>>
+stream
+22 0 4 0 21 16 d1
+q
+17 0 0 16 4.1 0.1 cm
+BI
+/W 17
+/H 16
+/BPC 1
+/IM true
+ID ֿƒÿ¦yÿaרÿaרÿcרÿcרÿַסÿַסÿַסÿַדÿדדַֶÿזÿסÿ
+EI
+Q
+endstream
+endobj
+208 0 obj
+<<
+/Length 113
+>>
+stream
+20 0 4 0 19 16 d1
+q
+15 0 0 16 4.1 0.1 cm
+BI
+/W 15
+/H 16
+/BPC 1
+/IM true
+ID ‏שחףףחסֿסססססףדחֿֿ?אÿ
+EI
+Q
+endstream
+endobj
+209 0 obj
+<<
+/Length 152
+>>
+stream
+20 0 0 -7 19 16 d1
+q
+19 0 0 23 0.1 -6.9 cm
+BI
+/W 19
+/H 23
+/BPC 1
+/IM true
+ID üנÿתo?צ?צ?צ?צ?üüüüר‏?ר‏רüרüÿסqÿס‡ÿסÿÿסÿÿדÿÿדÿÿדÿÿדÿÿ ÿÿ
+EI
+Q
+endstream
+endobj
+210 0 obj
+<<
+/Length 129
+>>
+stream
+18 0 4 -7 19 16 d1
+q
+15 0 0 23 4.1 -6.9 cm
+BI
+/W 15
+/H 23
+/BPC 1
+/IM true
+ID ü=סׁחדַדֿדדַַַַ???בÿÿ‏?‏?‏?‏?א
+EI
+Q
+endstream
+endobj
+211 0 obj
+<<
+/Length 113
+>>
+stream
+16 0 4 0 17 16 d1
+q
+13 0 0 16 4.1 0.1 cm
+BI
+/W 13
+/H 16
+/BPC 1
+/IM true
+ID ֿ¦חaַcחcÿcÿַÿַÿַÿַÿÿÿÿÿÿÿ
+EI
+Q
+endstream
+endobj
+212 0 obj
+<<
+/Length 113
+>>
+stream
+16 0 3 0 15 16 d1
+q
+12 0 0 16 3.1 0.1 cm
+BI
+/W 12
+/H 16
+/BPC 1
+/IM true
+ID üûֿקֿחחדÿאא?נÿÿ?¾ֱÿ
+EI
+Q
+endstream
+endobj
+213 0 obj
+<<
+/Length 127
+>>
+stream
+13 0 4 0 14 23 d1
+q
+10 0 0 23 4.1 0.1 cm
+BI
+/W 10
+/H 23
+/BPC 1
+/IM true
+ID שÿסÿסÿסÿסÿדÿדÿ ?דÿַÿַÿַÿַÿÿÿÿÿÿÿÿÿ›ÿַÿ
+EI
+Q
+endstream
+endobj
+214 0 obj
+<<
+/Length 113
+>>
+stream
+21 0 4 0 20 16 d1
+q
+16 0 0 16 4.1 0.1 cm
+BI
+/W 16
+/H 16
+/BPC 1
+/IM true
+ID ַש³ר±סqסcסcסדדַדַדַדֶֶֶֿ†ַeנף
+EI
+Q
+endstream
+endobj
+215 0 obj
+<<
+/Length 129
+>>
+stream
+19 0 4 -7 20 16 d1
+q
+16 0 0 23 4.1 -6.9 cm
+BI
+/W 16
+/H 23
+/BPC 1
+/IM true
+ID ַש³ר±סqסcסcסדדַדַדַדַַַֿ‡ַנÿÿ?>¸ÿֳÿ
+EI
+Q
+endstream
+endobj
+216 0 obj
+<<
+/Length 113
+>>
+stream
+16 0 2 0 17 16 d1
+q
+15 0 0 16 2.1 0.1 cm
+BI
+/W 15
+/H 16
+/BPC 1
+/IM true
+ID ü}ר;נןקןןÿßÿ¿‏üÿûÿקקןקßח€¼~?
+EI
+Q
+endstream
+endobj
+217 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+5 0 obj
+<<
+/Name /T13
+/Type /Font
+/Subtype /Type3
+/Resources 217 0 R
+/FontBBox [-2 -10 26 26]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 1
+/LastChar 127
+/Encoding 218 0 R
+/CharProcs 219 0 R
+/Widths [32 0 0 0 0 0 0 28 0 0 22 21 0 32 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 19 0 0 32 0 11 15 15 0 30 11 13 11 19 19 
+19 19 19 19 19 19 19 19 19 11 0 0 30 0 0 0 
+29 27 28 29 26 25 30 29 14 20 30 24 35 29 30 26 
+30 28 21 28 29 29 39 0 29 0 11 19 11 19 11 0 
+19 21 17 21 17 12 19 21 10 12 20 10 32 21 19 21 
+20 15 15 15 21 20 28 20 20 17 19 0 0 19 19 ]
+>>
+endobj
+218 0 obj
+<<
+/Type /Encoding
+/Differences [1/#01 8/#08 11/#0B /#0C 14/#0E 34/" 37/#25 39/' /#28 /#29 43/+ /, /- /. /#2F /0 
+/1 /2 /3 /4 /5 /6 /7 /8 /9 /: 61/= 65/A /B /C /D /E /F /G /H /I /J /K /L /M /N /O /P 
+/Q /R /S /T /U /V /W 89/Y 91/#5B /#5C /#5D /^ /_ 97/a /b /c /d /e /f /g /h /i /j /k /l /m /n /o /p 
+/q /r /s /t /u /v /w /x /y /z /#7B 126/~ /#7F ]
+>>
+endobj
+219 0 obj
+<<
+/#01 220 0 R
+/#08 221 0 R
+/#0B 222 0 R
+/#0C 223 0 R
+/#0E 224 0 R
+/" 225 0 R
+/#25 226 0 R
+/' 227 0 R
+/#28 228 0 R
+/#29 229 0 R
+/+ 230 0 R
+/, 231 0 R
+/- 232 0 R
+/. 233 0 R
+/#2F 234 0 R
+/0 235 0 R
+/1 236 0 R
+/2 237 0 R
+/3 238 0 R
+/4 239 0 R
+/5 240 0 R
+/6 241 0 R
+/7 242 0 R
+/8 243 0 R
+/9 244 0 R
+/: 245 0 R
+/= 246 0 R
+/A 247 0 R
+/B 248 0 R
+/C 249 0 R
+/D 250 0 R
+/E 251 0 R
+/F 252 0 R
+/G 253 0 R
+/H 254 0 R
+/I 255 0 R
+/J 256 0 R
+/K 257 0 R
+/L 258 0 R
+/M 259 0 R
+/N 260 0 R
+/O 261 0 R
+/P 262 0 R
+/Q 263 0 R
+/R 264 0 R
+/S 265 0 R
+/T 266 0 R
+/U 267 0 R
+/V 268 0 R
+/W 269 0 R
+/Y 270 0 R
+/#5B 271 0 R
+/#5C 272 0 R
+/#5D 273 0 R
+/^ 274 0 R
+/_ 275 0 R
+/a 276 0 R
+/b 277 0 R
+/c 278 0 R
+/d 279 0 R
+/e 280 0 R
+/f 281 0 R
+/g 282 0 R
+/h 283 0 R
+/i 284 0 R
+/j 285 0 R
+/k 286 0 R
+/l 287 0 R
+/m 288 0 R
+/n 289 0 R
+/o 290 0 R
+/p 291 0 R
+/q 292 0 R
+/r 293 0 R
+/s 294 0 R
+/t 295 0 R
+/u 296 0 R
+/v 297 0 R
+/w 298 0 R
+/x 299 0 R
+/y 300 0 R
+/z 301 0 R
+/#7B 302 0 R
+/~ 303 0 R
+/#7F 304 0 R
+>>
+endobj
+220 0 obj
+<<
+/Length 185
+>>
+stream
+32 0 2 0 29 26 d1
+q
+27 0 0 26 2.1 0.1 cm
+BI
+/W 27
+/H 26
+/BPC 1
+/IM true
+ID ÿûÿÿÿסÿÿÿסÿÿÿאÿÿÿטÿÿÿÜÿÿÜÿÿ¾?ÿÿ¾?ÿÿÿÿÿ‏ÿÿ‏ÿÿ‎ÿַÿשÿֳÿûÿדÿףÿבÿקÿסÿחÿנÿןÿרÿֿÿרßÿüÿü?€  ?      
+EI
+Q
+endstream
+endobj
+221 0 obj
+<<
+/Length 159
+>>
+stream
+28 0 2 0 25 26 d1
+q
+23 0 0 26 2.1 0.1 cm
+BI
+/W 23
+/H 26
+/BPC 1
+/IM true
+ID ר ?ÿַÿÿַÿÿַÿÿַÿ‏ ÿרֶ?דַַַַ‡ֳַַדַבַבַבַבַד‡ֳַַַַדַרֶ?‏ ÿÿַÿÿַÿÿַÿÿַÿר ?
+EI
+Q
+endstream
+endobj
+222 0 obj
+<<
+/Length 159
+>>
+stream
+22 0 0 0 23 26 d1
+q
+23 0 0 26 0.1 0.1 cm
+BI
+/W 23
+/H 26
+/BPC 1
+/IM true
+ID ÿƒ‏|9ררqשרûסרÿסרÿסרÿסרÿסרÿסרÿ  סרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿ€נ
+EI
+Q
+endstream
+endobj
+223 0 obj
+<<
+/Length 159
+>>
+stream
+21 0 0 0 19 26 d1
+q
+19 0 0 26 0.1 0.1 cm
+BI
+/W 19
+/H 26
+/BPC 1
+/IM true
+ID ÿÿ‏}ÿרüÿשרÿס‎ÿסÿÿסÿÿסÿÿסÿÿסÿÿ  ÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿסרÿ€נ
+EI
+Q
+endstream
+endobj
+224 0 obj
+<<
+/Length 185
+>>
+stream
+32 0 0 0 30 26 d1
+q
+30 0 0 26 0.1 0.1 cm
+BI
+/W 30
+/H 26
+/BPC 1
+/IM true
+ID ÿא‏>¿רü?שüסü¿סüÿסüÿסüÿסüÿסüÿ   סüסüסüסüסüסüסüסüסüסüסüסüסüסü€p
+EI
+Q
+endstream
+endobj
+225 0 obj
+<<
+/Length 105
+>>
+stream
+19 0 1 15 13 26 d1
+q
+12 0 0 11 1.1 15.1 cm
+BI
+/W 12
+/H 11
+/BPC 1
+/IM true
+ID ?—/קןקןקןןßןßß¿>
+EI
+Q
+endstream
+endobj
+226 0 obj
+<<
+/Length 203
+>>
+stream
+32 0 2 -2 29 28 d1
+q
+27 0 0 30 2.1 -1.9 cm
+BI
+/W 27
+/H 30
+/BPC 1
+/IM true
+ID סÿüÿ־ÿרÿֿסÿבÿ ÿ¿חÿ¿ַÿ¿ÿ¿ÿ¿ÿ¾?ÿ~ÿֿ|ÿ־רÿÿססÿÿÿףרÿÿדחÿַח¿ÿֿֿ¿ÿßÿßÿ?ß‏?ßüßüÿßרÿßסÿֿ¿ףÿח¿דÿחחÿרÿ
+EI
+Q
+endstream
+endobj
+227 0 obj
+<<
+/Length 91
+>>
+stream
+11 0 3 15 8 26 d1
+q
+5 0 0 11 3.1 15.1 cm
+BI
+/W 5
+/H 11
+/BPC 1
+/IM true
+ID —קקקןןß?
+EI
+Q
+endstream
+endobj
+228 0 obj
+<<
+/Length 158
+>>
+stream
+15 0 3 -10 12 28 d1
+q
+9 0 0 38 3.1 -9.9 cm
+BI
+/W 9
+/H 38
+/BPC 1
+/IM true
+ID ÿ‏ÿ‎ÿûÿףÿקÿחÿֿÿֿÿֿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿֿÿֿÿֿÿחÿקÿףÿûÿ‎ÿ‏ÿÿ
+EI
+Q
+endstream
+endobj
+229 0 obj
+<<
+/Length 158
+>>
+stream
+15 0 2 -10 11 28 d1
+q
+9 0 0 38 2.1 -9.9 cm
+BI
+/W 9
+/H 38
+/BPC 1
+/IM true
+ID ÿ¿ÿßÿןÿחÿקÿףÿשÿשÿשÿüÿüÿüÿüÿüüüüüüüüüüüÿüÿüÿüÿשÿשÿשÿףÿקÿחÿןÿßÿ¿ÿÿ
+EI
+Q
+endstream
+endobj
+230 0 obj
+<<
+/Length 187
+>>
+stream
+30 0 2 -4 27 22 d1
+q
+25 0 0 26 2.1 -3.9 cm
+BI
+/W 25
+/H 26
+/BPC 1
+/IM true
+ID ÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿ      ÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿÿףÿÿ
+EI
+Q
+endstream
+endobj
+231 0 obj
+<<
+/Length 90
+>>
+stream
+11 0 3 -7 7 4 d1
+q
+4 0 0 11 3.1 -6.9 cm
+BI
+/W 4
+/H 11
+/BPC 1
+/IM true
+ID ןןןßß¿
+EI
+Q
+endstream
+endobj
+232 0 obj
+<<
+/Length 82
+>>
+stream
+13 0 0 7 10 9 d1
+q
+10 0 0 2 0.1 7.1 cm
+BI
+/W 10
+/H 2
+/BPC 1
+/IM true
+ID  ? ?
+EI
+Q
+endstream
+endobj
+233 0 obj
+<<
+/Length 79
+>>
+stream
+11 0 3 0 7 4 d1
+q
+4 0 0 4 3.1 0.1 cm
+BI
+/W 4
+/H 4
+/BPC 1
+/IM true
+ID 
+EI
+Q
+endstream
+endobj
+234 0 obj
+<<
+/Length 157
+>>
+stream
+19 0 2 -9 16 28 d1
+q
+14 0 0 37 2.1 -8.9 cm
+BI
+/W 14
+/H 37
+/BPC 1
+/IM true
+ID ÿףÿףÿדÿחÿחÿַÿֿÿֿÿÿÿÿÿ?ÿ?‏?‏‏üüÿרÿשÿשÿסÿףÿףÿדÿחÿחÿַÿֿÿֿÿÿÿÿÿ?ÿ?ÿ
+EI
+Q
+endstream
+endobj
+235 0 obj
+<<
+/Length 129
+>>
+stream
+19 0 2 0 16 24 d1
+q
+14 0 0 24 2.1 0.1 cm
+BI
+/W 14
+/H 24
+/BPC 1
+/IM true
+ID רחֿֿֿֿחחדדדדדדדדדדדדחחַֿֿחר
+EI
+Q
+endstream
+endobj
+236 0 obj
+<<
+/Length 129
+>>
+stream
+19 0 3 0 15 24 d1
+q
+12 0 0 24 3.1 0.1 cm
+BI
+/W 12
+/H 24
+/BPC 1
+/IM true
+ID üÿרÿ ÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿ 
+EI
+Q
+endstream
+endobj
+237 0 obj
+<<
+/Length 129
+>>
+stream
+19 0 2 0 16 24 d1
+q
+14 0 0 24 2.1 0.1 cm
+BI
+/W 14
+/H 24
+/BPC 1
+/IM true
+ID נןßֿ¿ַֳ?דד¿דÿֳÿַÿַÿÿÿ?‏‏ÿ‎ÿûûקûןûֿקְ€ 
+EI
+Q
+endstream
+endobj
+238 0 obj
+<<
+/Length 129
+>>
+stream
+19 0 2 0 16 24 d1
+q
+14 0 0 24 2.1 0.1 cm
+BI
+/W 14
+/H 24
+/BPC 1
+/IM true
+ID נןß‡ַßַÿ‡ÿÿÿÿ?נÿÿÿַÿֳÿֳֳֳ?ֳ¿ַ¿ֿנ
+EI
+Q
+endstream
+endobj
+239 0 obj
+<<
+/Length 129
+>>
+stream
+19 0 1 0 17 24 d1
+q
+16 0 0 24 1.1 0.1 cm
+BI
+/W 16
+/H 24
+/BPC 1
+/IM true
+ID ÿֿÿֿÿÿÿ‏ü‎ûףקןֿß¿?  ÿÿÿÿÿÿר 
+EI
+Q
+endstream
+endobj
+240 0 obj
+<<
+/Length 129
+>>
+stream
+19 0 2 0 16 24 d1
+q
+14 0 0 24 2.1 0.1 cm
+BI
+/W 14
+/H 24
+/BPC 1
+/IM true
+ID ֿחְְְ?ßÿßÿßÿßÿßÿ״?ַßֿÿַÿחÿדÿד¿דדדח¿ַ¿ֿֿנ
+EI
+Q
+endstream
+endobj
+241 0 obj
+<<
+/Length 129
+>>
+stream
+19 0 2 0 16 24 d1
+q
+14 0 0 24 2.1 0.1 cm
+BI
+/W 14
+/H 24
+/BPC 1
+/IM true
+ID ‏שןףחחַַֿֿÿÿÿÿ?ֿחחדדדדדחֿחֿֿחר?
+EI
+Q
+endstream
+endobj
+242 0 obj
+<<
+/Length 131
+>>
+stream
+19 0 2 0 17 25 d1
+q
+15 0 0 25 2.1 0.1 cm
+BI
+/W 15
+/H 25
+/BPC 1
+/IM true
+ID ¿ÿ€€€¿קןןßÿ¿ÿ¿ÿ‏‏‏ÿüÿüÿüÿüÿרÿרÿרÿרÿרÿרÿ‎ÿ
+EI
+Q
+endstream
+endobj
+243 0 obj
+<<
+/Length 129
+>>
+stream
+19 0 2 0 16 24 d1
+q
+14 0 0 24 2.1 0.1 cm
+BI
+/W 14
+/H 24
+/BPC 1
+/IM true
+ID רחֿֿßחחחחןֱֳֿנר?זֿַ¿ד?ף?ף?ף?ףקßןחנ?
+EI
+Q
+endstream
+endobj
+244 0 obj
+<<
+/Length 129
+>>
+stream
+19 0 2 0 16 24 d1
+q
+14 0 0 24 2.1 0.1 cm
+BI
+/W 14
+/H 24
+/BPC 1
+/IM true
+ID רחֿֿֿחחחדדדדֳֳֿח£נcÿדÿחÿחÿַֿ¿Þאÿ
+EI
+Q
+endstream
+endobj
+245 0 obj
+<<
+/Length 94
+>>
+stream
+11 0 3 0 7 16 d1
+q
+4 0 0 16 3.1 0.1 cm
+BI
+/W 4
+/H 16
+/BPC 1
+/IM true
+ID ÿÿÿÿÿÿÿÿ
+EI
+Q
+endstream
+endobj
+246 0 obj
+<<
+/Length 121
+>>
+stream
+30 0 2 4 27 14 d1
+q
+25 0 0 10 2.1 4.1 cm
+BI
+/W 25
+/H 10
+/BPC 1
+/IM true
+ID       ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ      
+EI
+Q
+endstream
+endobj
+247 0 obj
+<<
+/Length 185
+>>
+stream
+29 0 1 0 27 26 d1
+q
+26 0 0 26 1.1 0.1 cm
+BI
+/W 26
+/H 26
+/BPC 1
+/IM true
+ID ÿףÿÿÿףÿÿÿףÿÿÿבÿÿÿבÿÿÿְÿÿÿ״ÿÿÿ״ÿÿÿ¼ÿÿ¼ÿÿ¼ÿÿ~?ÿÿ~?ÿÿ~?ÿ‏ÿÿ‏ÿÿ‏ ÿ‎ÿÿ‎ÿÿשÿ‡ÿûÿַÿûÿַÿקÿדÿקÿדÿדÿבÿ ÿ ?
+EI
+Q
+endstream
+endobj
+248 0 obj
+<<
+/Length 159
+>>
+stream
+27 0 2 0 24 26 d1
+q
+22 0 0 26 2.1 0.1 cm
+BI
+/W 22
+/H 26
+/BPC 1
+/IM true
+ID   ÿס‏?סÿסÿסÿ‡סÿ‡סÿ‡סÿ‡סÿ‡סÿסÿסü?נ ס‏סÿסÿ‡סÿֳסÿֳסÿֳסÿֳסÿֳסÿַסÿ‡סÿס‏  
+EI
+Q
+endstream
+endobj
+249 0 obj
+<<
+/Length 159
+>>
+stream
+28 0 2 0 25 26 d1
+q
+23 0 0 26 2.1 0.1 cm
+BI
+/W 23
+/H 26
+/BPC 1
+/IM true
+ID ÿְ‎‏?9üÿׁסÿבדÿסדÿשַÿש‡ÿ‎ÿ‎ÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿ‎‡ÿ‎ַÿûדÿûדÿקסÿקüÿֿ‏??ÿְÿ
+EI
+Q
+endstream
+endobj
+250 0 obj
+<<
+/Length 159
+>>
+stream
+29 0 2 0 26 26 d1
+q
+24 0 0 26 2.1 0.1 cm
+BI
+/W 24
+/H 26
+/BPC 1
+/IM true
+ID   ÿס‏?סÿסÿֿסÿַסÿדסÿדסÿססÿססÿנסÿנסÿנסÿנסÿנסÿנסÿנסÿנסÿססÿססÿבסÿדסÿַסÿַסÿס‏?  ÿ
+EI
+Q
+endstream
+endobj
+251 0 obj
+<<
+/Length 159
+>>
+stream
+26 0 2 0 24 26 d1
+q
+22 0 0 26 2.1 0.1 cm
+BI
+/W 22
+/H 26
+/BPC 1
+/IM true
+ID   סÿסÿֿסÿןסÿחסÿקסÿקסÿקסûÿסûÿסûÿסףÿנÿסףÿסûÿסûÿסûÿסÿûסÿûסÿקסÿקסÿקסÿחסÿַסÿ  
+EI
+Q
+endstream
+endobj
+252 0 obj
+<<
+/Length 159
+>>
+stream
+25 0 2 0 22 26 d1
+q
+20 0 0 26 2.1 0.1 cm
+BI
+/W 20
+/H 26
+/BPC 1
+/IM true
+ID   סÿסÿסÿßסÿֿסÿןסÿןסÿןסûÿסûÿסûÿסףÿנÿסףÿסûÿסûÿסûÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿ ÿ
+EI
+Q
+endstream
+endobj
+253 0 obj
+<<
+/Length 185
+>>
+stream
+30 0 2 0 28 26 d1
+q
+26 0 0 26 2.1 0.1 cm
+BI
+/W 26
+/H 26
+/BPC 1
+/IM true
+ID ÿְ‎ÿ‏?9ÿüÿׁÿסÿבÿדÿסÿדÿשÿַÿשÿ‡ÿ‎ÿÿ‎ÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ ?ÿסÿÿסÿ‡ÿסÿַÿסÿדÿסÿדÿסÿסÿסÿüÿיÿ‏?™ÿÿְ}ÿ
+EI
+Q
+endstream
+endobj
+254 0 obj
+<<
+/Length 159
+>>
+stream
+29 0 2 0 26 26 d1
+q
+24 0 0 26 2.1 0.1 cm
+BI
+/W 24
+/H 26
+/BPC 1
+/IM true
+ID   סÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿנ סÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿ  
+EI
+Q
+endstream
+endobj
+255 0 obj
+<<
+/Length 133
+>>
+stream
+14 0 1 0 12 26 d1
+q
+11 0 0 26 1.1 0.1 cm
+BI
+/W 11
+/H 26
+/BPC 1
+/IM true
+ID  סÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿ 
+EI
+Q
+endstream
+endobj
+256 0 obj
+<<
+/Length 133
+>>
+stream
+20 0 3 0 17 26 d1
+q
+14 0 0 26 3.1 0.1 cm
+BI
+/W 14
+/H 26
+/BPC 1
+/IM true
+ID אÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ¿¾?בÿ
+EI
+Q
+endstream
+endobj
+257 0 obj
+<<
+/Length 185
+>>
+stream
+30 0 2 0 27 26 d1
+q
+25 0 0 26 2.1 0.1 cm
+BI
+/W 25
+/H 26
+/BPC 1
+/IM true
+ID  €סÿבÿסÿחÿסÿןÿסÿßÿסÿ¿ÿסÿÿס‏ÿÿס‎ÿÿסûÿÿסקÿÿסדÿÿסׁÿÿס±ÿÿסxÿÿנüÿסüÿס‏?ÿסÿÿסÿÿסÿÿסÿÿסÿַÿסÿדÿסÿֱÿ  
+EI
+Q
+endstream
+endobj
+258 0 obj
+<<
+/Length 159
+>>
+stream
+24 0 2 0 21 26 d1
+q
+19 0 0 26 2.1 0.1 cm
+BI
+/W 19
+/H 26
+/BPC 1
+/IM true
+ID  ÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿßסÿßסÿßסÿסÿ¿סÿ¿סÿ?סü?  ?
+EI
+Q
+endstream
+endobj
+259 0 obj
+<<
+/Length 185
+>>
+stream
+35 0 2 0 32 26 d1
+q
+30 0 0 26 2.1 0.1 cm
+BI
+/W 30
+/H 26
+/BPC 1
+/IM true
+ID  ÿüנÿü?נÿü?פת?פת?פת?צ?צ?צ?צ?צ?צ?קמ?קמ?קמ?קÞ?קÞ?קַ¾?קַ¾?קַ¾?קד~?קד~?קד~?קנ‏?קנ‏?קנ‏?קש‏?דש‏? yא
+EI
+Q
+endstream
+endobj
+260 0 obj
+<<
+/Length 159
+>>
+stream
+29 0 2 0 26 26 d1
+q
+24 0 0 26 2.1 0.1 cm
+BI
+/W 24
+/H 26
+/BPC 1
+/IM true
+ID ‏ נÿַנÿןפןפןצ?ןקןקןקןקןקַןקדןקדןקסןקסןקרןקüoקüoק‏/ק‏/קÿקÿקÿקÿֿדÿֿ ן
+EI
+Q
+endstream
+endobj
+261 0 obj
+<<
+/Length 185
+>>
+stream
+30 0 2 0 27 26 d1
+q
+25 0 0 26 2.1 0.1 cm
+BI
+/W 25
+/H 26
+/BPC 1
+/IM true
+ID ÿ€ÿÿ‏>?ÿרÿÿסÿַÿדÿדÿֳÿבÿַÿסÿ‡ÿנÿÿרÿÿרÿרÿרÿרÿרÿרÿרÿר‡ÿנÿ‡ÿנÿַÿסÿֳÿבÿדÿדÿסÿַÿרÿÿ‏>?ÿÿ€ÿÿ
+EI
+Q
+endstream
+endobj
+262 0 obj
+<<
+/Length 159
+>>
+stream
+26 0 2 0 23 26 d1
+q
+21 0 0 26 2.1 0.1 cm
+BI
+/W 21
+/H 26
+/BPC 1
+/IM true
+ID   ÿסü?סÿסÿסÿסÿ‡סÿ‡סÿ‡סÿ‡סÿסÿסÿסü?נ ÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿ ÿ
+EI
+Q
+endstream
+endobj
+263 0 obj
+<<
+/Length 215
+>>
+stream
+30 0 2 -7 27 26 d1
+q
+25 0 0 33 2.1 -6.9 cm
+BI
+/W 25
+/H 33
+/BPC 1
+/IM true
+ID ÿ€ÿÿ‏>?ÿרÿÿסÿַÿדÿדÿֳÿבÿַÿסÿ‡ÿנÿÿרÿÿרÿרÿרÿרÿרÿרÿרÿרÿרÿ‡ÿנÿַÿסÿֳדבÿדÝדÿס¾ַÿר¾ÿ‏?ÿÿ€ÿÿ?ÿÿ?ÿÿÿÿ€ÿÿÿ€ÿÿÿֱÿÿÿדÿ
+EI
+Q
+endstream
+endobj
+264 0 obj
+<<
+/Length 185
+>>
+stream
+28 0 2 0 27 26 d1
+q
+25 0 0 26 2.1 0.1 cm
+BI
+/W 25
+/H 26
+/BPC 1
+/IM true
+ID  ÿÿסרÿס‏?ÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿס‏?ÿסרÿנÿÿסשÿÿסüÿÿס‏ÿס‏?ÿס‏?ÿס‏?ÿס‏ÿס‏ÿס‏ÿס‏סÿסÿÿ ֱÿ
+EI
+Q
+endstream
+endobj
+265 0 obj
+<<
+/Length 133
+>>
+stream
+21 0 2 0 18 26 d1
+q
+16 0 0 26 2.1 0.1 cm
+BI
+/W 16
+/H 26
+/BPC 1
+/IM true
+ID נ=חֹßסש?ש?‎?‎?‎ÿÿÿְארÿֱÿסÿרÿüüüü?‎?שû'חx
+EI
+Q
+endstream
+endobj
+266 0 obj
+<<
+/Length 185
+>>
+stream
+28 0 1 0 26 26 d1
+q
+25 0 0 26 1.1 0.1 cm
+BI
+/W 25
+/H 26
+/BPC 1
+/IM true
+ID €  ÿדרÿ¿ד‏ÿ¿ד‏ÿ?ד‏דÿדÿדÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿÿדÿÿü ÿ
+EI
+Q
+endstream
+endobj
+267 0 obj
+<<
+/Length 159
+>>
+stream
+29 0 2 0 26 26 d1
+q
+24 0 0 26 2.1 0.1 cm
+BI
+/W 24
+/H 26
+/BPC 1
+/IM true
+ID   סÿַסÿןסÿןסÿןסÿןסÿןסÿןסÿןסÿןסÿןסÿןסÿןסÿןסÿןסÿןסÿןסÿןסÿןסÿןשÿßרÿßüÿ¿‏¿ÿ>ÿֱÿ
+EI
+Q
+endstream
+endobj
+268 0 obj
+<<
+/Length 185
+>>
+stream
+29 0 1 0 27 26 d1
+q
+26 0 0 26 1.1 0.1 cm
+BI
+/W 26
+/H 26
+/BPC 1
+/IM true
+ID  א?בÿנÿדÿשÿסÿûÿסÿûÿרÿקÿרÿקÿרÿקÿüןÿüןÿü?ֿÿ‏?ßÿ‏?ßÿÿ¿ÿÿ¿ÿÿ¿ÿÿÿÿÿÿֶÿÿÿֶÿÿÿֶÿÿÿבÿÿÿבÿÿÿבÿÿÿףÿÿÿףÿÿ
+EI
+Q
+endstream
+endobj
+269 0 obj
+<<
+/Length 211
+>>
+stream
+39 0 1 0 37 26 d1
+q
+36 0 0 26 1.1 0.1 cm
+BI
+/W 36
+/H 26
+/BPC 1
+/IM true
+ID  | נֳÿ‡‏?דÿ‡ÿדÿ‡ÿסÿ‡‏ÿסÿ‡‏ÿסÿc‏ÿרÿc‎ÿרÿc‎ÿר‏ס‎ÿר‏ס‎ÿü~סûÿü}רûÿü}רûÿ‏=רקÿ‏;üwÿ‏;üwÿÿüoÿÿüoÿÿ‏/ÿÿ‡‏ÿÿ‡‏ÿÿÿÿÿÿÿÿֿÿ?ÿÿßÿ¿ÿ
+EI
+Q
+endstream
+endobj
+270 0 obj
+<<
+/Length 185
+>>
+stream
+29 0 1 0 28 26 d1
+q
+27 0 0 26 1.1 0.1 cm
+BI
+/W 27
+/H 26
+/BPC 1
+/IM true
+ID  אבÿרÿסÿשÿנÿûÿרÿקÿרקÿü?ןÿ‏?ֿÿ‏ßÿÿ¿ÿÿ¿ÿÿ‡ÿÿַÿÿגÿÿÿאÿÿÿסÿÿÿסÿÿÿסÿÿÿסÿÿÿסÿÿÿסÿÿÿסÿÿÿסÿÿÿסÿÿÿסÿÿÿ ÿ
+EI
+Q
+endstream
+endobj
+271 0 obj
+<<
+/Length 118
+>>
+stream
+11 0 3 -9 10 28 d1
+q
+7 0 0 37 3.1 -8.9 cm
+BI
+/W 7
+/H 37
+/BPC 1
+/IM true
+ID ?????????????????????????????????
+EI
+Q
+endstream
+endobj
+272 0 obj
+<<
+/Length 105
+>>
+stream
+19 0 5 15 17 26 d1
+q
+12 0 0 11 5.1 15.1 cm
+BI
+/W 12
+/H 11
+/BPC 1
+/IM true
+ID חֿß¿¿¿~ÿ~ÿ~ÿN‡ֿ
+EI
+Q
+endstream
+endobj
+273 0 obj
+<<
+/Length 117
+>>
+stream
+11 0 0 -9 7 28 d1
+q
+7 0 0 37 0.1 -8.9 cm
+BI
+/W 7
+/H 37
+/BPC 1
+/IM true
+ID ששששששששששששששששששששששששששששששששש
+EI
+Q
+endstream
+endobj
+274 0 obj
+<<
+/Length 84
+>>
+stream
+19 0 5 20 13 25 d1
+q
+8 0 0 5 5.1 20.1 cm
+BI
+/W 8
+/H 5
+/BPC 1
+/IM true
+ID חֳ™<~
+EI
+Q
+endstream
+endobj
+275 0 obj
+<<
+/Length 82
+>>
+stream
+11 0 3 22 7 26 d1
+q
+4 0 0 4 3.1 22.1 cm
+BI
+/W 4
+/H 4
+/BPC 1
+/IM true
+ID 
+EI
+Q
+endstream
+endobj
+276 0 obj
+<<
+/Length 113
+>>
+stream
+19 0 2 0 18 16 d1
+q
+16 0 0 16 2.1 0.1 cm
+BI
+/W 16
+/H 16
+/BPC 1
+/IM true
+ID ְ?ßÿÿרדֿבֳ
+EI
+Q
+endstream
+endobj
+277 0 obj
+<<
+/Length 159
+>>
+stream
+21 0 1 0 19 26 d1
+q
+18 0 0 26 1.1 0.1 cm
+BI
+/W 18
+/H 26
+/BPC 1
+/IM true
+ID ÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿאסÿברÿדüד‏ד‏?ד‏?ד‏?ד‏?ד‏?ד‏?דüדüÿברÿהףÿןÿ
+EI
+Q
+endstream
+endobj
+278 0 obj
+<<
+/Length 113
+>>
+stream
+17 0 1 0 15 16 d1
+q
+14 0 0 16 1.1 0.1 cm
+BI
+/W 14
+/H 16
+/BPC 1
+/IM true
+ID רףדַדֿקÿÿÿÿÿÿÿÿֿûַקףחר
+EI
+Q
+endstream
+endobj
+279 0 obj
+<<
+/Length 159
+>>
+stream
+21 0 1 0 19 26 d1
+q
+18 0 0 26 1.1 0.1 cm
+BI
+/W 18
+/H 26
+/BPC 1
+/IM true
+ID ÿÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿü1ÿףֱÿַסÿֿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿַבÿדׁÿר0?
+EI
+Q
+endstream
+endobj
+280 0 obj
+<<
+/Length 113
+>>
+stream
+17 0 1 0 15 16 d1
+q
+14 0 0 16 1.1 0.1 cm
+BI
+/W 14
+/H 16
+/BPC 1
+/IM true
+ID ר?דֿֿחחףף ÿÿÿÿÿֿûַקףחר
+EI
+Q
+endstream
+endobj
+281 0 obj
+<<
+/Length 133
+>>
+stream
+12 0 0 0 13 26 d1
+q
+13 0 0 26 0.1 0.1 cm
+BI
+/W 13
+/H 26
+/BPC 1
+/IM true
+ID ‏üחרַסןסÿסÿסÿסÿסÿסÿ ?סÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿ€
+EI
+Q
+endstream
+endobj
+282 0 obj
+<<
+/Length 131
+>>
+stream
+19 0 1 -8 17 16 d1
+q
+16 0 0 24 1.1 -7.9 cm
+BI
+/W 16
+/H 24
+/BPC 1
+/IM true
+ID נ1חֿֿַַַַֿֿח׀?ßÿÿÿְְאנ?ü?ü?ü?üשַדר
+EI
+Q
+endstream
+endobj
+283 0 obj
+<<
+/Length 159
+>>
+stream
+21 0 1 0 19 26 d1
+q
+18 0 0 26 1.1 0.1 cm
+BI
+/W 18
+/H 26
+/BPC 1
+/IM true
+ID ÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿגףÿבסÿבסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿ `?
+EI
+Q
+endstream
+endobj
+284 0 obj
+<<
+/Length 130
+>>
+stream
+10 0 0 0 9 26 d1
+q
+9 0 0 26 0.1 0.1 cm
+BI
+/W 9
+/H 26
+/BPC 1
+/IM true
+ID חÿֳÿֳÿחÿÿÿÿÿÿÿÿÿÿÿÿÿÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿ 
+EI
+Q
+endstream
+endobj
+285 0 obj
+<<
+/Length 150
+>>
+stream
+12 0 -2 -7 8 26 d1
+q
+10 0 0 33 -1.9 -6.9 cm
+BI
+/W 10
+/H 33
+/BPC 1
+/IM true
+ID ‏ü?ü?‏ÿÿÿÿÿÿÿÿÿÿÿÿנ?‏?‏?‏?‏?‏?‏?‏?‏?‏?‏?‏?‏?‏?‏?‏?‏?‏?‏?¾?ÿÿ
+EI
+Q
+endstream
+endobj
+286 0 obj
+<<
+/Length 159
+>>
+stream
+20 0 1 0 19 26 d1
+q
+18 0 0 26 1.1 0.1 cm
+BI
+/W 18
+/H 26
+/BPC 1
+/IM true
+ID ÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿדְדבÿדחÿדןÿדßÿד¿ÿג?ÿאÿדÿדÿד‡ÿדַÿדדÿדבÿדאÿ ְ?
+EI
+Q
+endstream
+endobj
+287 0 obj
+<<
+/Length 130
+>>
+stream
+10 0 0 0 9 26 d1
+q
+9 0 0 26 0.1 0.1 cm
+BI
+/W 9
+/H 26
+/BPC 1
+/IM true
+ID ÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿ 
+EI
+Q
+endstream
+endobj
+288 0 obj
+<<
+/Length 145
+>>
+stream
+32 0 1 0 30 16 d1
+q
+29 0 0 16 1.1 0.1 cm
+BI
+/W 29
+/H 16
+/BPC 1
+/IM true
+ID ƒאÿגqבר~?בר~?דר‏?דר‏?דר‏?דר‏?דר‏?דר‏?דר‏?דר‏?דר‏?דר‏?דר‏? `
+EI
+Q
+endstream
+endobj
+289 0 obj
+<<
+/Length 129
+>>
+stream
+21 0 1 0 19 16 d1
+q
+18 0 0 16 1.1 0.1 cm
+BI
+/W 18
+/H 16
+/BPC 1
+/IM true
+ID ÿגףÿבסÿבסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿ `?
+EI
+Q
+endstream
+endobj
+290 0 obj
+<<
+/Length 113
+>>
+stream
+19 0 1 0 17 16 d1
+q
+16 0 0 16 1.1 0.1 cm
+BI
+/W 16
+/H 16
+/BPC 1
+/IM true
+ID רדַֿףסשררררררשסַדדַר
+EI
+Q
+endstream
+endobj
+291 0 obj
+<<
+/Length 152
+>>
+stream
+21 0 1 -7 19 16 d1
+q
+18 0 0 23 1.1 -6.9 cm
+BI
+/W 18
+/H 23
+/BPC 1
+/IM true
+ID ÿאסÿברÿדüדüד‏?ד‏?ד‏?ד‏?ד‏?ד‏?דüדüÿברÿאףÿדÿדÿÿדÿÿדÿÿדÿÿדÿÿדÿÿ ÿ
+EI
+Q
+endstream
+endobj
+292 0 obj
+<<
+/Length 152
+>>
+stream
+20 0 1 -7 19 16 d1
+q
+18 0 0 23 1.1 -6.9 cm
+BI
+/W 18
+/H 23
+/BPC 1
+/IM true
+ID ü=ÿףÙÿַבÿֿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿַבÿדׁÿר1ÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿ€?
+EI
+Q
+endstream
+endobj
+293 0 obj
+<<
+/Length 113
+>>
+stream
+15 0 1 0 13 16 d1
+q
+12 0 0 16 1.1 0.1 cm
+BI
+/W 12
+/H 16
+/BPC 1
+/IM true
+ID גבבßדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿדÿ ?
+EI
+Q
+endstream
+endobj
+294 0 obj
+<<
+/Length 113
+>>
+stream
+15 0 1 0 13 16 d1
+q
+12 0 0 16 1.1 0.1 cm
+BI
+/W 12
+/H 16
+/BPC 1
+/IM true
+ID אß¿ß?ß?ßÿ€ÿְ?אÿֿ?ֿ?ß¿p
+EI
+Q
+endstream
+endobj
+295 0 obj
+<<
+/Length 127
+>>
+stream
+15 0 1 0 12 23 d1
+q
+11 0 0 23 1.1 0.1 cm
+BI
+/W 11
+/H 23
+/BPC 1
+/IM true
+ID ûÿûÿûÿףÿףÿדÿֳÿ ?דÿדÿדÿדÿדÿדÿדÿדÿדßדßדßדßדßס¿ü
+EI
+Q
+endstream
+endobj
+296 0 obj
+<<
+/Length 129
+>>
+stream
+21 0 1 0 19 16 d1
+q
+18 0 0 16 1.1 0.1 cm
+BI
+/W 18
+/H 16
+/BPC 1
+/IM true
+ID ÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדסÿדבÿףׁÿר0?
+EI
+Q
+endstream
+endobj
+297 0 obj
+<<
+/Length 129
+>>
+stream
+20 0 1 0 18 16 d1
+q
+17 0 0 16 1.1 0.1 cm
+BI
+/W 17
+/H 16
+/BPC 1
+/IM true
+ID  אֳשÿדûÿדûÿבףÿסקÿסקÿרןÿרןÿרoÿü_ÿü_ÿ‏?ÿ‏?ÿ‏?ÿÿÿ
+EI
+Q
+endstream
+endobj
+298 0 obj
+<<
+/Length 145
+>>
+stream
+28 0 1 0 26 16 d1
+q
+25 0 0 16 1.1 0.1 cm
+BI
+/W 25
+/H 16
+/BPC 1
+/IM true
+ID  ְ`ֳסרÿַסשÿדיûÿדטûÿבטףÿסÜקÿסÜwÿנÜgÿר¾oÿר¾/ÿü>ÿüÿüÿ‏?ÿ‏ÿ¿ÿ
+EI
+Q
+endstream
+endobj
+299 0 obj
+<<
+/Length 129
+>>
+stream
+20 0 1 0 19 16 d1
+q
+18 0 0 16 1.1 0.1 cm
+BI
+/W 18
+/H 16
+/BPC 1
+/IM true
+ID  ְֳדÿדחÿסןÿרßÿרÿü?ÿ‏?ÿ‏ÿüÿ‎ÿûַÿקַÿחדÿַבÿְ?
+EI
+Q
+endstream
+endobj
+300 0 obj
+<<
+/Length 152
+>>
+stream
+20 0 1 -7 18 16 d1
+q
+17 0 0 23 1.1 -6.9 cm
+BI
+/W 17
+/H 23
+/BPC 1
+/IM true
+ID  אֳשÿדûÿדûÿבףÿסקÿסקÿרןÿרןÿרoÿü_ÿü_ÿ‏?ÿ‏?ÿ‏?ÿÿÿÿÿ‏ÿÿ‏ÿÿÿÿÿÿÿÿ‡ÿÿ
+EI
+Q
+endstream
+endobj
+301 0 obj
+<<
+/Length 113
+>>
+stream
+17 0 1 0 14 16 d1
+q
+13 0 0 16 1.1 0.1 cm
+BI
+/W 13
+/H 16
+/BPC 1
+/IM true
+ID €¿¿¾?¾?üרÿרÿסקדקדקַןןֿ 
+EI
+Q
+endstream
+endobj
+302 0 obj
+<<
+/Length 82
+>>
+stream
+19 0 0 9 18 10 d1
+q
+18 0 0 1 0.1 9.1 cm
+BI
+/W 18
+/H 1
+/BPC 1
+/IM true
+ID   ?
+EI
+Q
+endstream
+endobj
+303 0 obj
+<<
+/Length 89
+>>
+stream
+19 0 3 21 15 25 d1
+q
+12 0 0 4 3.1 21.1 cm
+BI
+/W 12
+/H 4
+/BPC 1
+/IM true
+ID דןֱß¸?|
+EI
+Q
+endstream
+endobj
+304 0 obj
+<<
+/Length 89
+>>
+stream
+19 0 4 22 14 26 d1
+q
+10 0 0 4 4.1 22.1 cm
+BI
+/W 10
+/H 4
+/BPC 1
+/IM true
+ID ??
+EI
+Q
+endstream
+endobj
+305 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+6 0 obj
+<<
+/Name /T14
+/Type /Font
+/Subtype /Type3
+/Resources 305 0 R
+/FontBBox [0 -8 31 26]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 12
+/LastChar 122
+/Encoding 306 0 R
+/CharProcs 307 0 R
+/Widths [25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 15 12 0 0 22 22 22 22 22 22 0 0 0 0 0 
+0 0 0 0 0 33 31 32 34 29 28 35 35 17 0 0 
+27 42 35 33 30 0 33 25 31 34 0 0 33 0 0 0 
+0 0 0 0 0 21 25 20 25 20 14 22 25 13 0 0 
+13 37 25 22 25 23 18 17 17 25 23 32 23 23 20 ]
+>>
+endobj
+306 0 obj
+<<
+/Type /Encoding
+/Differences [12/#0C 45/- /. 49/1 /2 /3 /4 /5 /6 65/A /B /C /D /E /F /G /H /I 76/L /M /N /O /P 82/R /S /T /U 88/X 97/a /b /c /d /e /f /g /h /i 108/l /m /n /o /p /q /r /s /t /u /v /w /x /y /z ]
+>>
+endobj
+307 0 obj
+<<
+/#0C 308 0 R
+/- 309 0 R
+/. 310 0 R
+/1 311 0 R
+/2 312 0 R
+/3 313 0 R
+/4 314 0 R
+/5 315 0 R
+/6 316 0 R
+/A 317 0 R
+/B 318 0 R
+/C 319 0 R
+/D 320 0 R
+/E 321 0 R
+/F 322 0 R
+/G 323 0 R
+/H 324 0 R
+/I 325 0 R
+/L 326 0 R
+/M 327 0 R
+/N 328 0 R
+/O 329 0 R
+/P 330 0 R
+/R 331 0 R
+/S 332 0 R
+/T 333 0 R
+/U 334 0 R
+/X 335 0 R
+/a 336 0 R
+/b 337 0 R
+/c 338 0 R
+/d 339 0 R
+/e 340 0 R
+/f 341 0 R
+/g 342 0 R
+/h 343 0 R
+/i 344 0 R
+/l 345 0 R
+/m 346 0 R
+/n 347 0 R
+/o 348 0 R
+/p 349 0 R
+/q 350 0 R
+/r 351 0 R
+/s 352 0 R
+/t 353 0 R
+/u 354 0 R
+/v 355 0 R
+/w 356 0 R
+/x 357 0 R
+/y 358 0 R
+/z 359 0 R
+>>
+endobj
+308 0 obj
+<<
+/Length 159
+>>
+stream
+25 0 0 0 23 26 d1
+q
+23 0 0 26 0.1 0.1 cm
+BI
+/W 23
+/H 26
+/BPC 1
+/IM true
+ID ÿ€‏?רנ‏נ‏נ‏נÿנÿÿנÿÿ    נÿנÿנÿנÿנÿנÿנÿנÿנÿנÿנÿנÿנÿ€<€<
+EI
+Q
+endstream
+endobj
+309 0 obj
+<<
+/Length 85
+>>
+stream
+15 0 0 7 12 10 d1
+q
+12 0 0 3 0.1 7.1 cm
+BI
+/W 12
+/H 3
+/BPC 1
+/IM true
+ID    
+EI
+Q
+endstream
+endobj
+310 0 obj
+<<
+/Length 81
+>>
+stream
+12 0 3 0 9 6 d1
+q
+6 0 0 6 3.1 0.1 cm
+BI
+/W 6
+/H 6
+/BPC 1
+/IM true
+ID ‡‡
+EI
+Q
+endstream
+endobj
+311 0 obj
+<<
+/Length 129
+>>
+stream
+22 0 3 0 18 24 d1
+q
+15 0 0 24 3.1 0.1 cm
+BI
+/W 15
+/H 24
+/BPC 1
+/IM true
+ID ÿ?ü? ? ?ü?ü?ü?ü?ü?ü?ü?ü?ü?ü?ü?ü?ü?ü?ü?ü?ü?ü?€€
+EI
+Q
+endstream
+endobj
+312 0 obj
+<<
+/Length 153
+>>
+stream
+22 0 2 0 19 24 d1
+q
+17 0 0 24 2.1 0.1 cm
+BI
+/W 17
+/H 24
+/BPC 1
+/IM true
+ID נÿְÿ‡ÿאÿאננ‡נÿאÿאÿÿבÿÿֳÿÿ‡ÿÿÿÿÿ‏ÿü‏ש‏ף‏ןüְ ÿ€ ÿ  ÿ  ÿ
+EI
+Q
+endstream
+endobj
+313 0 obj
+<<
+/Length 153
+>>
+stream
+22 0 2 0 19 24 d1
+q
+17 0 0 24 2.1 0.1 cm
+BI
+/W 17
+/H 24
+/BPC 1
+/IM true
+ID רÿאÿֱַÿƒֱÿƒאÿƒאÿƒאÿְַÿÿֱÿÿֳÿÿ‡ÿרÿÿֳÿÿבÿÿאÿÿא‡אאאאÿאÿֱÿְÿנÿ
+EI
+Q
+endstream
+endobj
+314 0 obj
+<<
+/Length 153
+>>
+stream
+22 0 1 0 20 24 d1
+q
+19 0 0 24 1.1 0.1 cm
+BI
+/W 19
+/H 24
+/BPC 1
+/IM true
+ID ÿשÿÿסÿÿבÿÿֱÿÿÿÿ!ÿ‏aÿ‏בÿüבÿשבÿףבÿחבÿֿבÿבÿ?בÿ    ÿבÿÿבÿÿבÿÿבÿÿבÿ‏ ‏ 
+EI
+Q
+endstream
+endobj
+315 0 obj
+<<
+/Length 153
+>>
+stream
+22 0 2 0 19 24 d1
+q
+17 0 0 24 2.1 0.1 cm
+BI
+/W 17
+/H 24
+/BPC 1
+/IM true
+ID ֿשÿְÿְÿְÿְÿְÿֿÿÿֿÿÿֿÿÿָÿַדÿֿבÿÿנÿÿנÿÿננננננÿאÿֱַÿאÿרÿ
+EI
+Q
+endstream
+endobj
+316 0 obj
+<<
+/Length 153
+>>
+stream
+22 0 2 0 19 24 d1
+q
+17 0 0 24 2.1 0.1 cm
+BI
+/W 17
+/H 24
+/BPC 1
+/IM true
+ID ÿÿרÿנשÿבנÿֳאÿֳאÿ‡סÿ‡ÿÿÿÿÿדÿסÿנÿננננ‡נ‡נ‡נÿֳנÿבבÿנÿüÿ
+EI
+Q
+endstream
+endobj
+317 0 obj
+<<
+/Length 185
+>>
+stream
+33 0 1 0 31 26 d1
+q
+30 0 0 26 1.1 0.1 cm
+BI
+/W 30
+/H 26
+/BPC 1
+/IM true
+ID ÿüÿÿÿרÿÿרÿÿרÿÿנ?ÿÿנ?ÿÿהÿÿהÿÿהÿÿ־ÿÿ־ÿÿÿÿÿÿÿÿ?ƒÿÿ?ƒÿ‏ֱÿ‏ ÿü  ÿüÿאÿüÿאÿשÿנשÿנסÿנ? ?€ ?€
+EI
+Q
+endstream
+endobj
+318 0 obj
+<<
+/Length 185
+>>
+stream
+31 0 2 0 28 26 d1
+q
+26 0 0 26 2.1 0.1 cm
+BI
+/W 26
+/H 26
+/BPC 1
+/IM true
+ID   ÿ  ÿנƒÿנֱÿנְÿנְÿנְÿנְÿנְÿנֱÿנÿנÿנ ÿנֱÿנאÿננננ?ננ?ננ?ננ?ננ?נננאנְÿ  ÿ  ÿ
+EI
+Q
+endstream
+endobj
+319 0 obj
+<<
+/Length 185
+>>
+stream
+32 0 2 0 29 26 d1
+q
+27 0 0 26 2.1 0.1 cm
+BI
+/W 27
+/H 26
+/BPC 1
+/IM true
+ID ÿאßÿ üנר?üא‏אÿÿֱÿÿÿÿƒÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿƒÿÿÿÿֱÿÿאÿÿ?אÿ?ר?üüנÿÿ ÿÿאÿ
+EI
+Q
+endstream
+endobj
+320 0 obj
+<<
+/Length 185
+>>
+stream
+34 0 2 0 31 26 d1
+q
+29 0 0 26 2.1 0.1 cm
+BI
+/W 29
+/H 26
+/BPC 1
+/IM true
+ID   ÿ  ÿנְÿנננר?נüנüנ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נüנüנר?נננְÿ  ÿ  ÿ
+EI
+Q
+endstream
+endobj
+321 0 obj
+<<
+/Length 185
+>>
+stream
+29 0 2 0 27 26 d1
+q
+25 0 0 26 2.1 0.1 cm
+BI
+/W 25
+/H 26
+/BPC 1
+/IM true
+ID   ÿ  ÿנֱÿנסÿנשÿנרÿנüÿנ|üÿנ|üÿנ|ÿÿנxÿÿנ ÿÿנ ÿÿנxÿÿנ|ÿÿנ|ÿÿנ|‏נ‏נüÿנüÿנüÿנרÿננÿנֱÿ  ÿ  ÿ
+EI
+Q
+endstream
+endobj
+322 0 obj
+<<
+/Length 159
+>>
+stream
+28 0 2 0 25 26 d1
+q
+23 0 0 26 2.1 0.1 cm
+BI
+/W 23
+/H 26
+/BPC 1
+/IM true
+ID     נֳנדנףנסנשנשנ|שנ|ÿנ|ÿנxÿנ ÿנ ÿנxÿנ|ÿנ|ÿנ|ÿנÿנÿנÿנÿנÿנÿ ÿ ÿ
+EI
+Q
+endstream
+endobj
+323 0 obj
+<<
+/Length 185
+>>
+stream
+35 0 2 0 32 26 d1
+q
+30 0 0 26 2.1 0.1 cm
+BI
+/W 30
+/H 26
+/BPC 1
+/IM true
+ID ÿאßÿ üנר?üא‏אÿÿֱÿÿÿÿƒÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ ÿ ƒÿüÿüֱÿüאÿüאüר?üüרÿ ÿא
+EI
+Q
+endstream
+endobj
+324 0 obj
+<<
+/Length 185
+>>
+stream
+35 0 2 0 32 26 d1
+q
+30 0 0 26 2.1 0.1 cm
+BI
+/W 30
+/H 26
+/BPC 1
+/IM true
+ID  € €נר?נר?נר?נר?נר?נר?נר?נר?נר?נ  ?נ  ?נר?נר?נר?נר?נר?נר?נר?נר?נר?נר?נר? € €
+EI
+Q
+endstream
+endobj
+325 0 obj
+<<
+/Length 133
+>>
+stream
+17 0 2 0 15 26 d1
+q
+13 0 0 26 2.1 0.1 cm
+BI
+/W 13
+/H 26
+/BPC 1
+/IM true
+ID   ננננננננננננננננננננננ  
+EI
+Q
+endstream
+endobj
+326 0 obj
+<<
+/Length 159
+>>
+stream
+27 0 2 0 24 26 d1
+q
+22 0 0 26 2.1 0.1 cm
+BI
+/W 22
+/H 26
+/BPC 1
+/IM true
+ID  ÿ ÿנÿנÿנÿנÿנÿנÿנÿנÿנÿנÿנÿנÿנÿנÿנףנףנףנדנדנַנ‡נ    
+EI
+Q
+endstream
+endobj
+327 0 obj
+<<
+/Length 211
+>>
+stream
+42 0 2 0 39 26 d1
+q
+37 0 0 26 2.1 0.1 cm
+BI
+/W 37
+/H 26
+/BPC 1
+/IM true
+ID  ÿנ ?ÿאנ?ÿאעÿָעÿָעÿָףÿ˜ףÿ˜ף‡ÿ8ף‡ÿ8ףֳ‏xףֳ‏xףבüרףבüרףבüרףנשרףנשרףרsרףרsרףü'רףü'רף‏רף‏רף‏ר ?€ ?€
+EI
+Q
+endstream
+endobj
+328 0 obj
+<<
+/Length 185
+>>
+stream
+35 0 2 0 32 26 d1
+q
+30 0 0 26 2.1 0.1 cm
+BI
+/W 30
+/H 26
+/BPC 1
+/IM true
+ID  נ ?ננÿ?נÿ?עÿ?ףÿ?ףƒÿ?ףֱÿ?ףְÿ?ףאÿ?ףנ?ףר??ףü?ףü?ף‏?ףÿ?ףÿƒ?ףÿֱ?ףÿְ?ףÿא?ףÿנ?ףÿר?ףÿü?ףÿü? ?‏? ?ÿ?
+EI
+Q
+endstream
+endobj
+329 0 obj
+<<
+/Length 185
+>>
+stream
+33 0 2 0 30 26 d1
+q
+28 0 0 26 2.1 0.1 cm
+BI
+/W 28
+/H 26
+/BPC 1
+/IM true
+ID ÿְ?ÿ‏‡ÿרבÿנÿנÿאÿנֱÿר?ֱÿר?ƒÿüƒÿüÿüÿüÿüÿüÿüÿüÿüÿüƒÿüÿרֱÿר?ֱÿר?אÿננאÿר?ֱÿ‏‡ÿÿְ?ÿ
+EI
+Q
+endstream
+endobj
+330 0 obj
+<<
+/Length 185
+>>
+stream
+30 0 2 0 27 26 d1
+q
+25 0 0 26 2.1 0.1 cm
+BI
+/W 25
+/H 26
+/BPC 1
+/IM true
+ID   ÿ  ÿנÿנְÿנאÿנאנאנאנאנאנאÿנֱÿנƒÿנ ÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿ ÿÿ ÿÿ
+EI
+Q
+endstream
+endobj
+331 0 obj
+<<
+/Length 185
+>>
+stream
+33 0 2 0 32 26 d1
+q
+30 0 0 26 2.1 0.1 cm
+BI
+/W 30
+/H 26
+/BPC 1
+/IM true
+ID   ?ÿ  ÿנÿנÿנֱÿנְÿנְÿנְÿנְÿנֱÿנƒÿנÿנ ?ÿנ~?ÿנ~ÿנÿנÿנÿנÿנÿנÿנÿנףנף ְח נ
+EI
+Q
+endstream
+endobj
+332 0 obj
+<<
+/Length 159
+>>
+stream
+25 0 2 0 22 26 d1
+q
+20 0 0 26 2.1 0.1 cm
+BI
+/W 20
+/H 26
+/BPC 1
+/IM true
+ID ר¿א?ֳנ?‡ü?‏?‏?ÿ?ÿ?ÿÿ ÿÿ€ÿְ ÿא נ ?‏ ÿנÿüÿ‏?ÿ?ÿ?ÿÿ‏ü? |ÿ
+EI
+Q
+endstream
+endobj
+333 0 obj
+<<
+/Length 185
+>>
+stream
+31 0 2 0 28 26 d1
+q
+26 0 0 26 2.1 0.1 cm
+BI
+/W 26
+/H 26
+/BPC 1
+/IM true
+ID €  €  ‡אראüא‏א‏??אÿ??אÿ??אÿ?ÿאÿÿÿאÿÿÿאÿÿÿאÿÿÿאÿÿÿאÿÿÿאÿÿÿאÿÿÿאÿÿÿאÿÿÿאÿÿÿאÿÿÿאÿÿÿאÿÿÿאÿÿר ÿר ÿ
+EI
+Q
+endstream
+endobj
+334 0 obj
+<<
+/Length 185
+>>
+stream
+34 0 2 0 31 26 d1
+q
+29 0 0 26 2.1 0.1 cm
+BI
+/W 29
+/H 26
+/BPC 1
+/IM true
+ID  א אנ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏נ‏רüÿר?üÿü?שÿ‏דÿÿ€ÿÿאÿ
+EI
+Q
+endstream
+endobj
+335 0 obj
+<<
+/Length 185
+>>
+stream
+33 0 1 0 31 26 d1
+q
+30 0 0 26 1.1 0.1 cm
+BI
+/W 30
+/H 26
+/BPC 1
+/IM true
+ID €€€€רשÿüףÿüדÿ‏ַÿÿֿÿÿƒÿÿÿÿְ?ÿÿאÿÿאÿÿנ?ÿÿנ?ÿÿנÿÿהÿÿֶÿÿֿÿÿÿÿÿ‏?ֱÿ‏אÿüÿארÿנ? € €
+EI
+Q
+endstream
+endobj
+336 0 obj
+<<
+/Length 132
+>>
+stream
+21 0 1 0 20 17 d1
+q
+19 0 0 17 1.1 0.1 cm
+BI
+/W 19
+/H 17
+/BPC 1
+/IM true
+ID נÿדֳÿֱבÿֱסÿֱנÿדנÿÿנÿÿ ÿנ0ÿֱנÿƒנÿנÿנÿנÿטÿƒ״א<
+EI
+Q
+endstream
+endobj
+337 0 obj
+<<
+/Length 159
+>>
+stream
+25 0 1 0 23 26 d1
+q
+22 0 0 26 1.1 0.1 cm
+BI
+/W 22
+/H 26
+/BPC 1
+/IM true
+ID ÿÿÿÿבÿÿבÿÿבÿÿבÿÿבÿÿבÿÿבÿÿב€ÿא<?אÿבÿבÿ‡בÿ‡בÿƒבÿƒבÿƒבÿƒבÿƒבÿ‡בÿ‡בÿאÿג|?ח€ÿ
+EI
+Q
+endstream
+endobj
+338 0 obj
+<<
+/Length 132
+>>
+stream
+20 0 1 0 18 17 d1
+q
+17 0 0 17 1.1 0.1 cm
+BI
+/W 17
+/H 17
+/BPC 1
+/IM true
+ID üÿנסÿדאÿֳאÿ‡אÿ‡סÿÿÿÿÿÿÿÿÿÿÿ‡ÿÿ‡ÿÿֳ‏דüÿנשÿüÿ
+EI
+Q
+endstream
+endobj
+339 0 obj
+<<
+/Length 159
+>>
+stream
+25 0 1 0 23 26 d1
+q
+22 0 0 26 1.1 0.1 cm
+BI
+/W 22
+/H 26
+/BPC 1
+/IM true
+ID ÿנÿנÿ‏ÿ‏ÿ‏ÿ‏ÿ‏ÿ‏ÿ‏üנרדüֳ‏‡‏‡‏‏‏‏‏‏‡‏‡‏ֳ‏דüנעü
+EI
+Q
+endstream
+endobj
+340 0 obj
+<<
+/Length 132
+>>
+stream
+20 0 1 0 18 17 d1
+q
+17 0 0 17 1.1 0.1 cm
+BI
+/W 17
+/H 17
+/BPC 1
+/IM true
+ID üÿסדÿדסÿֳרÿ‡רÿ‡ררר  ÿÿÿÿ‡ÿÿ‡ÿÿֳ‏דüÿסשÿüÿ
+EI
+Q
+endstream
+endobj
+341 0 obj
+<<
+/Length 159
+>>
+stream
+14 0 0 0 17 26 d1
+q
+17 0 0 26 0.1 0.1 cm
+BI
+/W 17
+/H 26
+/BPC 1
+/IM true
+ID ÿÿü8ÿרpנננננרÿנÿÿנÿÿנÿÿ ÿ ÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿ€ÿ€ÿ
+EI
+Q
+endstream
+endobj
+342 0 obj
+<<
+/Length 158
+>>
+stream
+22 0 1 -8 20 17 d1
+q
+19 0 0 25 1.1 -7.9 cm
+BI
+/W 19
+/H 25
+/BPC 1
+/IM true
+ID ר?דֳַד‡ב?‡בÿ‡בÿ‡בÿ‡בÿַדÿדַÿ״ÿßÿÿßÿÿֿÿÿְÿא א ?ü?ÿÿÿÿ‏?ֳררÿ
+EI
+Q
+endstream
+endobj
+343 0 obj
+<<
+/Length 159
+>>
+stream
+25 0 1 0 23 26 d1
+q
+22 0 0 26 1.1 0.1 cm
+BI
+/W 22
+/H 26
+/BPC 1
+/IM true
+ID ÿÿÿÿבÿÿבÿÿבÿÿבÿÿבÿÿבÿÿבÿÿבאÿב?ב~?א‏א‏ב‏ב‏ב‏ב‏ב‏ב‏ב‏ב‏ב‏ב‏ 0 0
+EI
+Q
+endstream
+endobj
+344 0 obj
+<<
+/Length 133
+>>
+stream
+13 0 1 0 10 27 d1
+q
+9 0 0 27 1.1 0.1 cm
+BI
+/W 9
+/H 27
+/BPC 1
+/IM true
+ID דÿֱÿֱÿֱÿֱÿדÿÿÿÿÿÿÿÿÿÿÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿ  
+EI
+Q
+endstream
+endobj
+345 0 obj
+<<
+/Length 133
+>>
+stream
+13 0 1 0 11 26 d1
+q
+10 0 0 26 1.1 0.1 cm
+BI
+/W 10
+/H 26
+/BPC 1
+/IM true
+ID ÿÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿבÿ ? ?
+EI
+Q
+endstream
+endobj
+346 0 obj
+<<
+/Length 166
+>>
+stream
+37 0 1 0 35 17 d1
+q
+34 0 0 17 1.1 0.1 cm
+BI
+/W 34
+/H 17
+/BPC 1
+/IM true
+ID א‏ÿ9ֳÿב~7דÿא‏בÿא‏בÿב‏בÿב‏בÿב‏בÿב‏בÿב‏בÿב‏בÿב‏בÿב‏בÿב‏בÿב‏בÿ 0 ? 0 ?
+EI
+Q
+endstream
+endobj
+347 0 obj
+<<
+/Length 132
+>>
+stream
+25 0 1 0 23 17 d1
+q
+22 0 0 17 1.1 0.1 cm
+BI
+/W 22
+/H 17
+/BPC 1
+/IM true
+ID אÿ?ב~?א‏א‏ב‏ב‏ב‏ב‏ב‏ב‏ב‏ב‏ב‏ב‏ 0 0
+EI
+Q
+endstream
+endobj
+348 0 obj
+<<
+/Length 132
+>>
+stream
+22 0 1 0 20 17 d1
+q
+19 0 0 17 1.1 0.1 cm
+BI
+/W 19
+/H 17
+/BPC 1
+/IM true
+ID üÿססÿֳרַü‡ü?‡ü?üüüüüü‡ü?ƒר?ֳרססÿüÿ
+EI
+Q
+endstream
+endobj
+349 0 obj
+<<
+/Length 155
+>>
+stream
+25 0 1 -7 23 17 d1
+q
+22 0 0 24 1.1 -6.9 cm
+BI
+/W 22
+/H 24
+/BPC 1
+/IM true
+ID €ÿ <?א‏בÿבÿבÿ‡בÿƒבÿƒבÿƒבÿƒבÿƒבÿ‡בÿבÿא‏א|?ב€ÿבÿÿבÿÿבÿÿבÿÿבÿÿ ?ÿ ?ÿ
+EI
+Q
+endstream
+endobj
+350 0 obj
+<<
+/Length 155
+>>
+stream
+23 0 1 -7 22 17 d1
+q
+21 0 0 24 1.1 -6.9 cm
+BI
+/W 21
+/H 24
+/BPC 1
+/IM true
+ID ü?נע?בת?ֳר?ƒü?‡ü?ü?ü?ü?ü?ü?‡ü?ƒü?ֳü?דר?ספ?ü?ÿü?ÿü?ÿü?ÿü?ÿü?ÿאÿא
+EI
+Q
+endstream
+endobj
+351 0 obj
+<<
+/Length 115
+>>
+stream
+18 0 1 0 16 17 d1
+q
+15 0 0 17 1.1 0.1 cm
+BI
+/W 15
+/H 17
+/BPC 1
+/IM true
+ID ‡cגֱגֱבֱבדבÿבÿבÿבÿבÿבÿבÿבÿבÿ ? ?
+EI
+Q
+endstream
+endobj
+352 0 obj
+<<
+/Length 115
+>>
+stream
+17 0 1 0 15 17 d1
+q
+14 0 0 17 1.1 0.1 cm
+BI
+/W 14
+/H 17
+/BPC 1
+/IM true
+ID אOß¿ֿ?ֿ?ֿÿ €ְרÿֳ?ף?ףףקֿ0
+EI
+Q
+endstream
+endobj
+353 0 obj
+<<
+/Length 129
+>>
+stream
+17 0 1 0 14 24 d1
+q
+13 0 0 24 1.1 0.1 cm
+BI
+/W 13
+/H 24
+/BPC 1
+/IM true
+ID שÿשÿשÿשÿסÿסÿבÿְ בÿבÿבÿבÿבÿבÿבÿבÿבחבחבחבחבחנֿü
+EI
+Q
+endstream
+endobj
+354 0 obj
+<<
+/Length 132
+>>
+stream
+25 0 1 0 23 17 d1
+q
+22 0 0 17 1.1 0.1 cm
+BI
+/W 22
+/H 17
+/BPC 1
+/IM true
+ID ננב‏ב‏ב‏ב‏ב‏ב‏ב‏ב‏ב‏ב‏ב‏בüבüנתü
+EI
+Q
+endstream
+endobj
+355 0 obj
+<<
+/Length 132
+>>
+stream
+23 0 1 0 21 17 d1
+q
+20 0 0 17 1.1 0.1 cm
+BI
+/W 20
+/H 17
+/BPC 1
+/IM true
+ID  ü üב‏ב‏אüנüÿנרÿרyÿרyÿü3ÿü3ÿ‏ÿ‏ÿ‏ÿÿÿÿÿÿÿ
+EI
+Q
+endstream
+endobj
+356 0 obj
+<<
+/Length 149
+>>
+stream
+32 0 1 0 30 17 d1
+q
+29 0 0 17 1.1 0.1 cm
+BI
+/W 29
+/H 17
+/BPC 1
+/IM true
+ID  א אֳרבר?בר??אע>?נע>נערgÿרgÿרGÿü‰ÿüÿ‏ֳÿ‏ֳÿ‏ֳÿÿ?חÿ
+EI
+Q
+endstream
+endobj
+357 0 obj
+<<
+/Length 132
+>>
+stream
+23 0 1 0 21 17 d1
+q
+20 0 0 17 1.1 0.1 cm
+BI
+/W 20
+/H 17
+/BPC 1
+/IM true
+ID  נ נברÿנשÿרsÿü'ÿüÿ‏ÿÿÿ‏ÿ‏Cÿüבÿרבÿסנÿדרננ
+EI
+Q
+endstream
+endobj
+358 0 obj
+<<
+/Length 155
+>>
+stream
+23 0 1 -7 21 17 d1
+q
+20 0 0 24 1.1 -6.9 cm
+BI
+/W 20
+/H 24
+/BPC 1
+/IM true
+ID  ü üב‏ב‏אüנüÿנרÿרyÿרyÿü3ÿü3ÿ‏ÿ‏ÿ‏ÿÿÿÿÿÿÿÿÿ?ÿ?ÿ?ÿÿÿÿֳÿÿ
+EI
+Q
+endstream
+endobj
+359 0 obj
+<<
+/Length 115
+>>
+stream
+20 0 1 0 17 17 d1
+q
+16 0 0 17 1.1 0.1 cm
+BI
+/W 16
+/H 17
+/BPC 1
+/IM true
+ID € ‡בֱֳ‡‏‏ü?רנ|נüבüֳשƒש‡ב 
+EI
+Q
+endstream
+endobj
+360 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+7 0 obj
+<<
+/Name /T15
+/Type /Font
+/Subtype /Type3
+/Resources 360 0 R
+/FontBBox [0 -10 16 34]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 44
+/LastChar 122
+/Encoding 361 0 R
+/CharProcs 362 0 R
+/Widths [14 0 14 0 24 24 0 24 0 24 0 0 0 24 0 0 
+0 0 0 0 38 37 35 0 0 33 0 0 37 18 0 0 
+30 45 0 0 0 0 36 27 35 0 0 0 0 0 0 0 
+0 0 0 0 0 24 27 22 0 22 15 0 27 14 0 0 
+14 42 27 24 0 0 19 19 19 0 0 0 0 26 22 ]
+>>
+endobj
+361 0 obj
+<<
+/Type /Encoding
+/Differences [44/, 46/. 48/0 /1 51/3 53/5 57/9 64/@ /A /B 69/E 72/H /I 76/L /M 82/R /S /T 97/a /b /c 101/e /f 104/h /i 108/l /m /n /o 114/r /s /t 121/y /z ]
+>>
+endobj
+362 0 obj
+<<
+/, 363 0 R
+/. 364 0 R
+/0 365 0 R
+/1 366 0 R
+/3 367 0 R
+/5 368 0 R
+/9 369 0 R
+/@ 370 0 R
+/A 371 0 R
+/B 372 0 R
+/E 373 0 R
+/H 374 0 R
+/I 375 0 R
+/L 376 0 R
+/M 377 0 R
+/R 378 0 R
+/S 379 0 R
+/T 380 0 R
+/a 381 0 R
+/b 382 0 R
+/c 383 0 R
+/e 384 0 R
+/f 385 0 R
+/h 386 0 R
+/i 387 0 R
+/l 388 0 R
+/m 389 0 R
+/n 390 0 R
+/o 391 0 R
+/r 392 0 R
+/s 393 0 R
+/t 394 0 R
+/y 395 0 R
+/z 396 0 R
+>>
+endobj
+363 0 obj
+<<
+/Length 96
+>>
+stream
+14 0 4 -10 10 5 d1
+q
+6 0 0 15 4.1 -9.9 cm
+BI
+/W 6
+/H 15
+/BPC 1
+/IM true
+ID ‹ûûûûקקןןß¿
+EI
+Q
+endstream
+endobj
+364 0 obj
+<<
+/Length 80
+>>
+stream
+14 0 4 0 9 5 d1
+q
+5 0 0 5 4.1 0.1 cm
+BI
+/W 5
+/H 5
+/BPC 1
+/IM true
+ID 
+EI
+Q
+endstream
+endobj
+365 0 obj
+<<
+/Length 185
+>>
+stream
+24 0 2 -1 21 33 d1
+q
+19 0 0 34 2.1 -0.9 cm
+BI
+/W 19
+/H 34
+/BPC 1
+/IM true
+ID ‏ÿרדÿףשÿחüÿַüַü‏?‏?‏?‏?‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏?‏?‏?‡ü?ַüַüדרÿףשÿרדÿ‏ÿ
+EI
+Q
+endstream
+endobj
+366 0 obj
+<<
+/Length 147
+>>
+stream
+24 0 4 0 19 33 d1
+q
+15 0 0 33 4.1 0.1 cm
+BI
+/W 15
+/H 33
+/BPC 1
+/IM true
+ID ÿüנüüüüüüüüüüüüüüüüüüüüüüüüüüüר? 
+EI
+Q
+endstream
+endobj
+367 0 obj
+<<
+/Length 185
+>>
+stream
+24 0 2 -1 21 33 d1
+q
+19 0 0 34 2.1 -0.9 cm
+BI
+/W 19
+/H 34
+/BPC 1
+/IM true
+ID üÿףבÿןרÿßר¿ר?‡ר?‡ü?‡ר?ַר?ÿרÿרÿרÿÿנÿÿסÿÿַÿüÿÿדÿÿנÿÿרÿרÿü?ÿü?ÿüßüüüüü?¿ü?¿רßרןנÿףדÿüÿ
+EI
+Q
+endstream
+endobj
+368 0 obj
+<<
+/Length 185
+>>
+stream
+24 0 2 -1 21 33 d1
+q
+19 0 0 34 2.1 -0.9 cm
+BI
+/W 19
+/H 34
+/BPC 1
+/IM true
+ID ןÿברÿא ÿאÿאÿלÿןÿÿןÿÿןÿÿןÿÿןÿÿןÿÿןÿלסÿכרÿחüןüÿ‏?ÿ‏?ÿ‏ÿ‏ÿ‏ÿ‏‏‏‏‏?‏?¿ü?¿üßרÿןשÿףדÿüÿ
+EI
+Q
+endstream
+endobj
+369 0 obj
+<<
+/Length 185
+>>
+stream
+24 0 2 -1 21 33 d1
+q
+19 0 0 34 2.1 -0.9 cm
+BI
+/W 19
+/H 34
+/BPC 1
+/IM true
+ID ‏ÿשףÿףשÿחרÿַüüü‏?‏?‏?‏‏‏‏‏‏üַüחתףתשזüÿ‏?ÿ‏?ÿ‏?ÿüÿüֿüÿ‡רÿ‡שÿףÿßחÿןֿÿנ?ÿ
+EI
+Q
+endstream
+endobj
+370 0 obj
+<<
+/Length 221
+>>
+stream
+38 0 3 0 34 35 d1
+q
+31 0 0 35 3.1 0.1 cm
+BI
+/W 31
+/H 35
+/BPC 1
+/IM true
+ID ÿנÿÿדÿÿ‎ÿüÿ‏ûÿÿ¿קÿÿßקÿÿßןר?ןßחֿקßֿקק¿ûû¿?ר{¾?ü{~?ü}|ü}|ü}|ü}|ü}|ü}|ü}|ü}~?ü}¾?ü}¿?ר}¿ר{ßֿפ{ßח־wןר?קÿÿÿקÿÿÿûÿÿÿüÿÿסÿÿ‡ÿר?ÿנÿ
+EI
+Q
+endstream
+endobj
+371 0 obj
+<<
+/Length 221
+>>
+stream
+37 0 2 0 34 35 d1
+q
+32 0 0 35 2.1 0.1 cm
+BI
+/W 32
+/H 35
+/BPC 1
+/IM true
+ID ÿ‏ÿÿ‏ÿÿ‏ÿÿü?ÿÿü?ÿÿü?ÿÿתÿÿתÿÿעÿÿקÿÿקÿÿןÿÿן‡ÿÿן‡ÿÿßֳÿÿßֳÿÿßֳÿÿ¿בÿÿ¿בÿÿ¿בÿÿנÿÿנÿÿ  ÿ‏ÿר‏ÿרüÿר?‎ÿü?‎ÿü?ûÿüûÿ‏ûÿ‏ףÿÿףÿÿֱÿ‏ נ 
+EI
+Q
+endstream
+endobj
+372 0 obj
+<<
+/Length 217
+>>
+stream
+35 0 2 0 31 34 d1
+q
+29 0 0 34 2.1 0.1 cm
+BI
+/W 29
+/H 34
+/BPC 1
+/IM true
+ID   ÿנסÿרררü?רüר‏ר‏ר‏ר‏ר‏ר‏ר‏רüרר?רנרֱÿר ÿרררü?ר‏ר‏רÿרÿרÿרÿרÿרÿרÿר‏ר‏רüרר?ננÿ  ÿ
+EI
+Q
+endstream
+endobj
+373 0 obj
+<<
+/Length 217
+>>
+stream
+33 0 2 0 31 34 d1
+q
+29 0 0 34 2.1 0.1 cm
+BI
+/W 29
+/H 34
+/BPC 1
+/IM true
+ID    ?נר?ר‏?רÿ?רÿ¿רÿ¿רÿרÿßרÿßרÿßרßßרßÿרßÿרßÿרÿרÿר ÿרÿרÿרßÿרßÿרßÿרßקרÿקרÿקרÿןרÿןרÿןרÿֿרÿֿרÿרÿנü   
+EI
+Q
+endstream
+endobj
+374 0 obj
+<<
+/Length 217
+>>
+stream
+37 0 2 0 34 34 d1
+q
+32 0 0 34 2.1 0.1 cm
+BI
+/W 32
+/H 34
+/BPC 1
+/IM true
+ID  ְ נ?üר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר  ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏ר‏נ?ü ְ 
+EI
+Q
+endstream
+endobj
+375 0 obj
+<<
+/Length 149
+>>
+stream
+18 0 2 0 16 34 d1
+q
+14 0 0 34 2.1 0.1 cm
+BI
+/W 14
+/H 34
+/BPC 1
+/IM true
+ID  נ?ררררררררררררררררררררררררררררררנ? 
+EI
+Q
+endstream
+endobj
+376 0 obj
+<<
+/Length 217
+>>
+stream
+30 0 2 0 27 34 d1
+q
+25 0 0 34 2.1 0.1 cm
+BI
+/W 25
+/H 34
+/BPC 1
+/IM true
+ID  ÿÿנ?ÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿרÿרÿרÿר‏ר‏ר‏ÿרüÿרüÿרנÿנְÿ   ÿ
+EI
+Q
+endstream
+endobj
+377 0 obj
+<<
+/Length 251
+>>
+stream
+45 0 2 0 42 34 d1
+q
+40 0 0 34 2.1 0.1 cm
+BI
+/W 40
+/H 34
+/BPC 1
+/IM true
+ID  ?ÿü נ?ÿüר?ÿüתÿתתÿתûÿצûÿצûÿצû‡ÿמû‡ÿמû‡ÿמûֳÿÞûֳÿÞûֳÿÞûבÿ¾ûבÿ¾ûנÿ~ûנÿ~ûנÿ~ûר~‏ûר~‏ûר~‏ûü=‏ûü=‏û‏‏û‏‏û‏‏ûÿ‏ûÿ‏ûÿ‏ûÿ‏סÿ‏אÿü ßְ 
+EI
+Q
+endstream
+endobj
+378 0 obj
+<<
+/Length 258
+>>
+stream
+36 0 2 -1 35 34 d1
+q
+33 0 0 35 2.1 -0.9 cm
+BI
+/W 33
+/H 35
+/BPC 1
+/IM true
+ID   ÿÿנֳÿÿרסÿÿררÿרר?ÿרü?ÿרüÿרüÿרüÿרüÿרüÿרü?ÿרר?ÿררÿרסÿÿרֳÿÿר ÿÿרÿÿרַÿÿרדÿÿרבÿÿרסÿÿרנÿÿרנÿÿרנÿÿרנÿÿרנÿרנÿרנÿרנרנ?רר?נ?ü>ÿ ‏ÿÿÿÿƒÿ
+EI
+Q
+endstream
+endobj
+379 0 obj
+<<
+/Length 191
+>>
+stream
+27 0 3 -1 23 35 d1
+q
+20 0 0 36 3.1 -0.9 cm
+BI
+/W 20
+/H 36
+/BPC 1
+/IM true
+ID üßףףח‎ֿ‏ÿÿÿÿÿßÿßÿßÿÿÿÿ‡ÿÿ€ÿÿְÿאÿנ ÿü ÿְ?ÿרÿ‏ÿÿÿÿÿÿÿÿÿÿ?ÿ?ÿÿ?ÿ?7‏9רÿ~ÿ
+EI
+Q
+endstream
+endobj
+380 0 obj
+<<
+/Length 217
+>>
+stream
+35 0 2 0 32 34 d1
+q
+30 0 0 34 2.1 0.1 cm
+BI
+/W 30
+/H 34
+/BPC 1
+/IM true
+ID €  ‡ר‡רח¿רק¿רק¿רק?רףרûרûרûרûÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿנ?ÿü  ÿ
+EI
+Q
+endstream
+endobj
+381 0 obj
+<<
+/Length 144
+>>
+stream
+24 0 2 0 23 21 d1
+q
+21 0 0 21 2.1 0.1 cm
+BI
+/W 21
+/H 21
+/BPC 1
+/IM true
+ID נÿחַÿֳףÿֳסÿחרÿÿרÿÿרÿÿרÿÿ ÿר8ÿברÿֳרÿ‡רÿרÿרקרקרקנק‡טקֳÜoנ>
+EI
+Q
+endstream
+endobj
+382 0 obj
+<<
+/Length 186
+>>
+stream
+27 0 1 0 24 35 d1
+q
+23 0 0 35 1.1 0.1 cm
+BI
+/W 23
+/H 35
+/BPC 1
+/IM true
+ID סÿÿÿÿבÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסאÿס?סנÿֿסÿַסÿֳסÿדסÿבסÿבסÿבסÿבסÿבסÿבסÿבסÿדסÿֳסÿַנÿףף¾?קְÿ
+EI
+Q
+endstream
+endobj
+383 0 obj
+<<
+/Length 144
+>>
+stream
+22 0 2 0 20 21 d1
+q
+18 0 0 21 2.1 0.1 cm
+BI
+/W 18
+/H 21
+/BPC 1
+/IM true
+ID ‏ÿרüÿףרדרַüÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‡ÿ¿ַÿ¿דÿף‏ÿרשÿ‏ÿ
+EI
+Q
+endstream
+endobj
+384 0 obj
+<<
+/Length 144
+>>
+stream
+22 0 1 0 20 21 d1
+q
+19 0 0 21 1.1 0.1 cm
+BI
+/W 19
+/H 21
+/BPC 1
+/IM true
+ID ‏ÿררÿףüד‏?ַ‏?‡‏ÿÿ  ÿÿÿÿÿÿÿÿÿÿÿÿ‡ÿßַÿßדÿ¿סÿרüÿÿÿ
+EI
+Q
+endstream
+endobj
+385 0 obj
+<<
+/Length 151
+>>
+stream
+15 0 0 0 16 35 d1
+q
+16 0 0 35 0.1 0.1 cm
+BI
+/W 16
+/H 35
+/BPC 1
+/IM true
+ID ÿֳÿ9‏püpüנרÿרÿרÿרÿרÿרÿרÿרÿרÿ רÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿרÿר€
+EI
+Q
+endstream
+endobj
+386 0 obj
+<<
+/Length 186
+>>
+stream
+27 0 1 0 25 35 d1
+q
+24 0 0 35 1.1 0.1 cm
+BI
+/W 24
+/H 35
+/BPC 1
+/IM true
+ID סÿÿÿÿבÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסÿÿסאס?סנÿנÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿ  
+EI
+Q
+endstream
+endobj
+387 0 obj
+<<
+/Length 149
+>>
+stream
+14 0 1 0 11 34 d1
+q
+10 0 0 34 1.1 0.1 cm
+BI
+/W 10
+/H 34
+/BPC 1
+/IM true
+ID דÿבÿֱÿבÿדÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿסÿÿבÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿ ?
+EI
+Q
+endstream
+endobj
+388 0 obj
+<<
+/Length 151
+>>
+stream
+14 0 1 0 12 35 d1
+q
+11 0 0 35 1.1 0.1 cm
+BI
+/W 11
+/H 35
+/BPC 1
+/IM true
+ID סÿÿבÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿ 
+EI
+Q
+endstream
+endobj
+389 0 obj
+<<
+/Length 186
+>>
+stream
+42 0 1 0 40 21 d1
+q
+39 0 0 21 1.1 0.1 cm
+BI
+/W 39
+/H 21
+/BPC 1
+/IM true
+ID סא?€ÿ|ב‏?נÿֳÿנÿֳÿסÿַÿסÿַÿסÿַÿסÿַÿסÿַÿסÿַÿסÿַÿסÿַÿסÿַÿסÿַÿסÿַÿסÿַÿסÿַÿסÿַÿסÿַÿ  p
+EI
+Q
+endstream
+endobj
+390 0 obj
+<<
+/Length 144
+>>
+stream
+27 0 1 0 25 21 d1
+q
+24 0 0 21 1.1 0.1 cm
+BI
+/W 24
+/H 21
+/BPC 1
+/IM true
+ID סא?בנÿנÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿ  
+EI
+Q
+endstream
+endobj
+391 0 obj
+<<
+/Length 144
+>>
+stream
+24 0 1 0 22 21 d1
+q
+21 0 0 21 1.1 0.1 cm
+BI
+/W 21
+/H 21
+/BPC 1
+/IM true
+ID ‏ÿררÿף‏חÿ?ַÿÿÿÿ‡ÿ‡ÿ‡ÿ‡ÿ‡ÿ‡ÿ‡ÿ‡ÿַÿד‏?סüררÿ‏ÿ
+EI
+Q
+endstream
+endobj
+392 0 obj
+<<
+/Length 123
+>>
+stream
+19 0 1 0 17 21 d1
+q
+16 0 0 21 1.1 0.1 cm
+BI
+/W 16
+/H 21
+/BPC 1
+/IM true
+ID סֳ¹בpנננשנÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿנÿ 
+EI
+Q
+endstream
+endobj
+393 0 obj
+<<
+/Length 123
+>>
+stream
+19 0 2 0 16 21 d1
+q
+14 0 0 21 2.1 0.1 cm
+BI
+/W 14
+/H 21
+/BPC 1
+/IM true
+ID נwֿ‡ח?ח?ק?קקÿ€ְנ‏ÿֳדףף?ף?קח/ֿp?
+EI
+Q
+endstream
+endobj
+394 0 obj
+<<
+/Length 143
+>>
+stream
+19 0 1 0 15 31 d1
+q
+14 0 0 31 1.1 0.1 cm
+BI
+/W 14
+/H 31
+/BPC 1
+/IM true
+ID ‎ÿ‎ÿ‎ÿ‎ÿשÿשÿשÿסÿבÿֱÿ סÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסÿסûסûסûסûסûסûרקüק‏
+EI
+Q
+endstream
+endobj
+395 0 obj
+<<
+/Length 177
+>>
+stream
+26 0 1 -10 24 21 d1
+q
+23 0 0 31 1.1 -9.9 cm
+BI
+/W 23
+/H 31
+/BPC 1
+/IM true
+ID  >בÿ‡סÿֿסÿßסÿßרÿ¿רÿ¿üüü‏>ÿ‏>ÿÿÿÿÿÿÿÿ‹ÿÿ‹ÿÿַÿÿַÿÿַÿÿןÿÿןÿÿßÿÿßÿÿßÿÿ¿ÿ¿ÿÿÿ¼ÿÿֳÿÿ
+EI
+Q
+endstream
+endobj
+396 0 obj
+<<
+/Length 144
+>>
+stream
+22 0 1 0 19 21 d1
+q
+18 0 0 21 1.1 0.1 cm
+BI
+/W 18
+/H 21
+/BPC 1
+/IM true
+ID ְ ?ַüֿרßרÿסÿ¿דÿ¿ֳÿ¿ַÿÿÿÿÿ‏ÿ‏?ÿü¿רÿ¿נÿ¿סÿ?דÿַÿ‡‏ר  
+EI
+Q
+endstream
+endobj
+397 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+8 0 obj
+<<
+/Name /T16
+/Type /Font
+/Subtype /Type3
+/Resources 397 0 R
+/FontBBox [3 -10 38 34]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 44
+/LastChar 122
+/Encoding 398 0 R
+/CharProcs 399 0 R
+/Widths [15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 35 37 0 0 38 36 0 0 0 
+0 44 0 0 0 0 36 0 0 0 0 0 0 0 30 0 
+0 0 0 0 0 25 22 0 25 22 0 0 25 15 0 22 
+12 0 27 25 0 0 21 20 0 26 0 0 0 24 20 ]
+>>
+endobj
+398 0 obj
+<<
+/Type /Encoding
+/Differences [44/, 67/C /D 71/G /H 77/M 82/R 90/Z 97/a /b 100/d /e 104/h /i 107/k 
+/l 110/n /o 114/r /s 117/u 121/y /z ]
+>>
+endobj
+399 0 obj
+<<
+/, 400 0 R
+/C 401 0 R
+/D 402 0 R
+/G 403 0 R
+/H 404 0 R
+/M 405 0 R
+/R 406 0 R
+/Z 407 0 R
+/a 408 0 R
+/b 409 0 R
+/d 410 0 R
+/e 411 0 R
+/h 412 0 R
+/i 413 0 R
+/k 414 0 R
+/l 415 0 R
+/n 416 0 R
+/o 417 0 R
+/r 418 0 R
+/s 419 0 R
+/u 420 0 R
+/y 421 0 R
+/z 422 0 R
+>>
+endobj
+400 0 obj
+<<
+/Length 96
+>>
+stream
+15 0 3 -10 10 5 d1
+q
+7 0 0 15 3.1 -9.9 cm
+BI
+/W 7
+/H 15
+/BPC 1
+/IM true
+ID סבבבב‎‎ûûקקןß¿
+EI
+Q
+endstream
+endobj
+401 0 obj
+<<
+/Length 263
+>>
+stream
+35 0 7 -1 40 35 d1
+q
+33 0 0 36 7.1 -0.9 cm
+BI
+/W 33
+/H 36
+/BPC 1
+/IM true
+ID ÿÿ€ÿÿü~ÿÿסÿÿÿַÿ״ÿÿÿאÿÿÿסÿ‏?ÿסÿüÿסÿרÿÿסÿנÿÿûÿסÿÿûÿבÿÿûÿֳÿÿûÿֳÿÿקÿ‡ÿÿÿÿ‡ÿÿÿÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿßÿÿÿßÿÿÿ¿ÿÿÿ¿ÿÿÿÿÿÿÿÿ‏ÿÿַÿ‎ÿÿחÿûÿÿדÿקÿÿשÿֿÿÿü~?ÿÿÿÿÿÿ
+EI
+Q
+endstream
+endobj
+402 0 obj
+<<
+/Length 251
+>>
+stream
+37 0 3 0 38 34 d1
+q
+35 0 0 34 3.1 0.1 cm
+BI
+/W 35
+/H 34
+/BPC 1
+/IM true
+ID ÿ  ÿÿנÿֳÿÿנÿסÿÿנÿרÿÿבÿüÿבÿüÿבÿ‏?ÿבÿ‏?ÿֳÿ‏?ÿֳÿ‏ÿֳÿ‏ÿֳÿ‏ÿ‡ÿ‏ÿ‡ÿ‏ÿ‡ÿ‏ÿ‡ÿ‏ÿÿü?ÿÿü?ÿÿü?ÿÿü?‏ÿר‏ÿר‏ÿרÿ‏ÿנÿü?ÿסÿü?ÿדÿü?ÿֳÿü?ÿַÿרÿÿרÿÿר‏?ÿררÿÿנדÿÿ  ÿÿ
+EI
+Q
+endstream
+endobj
+403 0 obj
+<<
+/Length 263
+>>
+stream
+38 0 7 -1 40 35 d1
+q
+33 0 0 36 7.1 -0.9 cm
+BI
+/W 33
+/H 36
+/BPC 1
+/IM true
+ID ÿÿ€ÿÿü~ÿÿסÿÿÿַÿ״ÿÿÿאÿÿÿסÿ‏?ÿסÿüÿסÿרÿÿסÿנÿÿûÿסÿÿûÿבÿÿûÿֳÿÿûÿֳÿÿקÿ‡ÿÿÿÿ‡ÿÿÿÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿְÿÿ‏ÿÿ‏ÿÿ‏ÿÿü?ÿÿü?ÿÿü?ÿÿü?ÿÿרÿַÿרÿחÿנÿדÿלÿשÿÜÿÿü~>ÿÿÿÿÿÿ
+EI
+Q
+endstream
+endobj
+404 0 obj
+<<
+/Length 251
+>>
+stream
+36 0 3 0 41 34 d1
+q
+38 0 0 34 3.1 0.1 cm
+BI
+/W 38
+/H 34
+/BPC 1
+/IM true
+ID ÿ €ÿנÿרÿנÿרÿנÿרÿבÿנÿÿבÿנÿÿבÿנÿÿבÿנÿÿֳÿבÿÿֳÿבÿÿֳÿבÿÿֳÿבÿÿ‡ÿֳÿÿ‡ÿֳÿÿ‡ÿֳÿÿ‡ÿֳÿÿ  ÿÿÿ‡ÿÿÿ‡ÿÿÿ‡ÿ‏ÿÿ‏ÿÿ‏ÿÿ‏ÿÿü?‏ÿü?‏ÿü?‏ÿü?‏ÿרü?ÿרü?ÿרü?ÿרü?ÿנר?ÿ €ÿ
+EI
+Q
+endstream
+endobj
+405 0 obj
+<<
+/Length 285
+>>
+stream
+44 0 3 0 49 34 d1
+q
+46 0 0 34 3.1 0.1 cm
+BI
+/W 46
+/H 34
+/BPC 1
+/IM true
+ID ÿ ÿרÿנÿנÿנÿטÿנÿטÿטÿ׀ÿÿל?ÿ׀ÿÿל?ÿ°ÿÿל?ÿpÿÿÜ?ÿaÿÿÜ?‏בÿÿÜ?‏בÿÿÜ?‎בÿÿ¼?ûֳÿÿ¼?ûֳÿÿ¼?קֳÿÿ¾קֳÿÿ~ן‡ÿÿ~ß‡ÿÿ~ß‡ÿÿ~¿‡ÿ‏‏¿ÿ‏‏ÿ‏‏ÿÿ‏‏ÿÿ‎ÿ‏ÿ‎ÿ‏ÿ‎ÿ‏ÿ‎ÿ‏ÿûÿü?ÿûÿü?ÿûÿü?ÿףÿü?ÿבÿ?ר?ÿ ??€ÿ
+EI
+Q
+endstream
+endobj
+406 0 obj
+<<
+/Length 223
+>>
+stream
+36 0 3 -1 35 34 d1
+q
+32 0 0 35 3.1 -0.9 cm
+BI
+/W 32
+/H 35
+/BPC 1
+/IM true
+ID ÿ  ?ÿנÿÿנÿֳÿנÿדÿבÿסÿבÿסÿבÿנÿבÿנÿֳÿבÿֳÿבÿֳÿבÿֳÿֳÿ‡ÿַÿ‡ÿÿ‡‏ÿ‡רÿ ÿÿסÿÿרÿÿü‏ü?‏ü?‏ü?‏ü?ü?רü?רü?רü?ררנÿרנ‏רנ‏רר‎נר‎ üsÿÿÿ
+EI
+Q
+endstream
+endobj
+407 0 obj
+<<
+/Length 217
+>>
+stream
+30 0 3 0 34 34 d1
+q
+31 0 0 34 3.1 0.1 cm
+BI
+/W 31
+/H 34
+/BPC 1
+/IM true
+ID ÿ€ ÿÿבÿ‡ÿֳÿÿ‡ÿ?ÿÿ?‏ÿüÿü?‏ÿר‏ÿנÿ‏ÿבÿÿÿֳÿÿÿƒÿÿÿ‡ÿÿÿÿÿ‏ÿÿü?ÿÿרÿÿנÿÿנÿÿÿבÿÿÿֳÿ¿ÿ‡ÿ¿ÿÿ‏ÿ‏ÿü?‏ÿר‏ÿנÿüÿבÿשÿבÿשÿֳÿבÿ‡ÿƒÿ  ÿ
+EI
+Q
+endstream
+endobj
+408 0 obj
+<<
+/Length 144
+>>
+stream
+25 0 5 0 25 21 d1
+q
+20 0 0 21 5.1 0.1 cm
+BI
+/W 20
+/H 21
+/BPC 1
+/IM true
+ID ÿ?‏z?רת?סüסüדüֳüַרÿ‡רÿ‡רÿ‡רÿסÿסÿסÿסןדßדßֳßֿ£¿ֿs¿נר
+EI
+Q
+endstream
+endobj
+409 0 obj
+<<
+/Length 151
+>>
+stream
+22 0 5 0 21 35 d1
+q
+16 0 0 35 5.1 0.1 cm
+BI
+/W 16
+/H 35
+/BPC 1
+/IM true
+ID ü?ְüüüרÿרÿרÿרÿסÿסÿסÿסÿדÿדגףבסֳשַרַרַנננננבבבֳַַ־?אÿ
+EI
+Q
+endstream
+endobj
+410 0 obj
+<<
+/Length 186
+>>
+stream
+25 0 5 0 27 35 d1
+q
+22 0 0 35 5.1 0.1 cm
+BI
+/W 22
+/H 35
+/BPC 1
+/IM true
+ID ÿÿֳÿüÿÿַÿÿַÿÿַÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏?ÿ?‏z?רת?סüסüדüֳüַרÿ‡רÿ‡רÿ‡רÿסÿסÿסÿסןדßדßֳßֿ£¿ֿs¿נר
+EI
+Q
+endstream
+endobj
+411 0 obj
+<<
+/Length 123
+>>
+stream
+22 0 6 0 21 21 d1
+q
+15 0 0 21 6.1 0.1 cm
+BI
+/W 15
+/H 21
+/BPC 1
+/IM true
+ID ÿü{ס‎ד‎ֳ‎ַ‎‡ûח ÿÿÿÿÿÿ‎‎ûחֿנ
+EI
+Q
+endstream
+endobj
+412 0 obj
+<<
+/Length 186
+>>
+stream
+25 0 3 0 25 35 d1
+q
+22 0 0 35 3.1 0.1 cm
+BI
+/W 22
+/H 35
+/BPC 1
+/IM true
+ID ÿÿנÿÿÿÿÿÿÿ‏?ÿ‏?ÿ‏?ÿ‏?ÿüÿüÿüÿüÿרÿÿראÿרÞר??נÿנÿסÿסÿד‏?ד‏?ד‏?ד‏?ַüַüַüַרûרקסקסןשןשßü?
+EI
+Q
+endstream
+endobj
+413 0 obj
+<<
+/Length 147
+>>
+stream
+15 0 5 0 16 33 d1
+q
+11 0 0 33 5.1 0.1 cm
+BI
+/W 11
+/H 33
+/BPC 1
+/IM true
+ID ÿ?‏‏?‏?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿדÿÜÿ¼ÿ¼ÿxÿxÿxÿסÿסÿדÿדÿדÿַÿַÿַ¿ÿֽÿדÿ
+EI
+Q
+endstream
+endobj
+414 0 obj
+<<
+/Length 186
+>>
+stream
+22 0 3 0 23 35 d1
+q
+20 0 0 35 3.1 0.1 cm
+BI
+/W 20
+/H 35
+/BPC 1
+/IM true
+ID ÿÿנÿÿÿÿÿÿÿ‏?ÿ‏?ÿ‏?ÿ‏?ÿüÿüÿüÿüÿרÿÿר‏ר‎ןרףסןסןסßס¿ÿגÿבÿÿא?ÿדÿַַÿַַÿַדÿַדßַ¿ַ¿ַ¿חחנÿ
+EI
+Q
+endstream
+endobj
+415 0 obj
+<<
+/Length 151
+>>
+stream
+12 0 4 0 15 35 d1
+q
+11 0 0 35 4.1 0.1 cm
+BI
+/W 11
+/H 35
+/BPC 1
+/IM true
+ID ‏א?‏?‏?‏?üüüüרÿרÿרÿרÿסÿסÿסÿסÿדÿדÿדÿדÿַÿַÿַÿַÿÿÿÿÿÿÿÿÿ›ÿַÿ
+EI
+Q
+endstream
+endobj
+416 0 obj
+<<
+/Length 144
+>>
+stream
+27 0 5 0 27 21 d1
+q
+22 0 0 21 5.1 0.1 cm
+BI
+/W 22
+/H 21
+/BPC 1
+/IM true
+ID דנÿÙ־?¸¿?xxxÿxÿס‏?ס‏?ס‏?ס‏?דüדüדüדרûַרקַסקַסןַשןשßֿü?
+EI
+Q
+endstream
+endobj
+417 0 obj
+<<
+/Length 144
+>>
+stream
+25 0 5 0 24 21 d1
+q
+19 0 0 21 5.1 0.1 cm
+BI
+/W 19
+/H 21
+/BPC 1
+/IM true
+ID ÿÿ‏<ÿü~ר‏?ס‏?ד‏ֳ‏ַ‏‡‏‡‏‡‏ü?ü?üררÿסÿףÿֿחÿחÿר?ÿ
+EI
+Q
+endstream
+endobj
+418 0 obj
+<<
+/Length 144
+>>
+stream
+21 0 5 0 23 21 d1
+q
+18 0 0 21 5.1 0.1 cm
+BI
+/W 18
+/H 21
+/BPC 1
+/IM true
+ID דאÿÙß¸¾?x|?xü?x‏xÿÿסÿÿסÿÿסÿÿסÿÿדÿÿדÿÿדÿÿדÿÿַÿÿַÿÿַÿÿַÿÿÿÿֿÿÿ
+EI
+Q
+endstream
+endobj
+419 0 obj
+<<
+/Length 144
+>>
+stream
+20 0 3 0 20 21 d1
+q
+17 0 0 21 3.1 0.1 cm
+BI
+/W 17
+/H 21
+/BPC 1
+/IM true
+ID ÿÿ‏|ÿ‎ÿû‏ףüףüÿףÿÿנÿÿנÿרÿüÿÿֱÿÿנÿÿרÿרÿשÿשÿûÿ¿קÿßֿÿא?ÿ
+EI
+Q
+endstream
+endobj
+420 0 obj
+<<
+/Length 144
+>>
+stream
+26 0 5 0 26 21 d1
+q
+21 0 0 21 5.1 0.1 cm
+BI
+/W 21
+/H 21
+/BPC 1
+/IM true
+ID בÿÜÿ¼¼~?|~?x‏?x‏?רüסüסüסüדרÿדרÿדרÿדרקדסןחסןדסןדבßףÙßר<?
+EI
+Q
+endstream
+endobj
+421 0 obj
+<<
+/Length 177
+>>
+stream
+24 0 5 -10 25 21 d1
+q
+20 0 0 31 5.1 -9.9 cm
+BI
+/W 20
+/H 31
+/BPC 1
+/IM true
+ID בÿֿÜÿ¼¼|xÿxÿר‏?ס‏?ס‏?ס‏?דüדüדüדüדרÿדרÿדרÿדנÿףֱÿü1ÿÿסÿÿסÿÿדÿדÿַÿֿÿÿ?ÿ¼ÿֱÿÿ
+EI
+Q
+endstream
+endobj
+422 0 obj
+<<
+/Length 144
+>>
+stream
+20 0 3 0 22 21 d1
+q
+19 0 0 21 3.1 0.1 cm
+BI
+/W 19
+/H 21
+/BPC 1
+/IM true
+ID ‏ßüר?ûאק‏ÿק‎ÿÿûÿÿקÿÿןÿÿßÿÿ¿ÿÿÿ‏ÿÿ‎ÿÿûÿק‏ÿןüÿְשÿÿ¿ÿÿ
+EI
+Q
+endstream
+endobj
+423 0 obj
+<<
+/ProcSet [/PDF /ImageB ]
+>>
+endobj
+9 0 obj
+<<
+/Name /T17
+/Type /Font
+/Subtype /Type3
+/Resources 423 0 R
+/FontBBox [1 -10 27 34]
+/FontMatrix [1 0 0 -1 0 0]
+/FirstChar 65
+/LastChar 89
+/Encoding 424 0 R
+/CharProcs 425 0 R
+/Widths [42 0 40 43 37 35 0 44 21 0 0 34 53 44 42 38 
+42 42 31 39 43 0 0 0 42 ]
+>>
+endobj
+424 0 obj
+<<
+/Type /Encoding
+/Differences [65/A 67/C /D /E /F 72/H /I 76/L /M /N /O /P 
+/Q /R /S /T /U 89/Y ]
+>>
+endobj
+425 0 obj
+<<
+/A 426 0 R
+/C 427 0 R
+/D 428 0 R
+/E 429 0 R
+/F 430 0 R
+/H 431 0 R
+/I 432 0 R
+/L 433 0 R
+/M 434 0 R
+/N 435 0 R
+/O 436 0 R
+/P 437 0 R
+/Q 438 0 R
+/R 439 0 R
+/S 440 0 R
+/T 441 0 R
+/U 442 0 R
+/Y 443 0 R
+>>
+endobj
+426 0 obj
+<<
+/Length 251
+>>
+stream
+42 0 2 0 39 34 d1
+q
+37 0 0 34 2.1 0.1 cm
+BI
+/W 37
+/H 34
+/BPC 1
+/IM true
+ID ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿ‏ÿÿÿüÿÿÿüÿÿÿüÿÿÿש ÿÿÿש€ÿÿÿס€ÿÿףְÿÿףְÿÿחְ?ÿÿחא?ÿÿַאÿÿֿנÿÿֿנÿÿנÿÿרÿÿרÿÿ  ÿÿ  ÿ‏‏ÿ‏‏ÿü‏ÿüÿÿÿüÿÿÿשÿÿ€ÿשÿÿ€ÿ נ  נ 
+EI
+Q
+endstream
+endobj
+427 0 obj
+<<
+/Length 251
+>>
+stream
+40 0 3 0 36 34 d1
+q
+33 0 0 34 3.1 0.1 cm
+BI
+/W 33
+/H 34
+/BPC 1
+/IM true
+ID ÿüÿÿא ~ÿ ‏‏ÿְüÿאר?ÿננÿראÿרְÿÿüְÿÿü€ÿÿ‏ÿÿ‏ÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏€ÿÿ‏ְÿÿ‏ְÿÿüאÿüÿנÿüÿר?ÿשÿüÿףÿ‏ÿַÿÿ ÿÿÿא ?ÿÿüÿÿ
+EI
+Q
+endstream
+endobj
+428 0 obj
+<<
+/Length 251
+>>
+stream
+43 0 2 0 39 34 d1
+q
+37 0 0 34 2.1 0.1 cm
+BI
+/W 37
+/H 34
+/BPC 1
+/IM true
+ID    ÿ   ÿרüÿרÿÿרÿְÿרÿארÿנ?רÿררÿררÿררÿüרÿüרÿüרÿüרÿüרÿüרÿüרÿüרÿüרÿüרÿüרÿüרÿüרÿüרÿüרÿררÿררÿנ?רÿארÿְÿרÿÿרüÿ   ÿ   ÿ
+EI
+Q
+endstream
+endobj
+429 0 obj
+<<
+/Length 217
+>>
+stream
+37 0 2 0 34 34 d1
+q
+32 0 0 34 2.1 0.1 cm
+BI
+/W 32
+/H 34
+/BPC 1
+/IM true
+ID       רÿרÿֳרÿדרÿףרÿסרÿסרÿשרחשרחשרחשרחÿרַÿר‡ÿר ÿר ÿר‡ÿרַÿרחÿרחÿרחüרחüרÿüרÿשרÿשרÿשרÿסרÿסרÿברÿֱר‏      
+EI
+Q
+endstream
+endobj
+430 0 obj
+<<
+/Length 217
+>>
+stream
+35 0 2 0 32 34 d1
+q
+30 0 0 34 2.1 0.1 cm
+BI
+/W 30
+/H 34
+/BPC 1
+/IM true
+ID       ר‏רÿ‡רÿַרÿחרÿדרÿדרÿףרÿףרחףרחףרחÿרחÿרַÿר‡ÿר ÿר ÿר‡ÿרַÿרחÿרחÿרחÿרחÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿ  ÿ  ÿ
+EI
+Q
+endstream
+endobj
+431 0 obj
+<<
+/Length 251
+>>
+stream
+44 0 2 0 41 34 d1
+q
+39 0 0 34 2.1 0.1 cm
+BI
+/W 39
+/H 34
+/BPC 1
+/IM true
+ID   |   | רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?ר   ?ר   ?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?רÿא?  |   | 
+EI
+Q
+endstream
+endobj
+432 0 obj
+<<
+/Length 183
+>>
+stream
+21 0 1 0 20 34 d1
+q
+19 0 0 34 1.1 0.1 cm
+BI
+/W 19
+/H 34
+/BPC 1
+/IM true
+ID     üÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿüÿ    
+EI
+Q
+endstream
+endobj
+433 0 obj
+<<
+/Length 217
+>>
+stream
+34 0 2 0 31 34 d1
+q
+29 0 0 34 2.1 0.1 cm
+BI
+/W 29
+/H 34
+/BPC 1
+/IM true
+ID   ÿ  ÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿחרÿחרÿחרÿחרÿַרÿַרÿרÿרÿר‏רר      
+EI
+Q
+endstream
+endobj
+434 0 obj
+<<
+/Length 285
+>>
+stream
+53 0 2 0 50 34 d1
+q
+48 0 0 34 2.1 0.1 cm
+BI
+/W 48
+/H 34
+/BPC 1
+/IM true
+ID  ÿÿנ  ÿÿא רÿÿאשÿÿָשÿÿָשÿÿָשÿÿ˜שÿÿ˜שְÿÿ8שְÿÿ8שא‏xשא‏xשנ?üרשנ?üרשנ?üרשרשרשרשרשüףרשüףרש‏חרש‏חרש‏חרשÿֿרשÿֿרשÿרשÿרשÿְ?רשÿְ?רשÿארשÿארשÿארשÿנÿר נÿ   שÿ  
+EI
+Q
+endstream
+endobj
+435 0 obj
+<<
+/Length 251
+>>
+stream
+44 0 2 0 41 34 d1
+q
+39 0 0 34 2.1 0.1 cm
+BI
+/W 39
+/H 34
+/BPC 1
+/IM true
+ID  ÿא ÿארÿÿ?רÿÿ?ש ÿÿ?ש€ÿ?שְ?ÿ?שאÿ?שנÿ?שנÿ?שרÿ?שüÿ?ש‏ÿ?שÿÿ?שÿ ÿ?שÿ€?שÿְ??שÿא?שÿנ?שÿר?שÿר?שÿü?שÿ‏?שÿÿ ?שÿÿ€?שÿÿ€?שÿÿְ?שÿÿא?שÿÿנ?שÿÿר?שÿÿü?שÿÿü? ÿ‏? ÿÿ?
+EI
+Q
+endstream
+endobj
+436 0 obj
+<<
+/Length 251
+>>
+stream
+42 0 3 0 38 34 d1
+q
+35 0 0 34 3.1 0.1 cm
+BI
+/W 35
+/H 34
+/BPC 1
+/IM true
+ID ÿרÿÿÿְ ÿÿרÿü‏ÿרÿÿנ?ÿÿאÿְÿאÿְÿְÿÿאְÿÿא€ÿÿא?ÿÿנ?ÿÿנ?ÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנ?€ÿÿא?€ÿÿא?ְÿÿאְÿְאÿְÿנ?ÿÿרÿÿü‏ÿÿרÿÿְ ÿÿרÿÿ
+EI
+Q
+endstream
+endobj
+437 0 obj
+<<
+/Length 217
+>>
+stream
+38 0 2 0 34 34 d1
+q
+32 0 0 34 2.1 0.1 cm
+BI
+/W 32
+/H 34
+/BPC 1
+/IM true
+ID    ÿ   ררר‏רÿרÿרÿרÿ€רÿ€רÿ€רÿ€רÿ€רÿרÿרÿר‏ררר  ר  ÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿרÿÿ  ÿ  ÿ
+EI
+Q
+endstream
+endobj
+438 0 obj
+<<
+/Length 304
+>>
+stream
+42 0 3 -10 38 34 d1
+q
+35 0 0 44 3.1 -9.9 cm
+BI
+/W 35
+/H 44
+/BPC 1
+/IM true
+ID ÿרÿÿÿְ ÿÿרÿü‏ÿרÿÿנ?ÿÿאÿְÿאÿְÿְÿÿאְÿÿא€ÿÿא?ÿÿנ?ÿÿנ?ÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנÿÿנ?€ÿÿא?€ÿÿא?ְÿÿאְ~ְא|ְÿנ8ףÿרשÿü	רÿÿ רÿÿְ ÿÿר ßÿÿüßÿÿ‏?ßÿÿ‏ÿÿ‏ ÿÿ‏ ?ÿÿÿ ?ÿÿÿ ?ÿÿÿ€ÿÿÿ€ÿÿÿÿבÿ
+EI
+Q
+endstream
+endobj
+439 0 obj
+<<
+/Length 251
+>>
+stream
+42 0 2 0 41 34 d1
+q
+39 0 0 34 2.1 0.1 cm
+BI
+/W 39
+/H 34
+/BPC 1
+/IM true
+ID   ÿÿ   ?ÿררÿר‏ÿרÿÿרÿÿרÿ€ÿרÿ€ÿרÿ€ÿרÿ€ÿרÿ€ÿרÿ€ÿרÿÿרÿÿר‏ÿררÿר  ?ÿר  ÿרנÿררÿרüÿר‏ÿר‏ÿר‏ÿר‏ÿר‏ÿר‏ÿר‏ÿר‏ÿר‏שרÿשרÿ ף  ְ  נ
+EI
+Q
+endstream
+endobj
+440 0 obj
+<<
+/Length 183
+>>
+stream
+31 0 3 0 27 34 d1
+q
+24 0 0 34 3.1 0.1 cm
+BI
+/W 24
+/H 34
+/BPC 1
+/IM true
+ID ‏ûר sאüֳÿƒƒÿֳ‡ÿד‡ÿדÿףÿףÿףÿÿ ÿÿ ÿ€ ÿ€ ?ְ א נ ü ÿְÿü ÿÿ€ÿÿְÿÿְ?ÿא?ÿא?ÿאÿבÿבÿֳÿֳ ÿ8  
+EI
+Q
+endstream
+endobj
+441 0 obj
+<<
+/Length 251
+>>
+stream
+39 0 2 0 36 34 d1
+q
+34 0 0 34 2.1 0.1 cm
+BI
+/W 34
+/H 34
+/BPC 1
+/IM true
+ID €   €   üנ‡üרüüü‏ü‏?ü‏??üÿ??üÿ??üÿ??üÿ?ÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿÿüÿÿü  ÿü  ÿ
+EI
+Q
+endstream
+endobj
+442 0 obj
+<<
+/Length 251
+>>
+stream
+43 0 2 0 40 34 d1
+q
+38 0 0 34 2.1 0.1 cm
+BI
+/W 38
+/H 34
+/BPC 1
+/IM true
+ID   ְ  ְרÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏רÿ‏üÿüÿüÿüÿ‏ÿשÿÿÿסÿÿÿדÿÿְÿÿנ ÿÿ‏ ÿÿ
+EI
+Q
+endstream
+endobj
+443 0 obj
+<<
+/Length 251
+>>
+stream
+42 0 1 0 40 34 d1
+q
+39 0 0 34 1.1 0.1 cm
+BI
+/W 39
+/H 34
+/BPC 1
+/IM true
+ID   נ  נרÿÿ?רÿ‏?üÿ‏‏ÿüÿ‏ÿרÿÿ ÿשÿÿ ÿףÿÿ€דÿÿְ?חÿÿְ?ֿÿÿאÿÿנÿÿנÿÿר?ÿÿüÿÿü ÿÿ‏ ÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿא ÿÿא ÿ
+EI
+Q
+endstream
+endobj
+16 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /Times-Roman
+>>
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 11 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Type /Page
+/Parent 11 0 R
+/Resources 15 0 R
+/Contents 14 0 R
+>>
+endobj
+22 0 obj
+<<
+/Type /Page
+/Parent 11 0 R
+/Resources 24 0 R
+/Contents 23 0 R
+>>
+endobj
+32 0 obj
+<<
+/Type /Page
+/Parent 11 0 R
+/Resources 34 0 R
+/Contents 33 0 R
+>>
+endobj
+11 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R 13 0 R 22 0 R 32 0 R]
+/Count 4
+/MediaBox [0 0 612 792]
+>>
+endobj
+444 0 obj
+<<
+/Type /Catalog
+/Pages 11 0 R
+>>
+endobj
+445 0 obj
+<<
+/CreationDate (D:19991120143048)
+/Producer (Acrobat Distiller 4.0 for Windows)
+>>
+endobj
+xref
+0 446
+0000000000 65535 f 
+0000176134 00000 n 
+0000000016 00000 n 
+0000017827 00000 n 
+0000116881 00000 n 
+0000124589 00000 n 
+0000143038 00000 n 
+0000155154 00000 n 
+0000163875 00000 n 
+0000170132 00000 n 
+0000088199 00000 n 
+0000176467 00000 n 
+0000017978 00000 n 
+0000176215 00000 n 
+0000018394 00000 n 
+0000035476 00000 n 
+0000176034 00000 n 
+0000102300 00000 n 
+0000103749 00000 n 
+0000104503 00000 n 
+0000107378 00000 n 
+0000114468 00000 n 
+0000176299 00000 n 
+0000035652 00000 n 
+0000063924 00000 n 
+0000088318 00000 n 
+0000088805 00000 n 
+0000089277 00000 n 
+0000089793 00000 n 
+0000091775 00000 n 
+0000098672 00000 n 
+0000088061 00000 n 
+0000176383 00000 n 
+0000064190 00000 n 
+0000087852 00000 n 
+0000088271 00000 n 
+0000088522 00000 n 
+0000088582 00000 n 
+0000088614 00000 n 
+0000088758 00000 n 
+0000089005 00000 n 
+0000089063 00000 n 
+0000089095 00000 n 
+0000089230 00000 n 
+0000089480 00000 n 
+0000089539 00000 n 
+0000089571 00000 n 
+0000089746 00000 n 
+0000090200 00000 n 
+0000090297 00000 n 
+0000090391 00000 n 
+0000090566 00000 n 
+0000090767 00000 n 
+0000090992 00000 n 
+0000091185 00000 n 
+0000091378 00000 n 
+0000091553 00000 n 
+0000091728 00000 n 
+0000092237 00000 n 
+0000092434 00000 n 
+0000092806 00000 n 
+0000093008 00000 n 
+0000093175 00000 n 
+0000093342 00000 n 
+0000093482 00000 n 
+0000093612 00000 n 
+0000093742 00000 n 
+0000093917 00000 n 
+0000094060 00000 n 
+0000094223 00000 n 
+0000094425 00000 n 
+0000094627 00000 n 
+0000094792 00000 n 
+0000094957 00000 n 
+0000095118 00000 n 
+0000095279 00000 n 
+0000095481 00000 n 
+0000095642 00000 n 
+0000095821 00000 n 
+0000095998 00000 n 
+0000096200 00000 n 
+0000096353 00000 n 
+0000096529 00000 n 
+0000096718 00000 n 
+0000096893 00000 n 
+0000097054 00000 n 
+0000097249 00000 n 
+0000097444 00000 n 
+0000097605 00000 n 
+0000097766 00000 n 
+0000097939 00000 n 
+0000098114 00000 n 
+0000098289 00000 n 
+0000098450 00000 n 
+0000098625 00000 n 
+0000099044 00000 n 
+0000099142 00000 n 
+0000099257 00000 n 
+0000099417 00000 n 
+0000099701 00000 n 
+0000099985 00000 n 
+0000100376 00000 n 
+0000100765 00000 n 
+0000101112 00000 n 
+0000101655 00000 n 
+0000102252 00000 n 
+0000102555 00000 n 
+0000102638 00000 n 
+0000102731 00000 n 
+0000102890 00000 n 
+0000103049 00000 n 
+0000103215 00000 n 
+0000103379 00000 n 
+0000103545 00000 n 
+0000103701 00000 n 
+0000103998 00000 n 
+0000104064 00000 n 
+0000104111 00000 n 
+0000104247 00000 n 
+0000104455 00000 n 
+0000104886 00000 n 
+0000104998 00000 n 
+0000105165 00000 n 
+0000105333 00000 n 
+0000105469 00000 n 
+0000105671 00000 n 
+0000105856 00000 n 
+0000106041 00000 n 
+0000106189 00000 n 
+0000106371 00000 n 
+0000106539 00000 n 
+0000106686 00000 n 
+0000106853 00000 n 
+0000107009 00000 n 
+0000107163 00000 n 
+0000107330 00000 n 
+0000107837 00000 n 
+0000108035 00000 n 
+0000108392 00000 n 
+0000108627 00000 n 
+0000108809 00000 n 
+0000108991 00000 n 
+0000109173 00000 n 
+0000109408 00000 n 
+0000109643 00000 n 
+0000109848 00000 n 
+0000109979 00000 n 
+0000110121 00000 n 
+0000110323 00000 n 
+0000110561 00000 n 
+0000110799 00000 n 
+0000111037 00000 n 
+0000111275 00000 n 
+0000111539 00000 n 
+0000111777 00000 n 
+0000112015 00000 n 
+0000112227 00000 n 
+0000112465 00000 n 
+0000112677 00000 n 
+0000112941 00000 n 
+0000113127 00000 n 
+0000113293 00000 n 
+0000113528 00000 n 
+0000113712 00000 n 
+0000113898 00000 n 
+0000114056 00000 n 
+0000114254 00000 n 
+0000114420 00000 n 
+0000114905 00000 n 
+0000115004 00000 n 
+0000115132 00000 n 
+0000115269 00000 n 
+0000115401 00000 n 
+0000115589 00000 n 
+0000115818 00000 n 
+0000116030 00000 n 
+0000116240 00000 n 
+0000116450 00000 n 
+0000116620 00000 n 
+0000116833 00000 n 
+0000117284 00000 n 
+0000117466 00000 n 
+0000117874 00000 n 
+0000118016 00000 n 
+0000118150 00000 n 
+0000118281 00000 n 
+0000118493 00000 n 
+0000118705 00000 n 
+0000118943 00000 n 
+0000119155 00000 n 
+0000119367 00000 n 
+0000119579 00000 n 
+0000119843 00000 n 
+0000120081 00000 n 
+0000120293 00000 n 
+0000120505 00000 n 
+0000120717 00000 n 
+0000120883 00000 n 
+0000121069 00000 n 
+0000121235 00000 n 
+0000121447 00000 n 
+0000121613 00000 n 
+0000121850 00000 n 
+0000122055 00000 n 
+0000122267 00000 n 
+0000122424 00000 n 
+0000122582 00000 n 
+0000122780 00000 n 
+0000122962 00000 n 
+0000123128 00000 n 
+0000123333 00000 n 
+0000123515 00000 n 
+0000123681 00000 n 
+0000123847 00000 n 
+0000124027 00000 n 
+0000124193 00000 n 
+0000124375 00000 n 
+0000124541 00000 n 
+0000125141 00000 n 
+0000125509 00000 n 
+0000126495 00000 n 
+0000126733 00000 n 
+0000126945 00000 n 
+0000127157 00000 n 
+0000127369 00000 n 
+0000127607 00000 n 
+0000127765 00000 n 
+0000128021 00000 n 
+0000128164 00000 n 
+0000128375 00000 n 
+0000128586 00000 n 
+0000128826 00000 n 
+0000128968 00000 n 
+0000129102 00000 n 
+0000129233 00000 n 
+0000129443 00000 n 
+0000129625 00000 n 
+0000129807 00000 n 
+0000129989 00000 n 
+0000130171 00000 n 
+0000130353 00000 n 
+0000130535 00000 n 
+0000130717 00000 n 
+0000130901 00000 n 
+0000131083 00000 n 
+0000131265 00000 n 
+0000131411 00000 n 
+0000131585 00000 n 
+0000131823 00000 n 
+0000132035 00000 n 
+0000132247 00000 n 
+0000132459 00000 n 
+0000132671 00000 n 
+0000132883 00000 n 
+0000133121 00000 n 
+0000133333 00000 n 
+0000133519 00000 n 
+0000133705 00000 n 
+0000133943 00000 n 
+0000134155 00000 n 
+0000134393 00000 n 
+0000134605 00000 n 
+0000134843 00000 n 
+0000135055 00000 n 
+0000135323 00000 n 
+0000135561 00000 n 
+0000135747 00000 n 
+0000135985 00000 n 
+0000136197 00000 n 
+0000136435 00000 n 
+0000136699 00000 n 
+0000136937 00000 n 
+0000137108 00000 n 
+0000137266 00000 n 
+0000137436 00000 n 
+0000137572 00000 n 
+0000137706 00000 n 
+0000137872 00000 n 
+0000138084 00000 n 
+0000138250 00000 n 
+0000138462 00000 n 
+0000138628 00000 n 
+0000138814 00000 n 
+0000138998 00000 n 
+0000139210 00000 n 
+0000139393 00000 n 
+0000139596 00000 n 
+0000139808 00000 n 
+0000139991 00000 n 
+0000140189 00000 n 
+0000140371 00000 n 
+0000140537 00000 n 
+0000140742 00000 n 
+0000140947 00000 n 
+0000141113 00000 n 
+0000141279 00000 n 
+0000141459 00000 n 
+0000141641 00000 n 
+0000141823 00000 n 
+0000142021 00000 n 
+0000142203 00000 n 
+0000142408 00000 n 
+0000142574 00000 n 
+0000142708 00000 n 
+0000142849 00000 n 
+0000142990 00000 n 
+0000143523 00000 n 
+0000143755 00000 n 
+0000144352 00000 n 
+0000144564 00000 n 
+0000144701 00000 n 
+0000144834 00000 n 
+0000145016 00000 n 
+0000145222 00000 n 
+0000145428 00000 n 
+0000145634 00000 n 
+0000145840 00000 n 
+0000146046 00000 n 
+0000146284 00000 n 
+0000146522 00000 n 
+0000146760 00000 n 
+0000146998 00000 n 
+0000147236 00000 n 
+0000147448 00000 n 
+0000147686 00000 n 
+0000147924 00000 n 
+0000148110 00000 n 
+0000148322 00000 n 
+0000148586 00000 n 
+0000148824 00000 n 
+0000149062 00000 n 
+0000149300 00000 n 
+0000149538 00000 n 
+0000149750 00000 n 
+0000149988 00000 n 
+0000150226 00000 n 
+0000150464 00000 n 
+0000150649 00000 n 
+0000150861 00000 n 
+0000151046 00000 n 
+0000151258 00000 n 
+0000151443 00000 n 
+0000151655 00000 n 
+0000151866 00000 n 
+0000152078 00000 n 
+0000152264 00000 n 
+0000152450 00000 n 
+0000152669 00000 n 
+0000152854 00000 n 
+0000153039 00000 n 
+0000153247 00000 n 
+0000153455 00000 n 
+0000153623 00000 n 
+0000153791 00000 n 
+0000153973 00000 n 
+0000154158 00000 n 
+0000154343 00000 n 
+0000154545 00000 n 
+0000154730 00000 n 
+0000154938 00000 n 
+0000155106 00000 n 
+0000155556 00000 n 
+0000155752 00000 n 
+0000156149 00000 n 
+0000156297 00000 n 
+0000156429 00000 n 
+0000156667 00000 n 
+0000156867 00000 n 
+0000157105 00000 n 
+0000157343 00000 n 
+0000157581 00000 n 
+0000157855 00000 n 
+0000158129 00000 n 
+0000158399 00000 n 
+0000158669 00000 n 
+0000158939 00000 n 
+0000159141 00000 n 
+0000159411 00000 n 
+0000159715 00000 n 
+0000160026 00000 n 
+0000160270 00000 n 
+0000160540 00000 n 
+0000160737 00000 n 
+0000160976 00000 n 
+0000161173 00000 n 
+0000161370 00000 n 
+0000161574 00000 n 
+0000161813 00000 n 
+0000162015 00000 n 
+0000162219 00000 n 
+0000162458 00000 n 
+0000162655 00000 n 
+0000162852 00000 n 
+0000163028 00000 n 
+0000163204 00000 n 
+0000163400 00000 n 
+0000163630 00000 n 
+0000163827 00000 n 
+0000164266 00000 n 
+0000164426 00000 n 
+0000164702 00000 n 
+0000164850 00000 n 
+0000165166 00000 n 
+0000165470 00000 n 
+0000165786 00000 n 
+0000166090 00000 n 
+0000166428 00000 n 
+0000166704 00000 n 
+0000166974 00000 n 
+0000167171 00000 n 
+0000167375 00000 n 
+0000167614 00000 n 
+0000167790 00000 n 
+0000168029 00000 n 
+0000168229 00000 n 
+0000168468 00000 n 
+0000168672 00000 n 
+0000168869 00000 n 
+0000169066 00000 n 
+0000169263 00000 n 
+0000169460 00000 n 
+0000169657 00000 n 
+0000169887 00000 n 
+0000170084 00000 n 
+0000170406 00000 n 
+0000170526 00000 n 
+0000170747 00000 n 
+0000171051 00000 n 
+0000171355 00000 n 
+0000171659 00000 n 
+0000171929 00000 n 
+0000172199 00000 n 
+0000172503 00000 n 
+0000172739 00000 n 
+0000173009 00000 n 
+0000173347 00000 n 
+0000173651 00000 n 
+0000173955 00000 n 
+0000174225 00000 n 
+0000174582 00000 n 
+0000174886 00000 n 
+0000175122 00000 n 
+0000175426 00000 n 
+0000175730 00000 n 
+0000176570 00000 n 
+0000176622 00000 n 
+trailer
+<<
+/Size 446
+/Root 444 0 R
+/Info 445 0 R
+/ID [<80be34573f8482f02b8bef065663c6c4><80be34573f8482f02b8bef065663c6c4>]
+>>
+startxref
+176724
+%%EOF
